@@ -5,11 +5,12 @@ import pathlib
 import functools
 import requests
 from git import Repo
+import os
 import tools
 
 
 def jcdecaux(city):
-    api_key = "644ba49840f4c1021dfa661e67c3c9bfeb41b88e"
+    api_key = os.environ["JCDECAUX_API_KEY"]
     url = f"https://api.jcdecaux.com/vls/v1/stations?contract={city}&apiKey={api_key}"
     r = requests.get(url)
     r.raise_for_status()
