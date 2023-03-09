@@ -1,3 +1,4 @@
+import argparse
 import concurrent.futures
 import datetime as dt
 import logging
@@ -51,6 +52,11 @@ city_funcs = {
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--commit', default=False, action=argparse.BooleanOptionalAction)
+    parser.add_argument('--push', default=False, action=argparse.BooleanOptionalAction)
+    args = parser.parse_args()
+
     here = pathlib.Path(__file__).parent
     cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
 
@@ -72,11 +78,15 @@ def main():
         except Exception as exc:
             logging.exception(f"❌ {city}: {exc}")
 
-    repo = Repo(here)
-    repo.git.add(here / "data" / "stations")
-    repo.index.commit(
-        f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
-    )
+    if args.commit:
+        repo = Repo(here)
+        repo.git.add(here / "data" / "stations")
+        repo.index.commit(
+            f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
+        )
+        if args.push:
+            origin = repo.remote(name='origin')
+            origin.push()
 
 
 if __name__ == "__main__":

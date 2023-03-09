@@ -1,6 +1,20 @@
+## Development
+
 ```sh
 pyenv install -v 3.10
-curl -sSL https://install.python-poetry.org | python3 -
-poetry install
-poetry shell
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Deployment
+
+```sh
+make login
+make build
+make push
+```
+
+```sh
+k9s
 ```

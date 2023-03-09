@@ -129,8 +129,8 @@
     },
     {
         "address": "RUE DE LA REPUBLIQUE",
-        "available_bike_stands": 8,
-        "available_bikes": 12,
+        "available_bike_stands": 7,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
@@ -209,8 +209,8 @@
     },
     {
         "address": "AVENUE JACQUES CHASTELLAIN - PARKING DE LA PATINOIRE",
-        "available_bike_stands": 6,
-        "available_bikes": 14,
+        "available_bike_stands": 7,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,

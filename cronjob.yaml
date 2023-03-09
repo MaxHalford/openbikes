@@ -1,0 +1,50 @@
+#!/usr/bin/env k8sh
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: openbikes
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: stations
+  namespace: openbikes
+spec:
+  schedule: "*/5 * * * *" # Every 5 minutes
+  startingDeadlineSeconds: 300 # 5 minutes
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          hostNetwork: true
+          restartPolicy: OnFailure
+          containers:
+            - name: stations
+              image: ghcr.io/MaxHalford/openbikes:latest
+              imagePullPolicy: Always
+              command:
+                - python
+                - /bin/fetch_stations.py --commit
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: chess-daily-puzzle
+  namespace: thermal-printer
+spec:
+  schedule: "TZ=Europe/Paris 13 12 * * *" # 10h13 UTC = 12h13 Paris
+  startingDeadlineSeconds: 36000 # 10 hours
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          hostNetwork: true
+          restartPolicy: OnFailure
+          containers:
+            - name: chess-daily-puzzle
+              image: ghcr.io/jzck/thermal-printer:latest
+              imagePullPolicy: Always
+              command:
+                - python
+                - /bin/chess.py
