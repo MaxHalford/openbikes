@@ -1457,8 +1457,8 @@
     },
     {
         "address": "Royal Hospital",
-        "available_bike_stands": 6,
-        "available_bikes": 33,
+        "available_bike_stands": 7,
+        "available_bikes": 32,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
@@ -1729,8 +1729,8 @@
     },
     {
         "address": "North Circular Road (O'Connell's)",
-        "available_bike_stands": 10,
-        "available_bikes": 20,
+        "available_bike_stands": 9,
+        "available_bikes": 21,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
