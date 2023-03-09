@@ -41,7 +41,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "santander",
-        "last_update": 1678394504000,
+        "last_update": 1678395112000,
         "name": "003_PARQUE LAS LLAMAS",
         "number": 3,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "santander",
-        "last_update": 1678394494000,
+        "last_update": 1678395102000,
         "name": "006_FACULDAD DE CIENCIAS",
         "number": 6,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "santander",
-        "last_update": 1678394561000,
+        "last_update": 1678395167000,
         "name": "010_PLAZA DE SAN MARTIN",
         "number": 10,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "santander",
-        "last_update": 1678394545000,
+        "last_update": 1678395154000,
         "name": "013_CALLE DE SAN FERNANDO",
         "number": 13,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "santander",
-        "last_update": 1678394531000,
+        "last_update": 1678395139000,
         "name": "017_RUCANDIAL",
         "number": 17,
         "position": {

@@ -239,13 +239,13 @@
     },
     {
         "address": "Place Aristide Briand",
-        "available_bike_stands": 14,
-        "available_bikes": 3,
+        "available_bike_stands": 15,
+        "available_bikes": 2,
         "banking": false,
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678395063000,
+        "last_update": 1678395185000,
         "name": "015-ARISTIDE BRIAND",
         "number": 15,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394485000,
+        "last_update": 1678395091000,
         "name": "016-\u00c9DOUARD NORMAND",
         "number": 16,
         "position": {
@@ -324,13 +324,13 @@
     },
     {
         "address": "7, all\u00e9e du Port Maillard - Cours Franklin Roosevelt",
-        "available_bike_stands": 9,
-        "available_bikes": 6,
+        "available_bike_stands": 8,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394518000,
+        "last_update": 1678395105000,
         "name": "020-BOUFFAY",
         "number": 20,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394483000,
+        "last_update": 1678395088000,
         "name": "021-TALENSAC SUD",
         "number": 21,
         "position": {
@@ -551,7 +551,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394505000,
+        "last_update": 1678395109000,
         "name": "034-M\u00c9DIATH\u00c8QUE",
         "number": 34,
         "position": {
@@ -585,7 +585,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394509000,
+        "last_update": 1678395113000,
         "name": "036-ALGER",
         "number": 36,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394578000,
+        "last_update": 1678395183000,
         "name": "039-QUAI MONCOUSU",
         "number": 39,
         "position": {
@@ -902,13 +902,13 @@
     },
     {
         "address": "11, rue de Belfort",
-        "available_bike_stands": 9,
-        "available_bikes": 8,
+        "available_bike_stands": 8,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394644000,
+        "last_update": 1678395177000,
         "name": "055-MAGELLAN",
         "number": 55,
         "position": {
@@ -1282,7 +1282,7 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394575000,
+        "last_update": 1678395180000,
         "name": "077-\u00c9COLE D'ARCHITECTURE",
         "number": 77,
         "position": {
@@ -1344,13 +1344,13 @@
     },
     {
         "address": "Devant le 8, place Mangin",
-        "available_bike_stands": 9,
-        "available_bikes": 5,
+        "available_bike_stands": 8,
+        "available_bikes": 6,
         "banking": false,
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678395019000,
+        "last_update": 1678395190000,
         "name": "081-MANGIN",
         "number": 81,
         "position": {
@@ -1616,13 +1616,13 @@
     },
     {
         "address": "Place du 51\u00e8me R\u00e9giment d'Artillerie",
-        "available_bike_stands": 10,
-        "available_bikes": 10,
+        "available_bike_stands": 11,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394683000,
+        "last_update": 1678395149000,
         "name": "097-SAINT DONATIEN",
         "number": 97,
         "position": {
@@ -1741,7 +1741,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394501000,
+        "last_update": 1678395107000,
         "name": "104-ANTILLES",
         "number": 104,
         "position": {
@@ -1809,7 +1809,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394551000,
+        "last_update": 1678395157000,
         "name": "108-BONNE GARDE",
         "number": 108,
         "position": {
@@ -1860,7 +1860,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394684000,
+        "last_update": 1678395134000,
         "name": "111-DIDEROT",
         "number": 111,
         "position": {
@@ -1877,7 +1877,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394477000,
+        "last_update": 1678395082000,
         "name": "112-P\u00d4LE SOCIAL MARION CAHOUR",
         "number": 112,
         "position": {
@@ -1945,7 +1945,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394492000,
+        "last_update": 1678395097000,
         "name": "116-LIBERT\u00c9",
         "number": 116,
         "position": {
@@ -1962,7 +1962,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394496000,
+        "last_update": 1678395101000,
         "name": "117-MAIRIE DE CHANTENAY",
         "number": 117,
         "position": {
@@ -2081,7 +2081,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "nantes",
-        "last_update": 1678394576000,
+        "last_update": 1678395181000,
         "name": "124-PAS ENCHANT\u00c9S",
         "number": 124,
         "position": {

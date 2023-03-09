@@ -52,13 +52,13 @@
     },
     {
         "address": "15 RUE SAINTE-URSULE",
-        "available_bike_stands": 14,
-        "available_bikes": 6,
+        "available_bike_stands": 15,
+        "available_bikes": 5,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394499000,
+        "last_update": 1678395108000,
         "name": "00004 - SAINTE-URSULE",
         "number": 4,
         "position": {
@@ -256,13 +256,13 @@
     },
     {
         "address": "32 BD DE STRASBOURG",
-        "available_bike_stands": 19,
-        "available_bikes": 2,
+        "available_bike_stands": 18,
+        "available_bikes": 3,
         "banking": true,
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394949000,
+        "last_update": 1678395164000,
         "name": "00016 - STRASBOURG - BAYARD",
         "number": 16,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394549000,
+        "last_update": 1678395157000,
         "name": "00017 - STRASBOURG - SARDANE",
         "number": 17,
         "position": {
@@ -313,7 +313,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394529000,
+        "last_update": 1678395137000,
         "name": "00019 - CARNOT - SEPT TROUBADOURS",
         "number": 19,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394504000,
+        "last_update": 1678395111000,
         "name": "00022 - CARNOT - PLACE ROLAND",
         "number": 22,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394569000,
+        "last_update": 1678395178000,
         "name": "00023 - COMBATTANTS",
         "number": 23,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394528000,
+        "last_update": 1678395135000,
         "name": "00032 - MUSEE SAINT-RAYMOND",
         "number": 32,
         "position": {
@@ -772,7 +772,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394506000,
+        "last_update": 1678395113000,
         "name": "00046 - PLACE DES CARMES",
         "number": 46,
         "position": {
@@ -806,7 +806,7 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394480000,
+        "last_update": 1678395087000,
         "name": "00048 - PLACE DU SALIN",
         "number": 48,
         "position": {
@@ -851,13 +851,13 @@
     },
     {
         "address": "1 BD ARMAND DUPORTAL",
-        "available_bike_stands": 6,
-        "available_bikes": 12,
+        "available_bike_stands": 5,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394758000,
+        "last_update": 1678395117000,
         "name": "00051 - DUPORTAL - BRIENNE",
         "number": 51,
         "position": {
@@ -959,7 +959,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678395048000,
+        "last_update": 1678395077000,
         "name": "00057 - MERLY - ARCOLE",
         "number": 57,
         "position": {
@@ -993,7 +993,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394850000,
+        "last_update": 1678395191000,
         "name": "00059 - CONCORDE",
         "number": 59,
         "position": {
@@ -1316,7 +1316,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394513000,
+        "last_update": 1678395121000,
         "name": "00079 - PLACE LANGE",
         "number": 79,
         "position": {
@@ -1435,7 +1435,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394549000,
+        "last_update": 1678395156000,
         "name": "00086 - HERACLES - BEARNAIS",
         "number": 86,
         "position": {
@@ -1486,7 +1486,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394508000,
+        "last_update": 1678395115000,
         "name": "00089 - ESP COMPANS-CAFFARELLI",
         "number": 89,
         "position": {
@@ -1497,13 +1497,13 @@
     },
     {
         "address": "3B BD LASCROSSES",
-        "available_bike_stands": 5,
-        "available_bikes": 20,
+        "available_bike_stands": 4,
+        "available_bikes": 21,
         "banking": true,
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678395061000,
+        "last_update": 1678395121000,
         "name": "00090 - LASCROSSES - PLACE ARNAUD BERNARD",
         "number": 90,
         "position": {
@@ -1605,7 +1605,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394516000,
+        "last_update": 1678395124000,
         "name": "00096 - MEDIATHEQUE",
         "number": 96,
         "position": {
@@ -1639,7 +1639,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394487000,
+        "last_update": 1678395094000,
         "name": "00098 - PONT DES DEMOISELLES",
         "number": 98,
         "position": {
@@ -1843,7 +1843,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394495000,
+        "last_update": 1678395145000,
         "name": "00110 - CABANEL - SERRES",
         "number": 110,
         "position": {
@@ -1911,7 +1911,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394464000,
+        "last_update": 1678395073000,
         "name": "00114 - MONTPLAISIR - CANAL",
         "number": 114,
         "position": {
@@ -1945,7 +1945,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394569000,
+        "last_update": 1678395177000,
         "name": "00116 - SAINT-MICHEL - NOTRE DAME",
         "number": 116,
         "position": {
@@ -1990,13 +1990,13 @@
     },
     {
         "address": "129 ALL DE BRIENNE",
-        "available_bike_stands": 3,
-        "available_bikes": 21,
+        "available_bike_stands": 4,
+        "available_bikes": 20,
         "banking": true,
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394489000,
+        "last_update": 1678395139000,
         "name": "00119 - BRIENNE - CHAPOU",
         "number": 119,
         "position": {
@@ -2075,13 +2075,13 @@
     },
     {
         "address": "27 AV DES MINIMES",
-        "available_bike_stands": 7,
-        "available_bikes": 12,
+        "available_bike_stands": 6,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678395063000,
+        "last_update": 1678395102000,
         "name": "00124 - EGLISE DES MINIMES",
         "number": 124,
         "position": {
@@ -2217,7 +2217,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394551000,
+        "last_update": 1678395159000,
         "name": "00132 - MINIMES - BAQUE",
         "number": 132,
         "position": {
@@ -2404,7 +2404,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394522000,
+        "last_update": 1678395129000,
         "name": "00143 - DESBALS - SAINTONGE",
         "number": 143,
         "position": {
@@ -2421,7 +2421,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394493000,
+        "last_update": 1678395101000,
         "name": "00144 - SUISSE - LAUSANE",
         "number": 144,
         "position": {
@@ -2540,7 +2540,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394472000,
+        "last_update": 1678395080000,
         "name": "00151 - CURIE - NEGRENEYS",
         "number": 151,
         "position": {
@@ -2557,7 +2557,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394580000,
+        "last_update": 1678395188000,
         "name": "00152 - MAZADES",
         "number": 152,
         "position": {
@@ -2642,7 +2642,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394491000,
+        "last_update": 1678395098000,
         "name": "00157 - URSS - PEYROUSET",
         "number": 157,
         "position": {
@@ -2727,7 +2727,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394521000,
+        "last_update": 1678395129000,
         "name": "00162 - PLACE D'ITALIE",
         "number": 162,
         "position": {
@@ -2778,7 +2778,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394494000,
+        "last_update": 1678395101000,
         "name": "00165 - PLACE DES AVIONS",
         "number": 165,
         "position": {
@@ -2795,7 +2795,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394759000,
+        "last_update": 1678395087000,
         "name": "00166 - METRO RANGUEIL - GUYOU",
         "number": 166,
         "position": {
@@ -2948,7 +2948,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394484000,
+        "last_update": 1678395092000,
         "name": "00175 - METRO BORDEROUGE - MAUNOURY",
         "number": 175,
         "position": {
@@ -3016,7 +3016,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394563000,
+        "last_update": 1678395170000,
         "name": "00179 - CASSAING - PLANA",
         "number": 179,
         "position": {
@@ -3050,7 +3050,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394490000,
+        "last_update": 1678395098000,
         "name": "00181 - PLANA - GARNIER",
         "number": 181,
         "position": {
@@ -3101,7 +3101,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394520000,
+        "last_update": 1678395127000,
         "name": "00184 - MICHOUN",
         "number": 184,
         "position": {
@@ -3288,7 +3288,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394502000,
+        "last_update": 1678395109000,
         "name": "00195 - LARROUSSE - RIEUX",
         "number": 195,
         "position": {
@@ -3356,7 +3356,7 @@
         "bike_stands": 22,
         "bonus": true,
         "contract_name": "toulouse",
-        "last_update": 1678394498000,
+        "last_update": 1678395105000,
         "name": "00199 - DELTOUR - RIEUX",
         "number": 199,
         "position": {
@@ -3441,7 +3441,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394503000,
+        "last_update": 1678395110000,
         "name": "00205 - COTTAGE - RIEUX",
         "number": 205,
         "position": {
@@ -3543,7 +3543,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394469000,
+        "last_update": 1678395077000,
         "name": "00211 - LE DORMEUR - LA TERRASSE",
         "number": 211,
         "position": {
@@ -3560,7 +3560,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394513000,
+        "last_update": 1678395121000,
         "name": "00212 - CHAUMIERE - CHIRAC",
         "number": 212,
         "position": {
@@ -3628,7 +3628,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394555000,
+        "last_update": 1678395162000,
         "name": "00216 - ARGOULETS - HOUDON",
         "number": 216,
         "position": {
@@ -3662,7 +3662,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394532000,
+        "last_update": 1678395141000,
         "name": "00218 - AMOUROUX - SAINTE-AUGUSTINE",
         "number": 218,
         "position": {
@@ -3815,7 +3815,7 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394530000,
+        "last_update": 1678395138000,
         "name": "00227 - METRO UPS - TELEO",
         "number": 227,
         "position": {
@@ -4410,7 +4410,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394515000,
+        "last_update": 1678395123000,
         "name": "00262 - ROND POINT CHEMIN DE BORDEROUGE",
         "number": 262,
         "position": {
@@ -4529,7 +4529,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394485000,
+        "last_update": 1678395094000,
         "name": "00269 - PLACE SAUVEGRAIN",
         "number": 269,
         "position": {
@@ -4546,7 +4546,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394583000,
+        "last_update": 1678395190000,
         "name": "00270 - SILVIO TRENTIN",
         "number": 270,
         "position": {
@@ -4614,7 +4614,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394472000,
+        "last_update": 1678395080000,
         "name": "00274 - GALLIENI",
         "number": 274,
         "position": {
@@ -4699,7 +4699,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "toulouse",
-        "last_update": 1678394548000,
+        "last_update": 1678395156000,
         "name": "00279 - GUY ESPAGNO",
         "number": 279,
         "position": {

@@ -75,7 +75,7 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394546000,
+        "last_update": 1678395154000,
         "name": "05 - ISEMBART",
         "number": 5,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394500000,
+        "last_update": 1678395120000,
         "name": "06 - MICAUD (CB)",
         "number": 6,
         "position": {
@@ -409,13 +409,13 @@
     },
     {
         "address": "2 rue Morand",
-        "available_bike_stands": 8,
-        "available_bikes": 4,
+        "available_bike_stands": 7,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394966000,
+        "last_update": 1678395190000,
         "name": "25 - MORAND",
         "number": 25,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394487000,
+        "last_update": 1678395096000,
         "name": "26 - BERSOT",
         "number": 26,
         "position": {
@@ -466,7 +466,7 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678394550000,
+        "last_update": 1678395159000,
         "name": "28 - LECLERC",
         "number": 28,
         "position": {

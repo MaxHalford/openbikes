@@ -41,7 +41,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394600000,
+        "last_update": 1678395205000,
         "name": "003_PUERTA DE LA BARQUETA",
         "number": 3,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394476000,
+        "last_update": 1678395081000,
         "name": "008_CALLE AMERICO VESPUCIO",
         "number": 8,
         "position": {
@@ -143,7 +143,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394441000,
+        "last_update": 1678395046000,
         "name": "009_CAMINO DE LOS DESCUBRIMIENTOS",
         "number": 9,
         "position": {
@@ -177,7 +177,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394454000,
+        "last_update": 1678395059000,
         "name": "011_ALBERTO JIM\u00c9NEZ BECERRIL",
         "number": 11,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394525000,
+        "last_update": 1678395130000,
         "name": "012_PLAZA DUQUESA DE ALBA",
         "number": 12,
         "position": {
@@ -205,13 +205,13 @@
     },
     {
         "address": "CALLE FERIA - Aprox. C/ Resolana",
-        "available_bike_stands": 12,
-        "available_bikes": 3,
+        "available_bike_stands": 11,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394570000,
+        "last_update": 1678395085000,
         "name": "013_CALLE FERIA",
         "number": 13,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394461000,
+        "last_update": 1678395065000,
         "name": "015_CALLE DR MARA\u00d1ON",
         "number": 15,
         "position": {
@@ -256,13 +256,13 @@
     },
     {
         "address": "CALLE DE MANUEL VILLALOBOS - Aprox. C/ Sor Francisca Dorotea",
-        "available_bike_stands": 11,
-        "available_bikes": 9,
+        "available_bike_stands": 10,
+        "available_bikes": 10,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394910000,
+        "last_update": 1678395155000,
         "name": "016_CALLE DE MANUEL VILLALOBOS",
         "number": 16,
         "position": {
@@ -307,13 +307,13 @@
     },
     {
         "address": "PARLAMENTO - Aprox. C/ Don Fadrique",
-        "available_bike_stands": 15,
+        "available_bike_stands": 16,
         "available_bikes": 4,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678395040000,
+        "last_update": 1678395194000,
         "name": "019_PARLAMENTO",
         "number": 19,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394485000,
+        "last_update": 1678395090000,
         "name": "020_CALLE SAN JUAN DE RIBERA",
         "number": 20,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394468000,
+        "last_update": 1678395073000,
         "name": "024_CALLE LE\u00d3N XIII",
         "number": 24,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394485000,
+        "last_update": 1678395091000,
         "name": "027_AVENIDA DE LLANES",
         "number": 27,
         "position": {
@@ -443,13 +443,13 @@
     },
     {
         "address": "CALLE RAFAEL SALGADO - Aprox. C/ Castillo Alcala de Guadaira",
-        "available_bike_stands": 11,
-        "available_bikes": 7,
+        "available_bike_stands": 12,
+        "available_bikes": 6,
         "banking": false,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394659000,
+        "last_update": 1678395221000,
         "name": "028_CALLE RAFAEL SALGADO",
         "number": 28,
         "position": {
@@ -494,13 +494,13 @@
     },
     {
         "address": "AVENIDA DE MIRAFLORES - Aprox. C/ Albaida",
-        "available_bike_stands": 6,
-        "available_bikes": 6,
+        "available_bike_stands": 5,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394837000,
+        "last_update": 1678395110000,
         "name": "031_AVENIDA DE MIRAFLORES",
         "number": 31,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394551000,
+        "last_update": 1678395156000,
         "name": "033_CALLE LE\u00d3N XIII",
         "number": 33,
         "position": {
@@ -545,13 +545,13 @@
     },
     {
         "address": "PLAZA PUMAREJO - Aprox. Calle San Luis",
-        "available_bike_stands": 7,
-        "available_bikes": 8,
+        "available_bike_stands": 8,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394734000,
+        "last_update": 1678395117000,
         "name": "034_PLAZA PUMAREJO",
         "number": 34,
         "position": {
@@ -568,7 +568,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394592000,
+        "last_update": 1678395197000,
         "name": "035_ALAMEDA DE HERCULES",
         "number": 35,
         "position": {
@@ -602,7 +602,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394509000,
+        "last_update": 1678395113000,
         "name": "037_ALAMEDA DE H\u00c9RCULES",
         "number": 37,
         "position": {
@@ -619,7 +619,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394577000,
+        "last_update": 1678395183000,
         "name": "038_CALLE DE INCA GARCILASO",
         "number": 38,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394596000,
+        "last_update": 1678395201000,
         "name": "039_PLAZA SAN ANTONIO DE PADUA",
         "number": 39,
         "position": {
@@ -704,7 +704,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394494000,
+        "last_update": 1678395098000,
         "name": "043_RONDA CAPUCHINOS",
         "number": 43,
         "position": {
@@ -715,13 +715,13 @@
     },
     {
         "address": "RONDA CAPUCHINOS - Aprox. C/ Corinto",
-        "available_bike_stands": 4,
-        "available_bikes": 10,
+        "available_bike_stands": 2,
+        "available_bikes": 12,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394919000,
+        "last_update": 1678395190000,
         "name": "044_RONDA CAPUCHINOS",
         "number": 44,
         "position": {
@@ -738,7 +738,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394609000,
+        "last_update": 1678395214000,
         "name": "045_CARRETERA DE CARMONA",
         "number": 45,
         "position": {
@@ -772,7 +772,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394482000,
+        "last_update": 1678395088000,
         "name": "047_CALLE HINIESTA",
         "number": 47,
         "position": {
@@ -800,13 +800,13 @@
     },
     {
         "address": "ALAMEDA DE HERCULES - Aprox. C/ Amor de Dios",
-        "available_bike_stands": 9,
-        "available_bikes": 9,
+        "available_bike_stands": 8,
+        "available_bikes": 10,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394897000,
+        "last_update": 1678395196000,
         "name": "049_ALAMEDA DE HERCULES",
         "number": 49,
         "position": {
@@ -925,7 +925,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394463000,
+        "last_update": 1678395068000,
         "name": "056_PLAZA JER\u00d3NIMO DE CORDOBA",
         "number": 56,
         "position": {
@@ -976,7 +976,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394448000,
+        "last_update": 1678395054000,
         "name": "059_AVENIDA DE LA PALMERA",
         "number": 59,
         "position": {
@@ -993,7 +993,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394494000,
+        "last_update": 1678395100000,
         "name": "060_PLAZA DE LA CONCORDIA",
         "number": 60,
         "position": {
@@ -1078,7 +1078,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394619000,
+        "last_update": 1678395224000,
         "name": "065_CALLE ALH\u00d3NDIGA",
         "number": 65,
         "position": {
@@ -1123,13 +1123,13 @@
     },
     {
         "address": "CALLE JUAN ANTONIO CABESTANY - Aprox. Calle J\u00fapiter",
-        "available_bike_stands": 7,
-        "available_bikes": 8,
+        "available_bike_stands": 6,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394639000,
+        "last_update": 1678395139000,
         "name": "068_CALLE JUAN ANTONIO CABESTANY",
         "number": 68,
         "position": {
@@ -1140,13 +1140,13 @@
     },
     {
         "address": "CALLE JOSE LAGUILLO - Aprox. Pablo Iglesias",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 6,
+        "available_bikes": 14,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394804000,
+        "last_update": 1678395086000,
         "name": "069_CALLE JOSE LAGUILLO",
         "number": 69,
         "position": {
@@ -1265,7 +1265,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394587000,
+        "last_update": 1678395193000,
         "name": "076_PLAZA NUEVA",
         "number": 76,
         "position": {
@@ -1327,13 +1327,13 @@
     },
     {
         "address": "CALLE LUIS MONTOTO - Aprox. C/ Alberto Duero",
-        "available_bike_stands": 14,
-        "available_bikes": 4,
+        "available_bike_stands": 13,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394907000,
+        "last_update": 1678395076000,
         "name": "080_CALLE LUIS MONTOTO",
         "number": 80,
         "position": {
@@ -1395,13 +1395,13 @@
     },
     {
         "address": "CALLE JOS\u00c9 MAR\u00cdA MORENO GALV\u00c1N - Aprox. C/ Juan Antonio Cabestany",
-        "available_bike_stands": 9,
-        "available_bikes": 11,
+        "available_bike_stands": 10,
+        "available_bikes": 10,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394527000,
+        "last_update": 1678395167000,
         "name": "084_CALLE JOS\u00c9 MAR\u00cdA MORENO GALV\u00c1N",
         "number": 84,
         "position": {
@@ -1435,7 +1435,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394494000,
+        "last_update": 1678395098000,
         "name": "086_CAMINO DE LOS DESCUBRIMIENTOS",
         "number": 86,
         "position": {
@@ -1469,7 +1469,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394538000,
+        "last_update": 1678395143000,
         "name": "088_CALLE AMERICO VESPUCIO",
         "number": 88,
         "position": {
@@ -1503,7 +1503,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394553000,
+        "last_update": 1678395158000,
         "name": "090_CALLE ROMA",
         "number": 90,
         "position": {
@@ -1514,13 +1514,13 @@
     },
     {
         "address": "CALLE PROCURADOR - Clara de Jes\u00fas Monteto",
-        "available_bike_stands": 5,
-        "available_bikes": 14,
+        "available_bike_stands": 4,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394511000,
+        "last_update": 1678395191000,
         "name": "091_CALLE PROCURADOR",
         "number": 91,
         "position": {
@@ -1531,13 +1531,13 @@
     },
     {
         "address": "RONDA DE TRIANA - Aprox. C/ de Manuel Arellano",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 4,
+        "available_bikes": 16,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394733000,
+        "last_update": 1678395089000,
         "name": "092_RONDA DE TRIANA",
         "number": 92,
         "position": {
@@ -1554,7 +1554,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394484000,
+        "last_update": 1678395089000,
         "name": "093_RONDA DE TRIANA",
         "number": 93,
         "position": {
@@ -1571,7 +1571,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394500000,
+        "last_update": 1678395105000,
         "name": "094_PLAZA DEL ZURRAQUE",
         "number": 94,
         "position": {
@@ -1639,7 +1639,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678395004000,
+        "last_update": 1678395194000,
         "name": "098_AVENIDA DE ROMA",
         "number": 98,
         "position": {
@@ -1667,13 +1667,13 @@
     },
     {
         "address": "PASEO CATALINA RIBERA - Aprox. C/ San Fernando",
-        "available_bike_stands": 16,
-        "available_bikes": 4,
+        "available_bike_stands": 18,
+        "available_bikes": 2,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394502000,
+        "last_update": 1678395179000,
         "name": "100_PASEO CATALINA RIBERA",
         "number": 100,
         "position": {
@@ -1690,7 +1690,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394491000,
+        "last_update": 1678395096000,
         "name": "101_PRADO DE SAN SEBASTIAN",
         "number": 101,
         "position": {
@@ -1735,13 +1735,13 @@
     },
     {
         "address": "AVENIDA EDUARDO DATO - Aprox. C/ Fuenteovejuna",
-        "available_bike_stands": 8,
-        "available_bikes": 12,
+        "available_bike_stands": 7,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394604000,
+        "last_update": 1678395067000,
         "name": "104_AVENIDA EDUARDO DATO",
         "number": 104,
         "position": {
@@ -1826,7 +1826,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394539000,
+        "last_update": 1678395145000,
         "name": "111_PZA FARMAC\u00c9UTICO MURILLO HERRERA",
         "number": 111,
         "position": {
@@ -1928,7 +1928,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394553000,
+        "last_update": 1678395159000,
         "name": "117_AVDA ESPERANZA DE TRIANA",
         "number": 117,
         "position": {
@@ -1939,13 +1939,13 @@
     },
     {
         "address": "PLAZA DE CUBA - Aprox. Puente de San Telmo",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 4,
+        "available_bikes": 16,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678395038000,
+        "last_update": 1678395079000,
         "name": "118_PLAZA DE CUBA",
         "number": 118,
         "position": {
@@ -1962,7 +1962,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394607000,
+        "last_update": 1678395212000,
         "name": "119_AVENIDA DE CHILE",
         "number": 119,
         "position": {
@@ -1979,7 +1979,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394549000,
+        "last_update": 1678395155000,
         "name": "120_GLORIETA SAN DIEGO",
         "number": 120,
         "position": {
@@ -1996,7 +1996,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394578000,
+        "last_update": 1678395183000,
         "name": "121_CALLE DOCTOR PEDRO DE CASTRO",
         "number": 121,
         "position": {
@@ -2013,7 +2013,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394554000,
+        "last_update": 1678395160000,
         "name": "122_CALLE ENRAMADILLA",
         "number": 122,
         "position": {
@@ -2081,7 +2081,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394602000,
+        "last_update": 1678395207000,
         "name": "127_CALLE VIRGEN DE LA VICTORIA",
         "number": 127,
         "position": {
@@ -2109,13 +2109,13 @@
     },
     {
         "address": "CALLE VIRGEN DE LUJAN - Aprox. Virgen de la Victoria",
-        "available_bike_stands": 14,
-        "available_bikes": 6,
+        "available_bike_stands": 12,
+        "available_bikes": 8,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394590000,
+        "last_update": 1678395113000,
         "name": "129_CALLE VIRGEN DE LUJAN",
         "number": 129,
         "position": {
@@ -2149,7 +2149,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394460000,
+        "last_update": 1678395065000,
         "name": "131_CALLE TABLADILLA",
         "number": 131,
         "position": {
@@ -2160,13 +2160,13 @@
     },
     {
         "address": "CALLE PAEZ DE RIVERA - Aprox. Paseo de la Palmera",
-        "available_bike_stands": 16,
-        "available_bikes": 3,
+        "available_bike_stands": 15,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394716000,
+        "last_update": 1678395197000,
         "name": "132_CALLE PAEZ DE RIVERA",
         "number": 132,
         "position": {
@@ -2200,7 +2200,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394510000,
+        "last_update": 1678395116000,
         "name": "134_CALLE VIRGEN DE LUJ\u00c1N",
         "number": 134,
         "position": {
@@ -2217,7 +2217,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394483000,
+        "last_update": 1678395088000,
         "name": "135_CALLE VIRGEN DE LUJ\u00c1N",
         "number": 135,
         "position": {
@@ -2302,7 +2302,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394477000,
+        "last_update": 1678395082000,
         "name": "141_CALLE FELIPE II",
         "number": 141,
         "position": {
@@ -2319,7 +2319,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394593000,
+        "last_update": 1678395199000,
         "name": "142_CALLE RAMON DE CARRANZA",
         "number": 142,
         "position": {
@@ -2336,7 +2336,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394489000,
+        "last_update": 1678395095000,
         "name": "143_CALLE RAMON DE CARRANZA",
         "number": 143,
         "position": {
@@ -2387,7 +2387,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394557000,
+        "last_update": 1678395163000,
         "name": "146_AVENIDA REINA MERCEDES",
         "number": 146,
         "position": {
@@ -2421,7 +2421,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394447000,
+        "last_update": 1678395053000,
         "name": "148_CALLE THARSIS",
         "number": 148,
         "position": {
@@ -2523,7 +2523,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394528000,
+        "last_update": 1678395133000,
         "name": "154_AVENIDA KANSAS CITY",
         "number": 154,
         "position": {
@@ -2540,7 +2540,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394503000,
+        "last_update": 1678395108000,
         "name": "155_AVENIDA KANSAS CITY",
         "number": 155,
         "position": {
@@ -2574,7 +2574,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394561000,
+        "last_update": 1678395166000,
         "name": "157_AVENIDA CARDENAL BUENO MONREAL",
         "number": 157,
         "position": {
@@ -2591,7 +2591,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394923000,
+        "last_update": 1678395220000,
         "name": "158_AVENIDA CARDENAL BUENO MONREAL",
         "number": 158,
         "position": {
@@ -2625,7 +2625,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394462000,
+        "last_update": 1678395067000,
         "name": "160_PASEO CRISTOBAL COLON",
         "number": 160,
         "position": {
@@ -2636,13 +2636,13 @@
     },
     {
         "address": "AVENIDA ALCALDE MANUEL DEL VALLE - Aprox. C/ Baltasar de Alc\u00e1zar",
-        "available_bike_stands": 5,
-        "available_bikes": 14,
+        "available_bike_stands": 4,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394696000,
+        "last_update": 1678395145000,
         "name": "161_AVENIDA ALCALDE MANUEL DEL VALLE",
         "number": 161,
         "position": {
@@ -2659,7 +2659,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394493000,
+        "last_update": 1678395098000,
         "name": "162_AVENIDA SOLEA",
         "number": 162,
         "position": {
@@ -2676,7 +2676,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394479000,
+        "last_update": 1678395084000,
         "name": "163_CALLE SINA\u00cd",
         "number": 163,
         "position": {
@@ -2778,7 +2778,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394615000,
+        "last_update": 1678395221000,
         "name": "169_AVENIDA RAM\u00d3N Y CAJAL",
         "number": 169,
         "position": {
@@ -2846,7 +2846,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394554000,
+        "last_update": 1678395159000,
         "name": "173_RONDA TAMARGUILLO",
         "number": 173,
         "position": {
@@ -2959,13 +2959,13 @@
     },
     {
         "address": "CALLE DOCTOR JAIME MARCOS - Aprox. Avda. Doc. Fedriani",
-        "available_bike_stands": 14,
-        "available_bikes": 6,
+        "available_bike_stands": 13,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678393809000,
+        "last_update": 1678395119000,
         "name": "180_CALLE DOCTOR JAIME MARCOS",
         "number": 180,
         "position": {
@@ -2982,7 +2982,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394562000,
+        "last_update": 1678395166000,
         "name": "181_RONDA URBANA NORTE",
         "number": 181,
         "position": {
@@ -2999,7 +2999,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394605000,
+        "last_update": 1678395210000,
         "name": "182_CALLE VICTORIA KENT",
         "number": 182,
         "position": {
@@ -3033,7 +3033,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394541000,
+        "last_update": 1678395145000,
         "name": "184_AVENIDA ALCALDE MANUEL DEL VALLE",
         "number": 184,
         "position": {
@@ -3050,7 +3050,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394613000,
+        "last_update": 1678395219000,
         "name": "185_AVENIDA ALCALDE MANUEL DEL VALLE",
         "number": 185,
         "position": {
@@ -3135,7 +3135,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394564000,
+        "last_update": 1678395169000,
         "name": "191_GLORIETA CARLOS CANO",
         "number": 191,
         "position": {
@@ -3305,7 +3305,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394513000,
+        "last_update": 1678395119000,
         "name": "201_CALLE PINO MONTANO",
         "number": 201,
         "position": {
@@ -3339,7 +3339,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394529000,
+        "last_update": 1678395134000,
         "name": "203_CALLE TESAL\u00d3NICA",
         "number": 203,
         "position": {
@@ -3424,7 +3424,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394471000,
+        "last_update": 1678395076000,
         "name": "208_AVENIDA DE GRECIA",
         "number": 208,
         "position": {
@@ -3543,7 +3543,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394472000,
+        "last_update": 1678395078000,
         "name": "215_CALLE ZORZAL",
         "number": 215,
         "position": {
@@ -3577,7 +3577,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394548000,
+        "last_update": 1678395153000,
         "name": "217_CALLE DE LA A.D.A.",
         "number": 217,
         "position": {
@@ -3662,7 +3662,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394523000,
+        "last_update": 1678395128000,
         "name": "223_CALLE GEMA",
         "number": 223,
         "position": {
@@ -3679,7 +3679,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394500000,
+        "last_update": 1678395105000,
         "name": "224_AVENIDA DE LAS CIENCIAS",
         "number": 224,
         "position": {
@@ -3696,7 +3696,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394458000,
+        "last_update": 1678395064000,
         "name": "225_CALLE FLOR DE RETAMA",
         "number": 225,
         "position": {
@@ -3713,7 +3713,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394589000,
+        "last_update": 1678395195000,
         "name": "226_AVENIDA DOCTOR EMILIO LEMOS",
         "number": 226,
         "position": {
@@ -3730,7 +3730,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394476000,
+        "last_update": 1678395081000,
         "name": "227_AVENIDA ALCALDE LUIS URU\u00d1UELA",
         "number": 227,
         "position": {
@@ -3832,7 +3832,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394583000,
+        "last_update": 1678395189000,
         "name": "233_AVENIDA ALCALDE LUIS URU\u00d1UELA",
         "number": 233,
         "position": {
@@ -3860,13 +3860,13 @@
     },
     {
         "address": "CIUDAD DE CHIVA - Aprox. C/ ciudad de Alfajar",
-        "available_bike_stands": 9,
-        "available_bikes": 6,
+        "available_bike_stands": 10,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678395029000,
+        "last_update": 1678395083000,
         "name": "235_CIUDAD DE CHIVA",
         "number": 235,
         "position": {
@@ -3883,7 +3883,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394539000,
+        "last_update": 1678395145000,
         "name": "236_CIUDAD DE CHIVA",
         "number": 236,
         "position": {
@@ -3951,7 +3951,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394569000,
+        "last_update": 1678395174000,
         "name": "240_AVENIDA ALCALDE LUIS URU\u00d1UELA",
         "number": 240,
         "position": {
@@ -4002,7 +4002,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394467000,
+        "last_update": 1678395072000,
         "name": "243_GLORIETA DEL PRIMERO DE MAYO",
         "number": 243,
         "position": {
@@ -4053,7 +4053,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394545000,
+        "last_update": 1678395150000,
         "name": "246_PUERTO DE LOS AZORES",
         "number": 246,
         "position": {
@@ -4104,7 +4104,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394446000,
+        "last_update": 1678395051000,
         "name": "249_CALLE NAVARRA",
         "number": 249,
         "position": {
@@ -4223,7 +4223,7 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394560000,
+        "last_update": 1678395166000,
         "name": "256_MIGUEL MONTORO",
         "number": 256,
         "position": {
@@ -4240,7 +4240,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394489000,
+        "last_update": 1678395095000,
         "name": "257_TORRES ALBARRACIN",
         "number": 257,
         "position": {
@@ -4257,7 +4257,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394440000,
+        "last_update": 1678395045000,
         "name": "258_ESTACA DE VARES",
         "number": 258,
         "position": {
@@ -4325,7 +4325,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "seville",
-        "last_update": 1678394500000,
+        "last_update": 1678395105000,
         "name": "262_AVDA DE DINAMARCA",
         "number": 262,
         "position": {

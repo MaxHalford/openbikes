@@ -7,7 +7,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394756000,
+        "last_update": 1678395115000,
         "name": "LUNDS CENTRAL",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394565000,
+        "last_update": 1678395170000,
         "name": "BANTORGET",
         "number": 2,
         "position": {
@@ -41,7 +41,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394559000,
+        "last_update": 1678395164000,
         "name": "STADSPARKEN NORR",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394566000,
+        "last_update": 1678395171000,
         "name": "STORTORGET",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394601000,
+        "last_update": 1678395207000,
         "name": "M\u00c5RTENSTORGET",
         "number": 5,
         "position": {
@@ -143,7 +143,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394550000,
+        "last_update": 1678395155000,
         "name": "UNIVERSITETSSJUKHUSET",
         "number": 9,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394534000,
+        "last_update": 1678395139000,
         "name": "IDEON S\u00d6DER",
         "number": 14,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394550000,
+        "last_update": 1678395155000,
         "name": "PROFESSORSGATAN",
         "number": 16,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394449000,
+        "last_update": 1678395054000,
         "name": "FYSIOLOGEN",
         "number": 17,
         "position": {

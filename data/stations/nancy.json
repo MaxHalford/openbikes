@@ -69,13 +69,13 @@
     },
     {
         "address": "Rue Drouin - Face au n\u00b02",
-        "available_bike_stands": 14,
-        "available_bikes": 2,
+        "available_bike_stands": 13,
+        "available_bikes": 3,
         "banking": false,
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394986000,
+        "last_update": 1678395112000,
         "name": "00005 - PLACE COLONEL DRIANT",
         "number": 5,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394523000,
+        "last_update": 1678395131000,
         "name": "00008 - COURS LEOPOLD - SAINT MICHEL",
         "number": 8,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394476000,
+        "last_update": 1678395081000,
         "name": "00010 - GARE THIERS (CB)",
         "number": 10,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394502000,
+        "last_update": 1678395110000,
         "name": "00020 - PLACE DES VOSGES",
         "number": 20,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394498000,
+        "last_update": 1678395105000,
         "name": "00025 - PLACE COMMANDERIE",
         "number": 25,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394472000,
+        "last_update": 1678395081000,
         "name": "00026 - BAUDRICOURT HAUSSONVILLE",
         "number": 26,
         "position": {
@@ -500,7 +500,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395056000,
+        "last_update": 1678395143000,
         "name": "00031 - ARTEM",
         "number": 31,
         "position": {

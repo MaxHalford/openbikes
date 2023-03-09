@@ -120,13 +120,13 @@
     },
     {
         "address": "RUE ARMAND CARREL",
-        "available_bike_stands": 9,
-        "available_bikes": 11,
+        "available_bike_stands": 8,
+        "available_bikes": 12,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678395020000,
+        "last_update": 1678395154000,
         "name": "08- SAINT MARC",
         "number": 8,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678394531000,
+        "last_update": 1678395138000,
         "name": "13- SAINT SEVER",
         "number": 13,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678394496000,
+        "last_update": 1678395105000,
         "name": "16-ILE LACROIX",
         "number": 16,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678394493000,
+        "last_update": 1678395100000,
         "name": "18 - DOCKS",
         "number": 18,
         "position": {

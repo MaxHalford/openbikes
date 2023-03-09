@@ -1,13 +1,13 @@
 [
     {
         "address": "Gosposvetska cesta 69",
-        "available_bike_stands": 3,
-        "available_bikes": 19,
+        "available_bike_stands": 1,
+        "available_bikes": 21,
         "banking": false,
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394800000,
+        "last_update": 1678395124000,
         "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
         "number": 1,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394612000,
+        "last_update": 1678395217000,
         "name": "LJUBLJANSKA UL. - II. GIMNAZIJA",
         "number": 15,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394449000,
+        "last_update": 1678395054000,
         "name": "DVORANA TABOR",
         "number": 22,
         "position": {

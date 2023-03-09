@@ -52,13 +52,13 @@
     },
     {
         "address": "\u65b0\u5bcc\u753a\uff11\u4e01\u76ee\uff12\u756a\uff14\u53f7 1-2-4 Shintomi-cho",
-        "available_bike_stands": 8,
-        "available_bikes": 11,
+        "available_bike_stands": 10,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "toyama",
-        "last_update": 1678394950000,
+        "last_update": 1678395171000,
         "name": "\u5bcc\u5c71\u99c5\u5357\u2461 TOYAMA STATION SOUTH 2",
         "number": 4,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "toyama",
-        "last_update": 1678394549000,
+        "last_update": 1678395158000,
         "name": "\u5824\u753a\u901a\u308a TSUTSUMICHO STREET",
         "number": 15,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "toyama",
-        "last_update": 1678394508000,
+        "last_update": 1678395119000,
         "name": "\u5bcc\u5c71\u5927\u5b66\u69cb\u5185\u3000TOYAMA UNIVERSITY CAMPUS",
         "number": 21,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "toyama",
-        "last_update": 1678394511000,
+        "last_update": 1678395120000,
         "name": "\u6c11\u4fd7\u6c11\u82b8\u6751\u3000MUNICIPAL FOLKCRAFT VILLAGE",
         "number": 23,
         "position": {
