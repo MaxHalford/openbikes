@@ -25,16 +25,16 @@ spec:
               imagePullPolicy: Always
               command:
                 - python
-                - /bin/fetch_stations.py --commit
+                - /bin/fetch_stations.py --commit --push
 ---
 apiVersion: batch/v1
 kind: CronJob
 metadata:
-  name: chess-daily-puzzle
-  namespace: thermal-printer
+  name: weather
+  namespace: openbikes
 spec:
-  schedule: "TZ=Europe/Paris 13 12 * * *" # 10h13 UTC = 12h13 Paris
-  startingDeadlineSeconds: 36000 # 10 hours
+  schedule: "0 * * * *" # Every 5 minutes
+  startingDeadlineSeconds: 1800 # 30 minutes
   jobTemplate:
     spec:
       template:
@@ -42,9 +42,9 @@ spec:
           hostNetwork: true
           restartPolicy: OnFailure
           containers:
-            - name: chess-daily-puzzle
-              image: ghcr.io/jzck/thermal-printer:latest
+            - name: weather
+              image: ghcr.io/MaxHalford/openbikes:latest
               imagePullPolicy: Always
               command:
                 - python
-                - /bin/chess.py
+                - /bin/fetch_weather.py --commit --push
