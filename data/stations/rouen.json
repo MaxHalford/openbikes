@@ -7,7 +7,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392784000,
+        "last_update": 1678393998000,
         "name": "01 - THEATRE DES ARTS",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392951000,
+        "last_update": 1678393558000,
         "name": "02- PASTEUR - FAC DE DROIT",
         "number": 2,
         "position": {
@@ -35,13 +35,13 @@
     },
     {
         "address": "PLACE DU VIEUX MARCHE",
-        "available_bike_stands": 14,
-        "available_bikes": 10,
+        "available_bike_stands": 12,
+        "available_bikes": 12,
         "banking": true,
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392562000,
+        "last_update": 1678393790000,
         "name": "03- VIEUX MARCHE",
         "number": 3,
         "position": {
@@ -52,13 +52,13 @@
     },
     {
         "address": "DEVANT N\u00b0 39 ALLEE EUGENE DELACROIX",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 4,
+        "available_bikes": 16,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392528000,
+        "last_update": 1678394049000,
         "name": "04- MUSEE DES BEAUX ARTS",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392634000,
+        "last_update": 1678394027000,
         "name": "05- HOTEL DE VILLE",
         "number": 5,
         "position": {
@@ -86,13 +86,13 @@
     },
     {
         "address": "DEVANT N\u00b0 6 RUE EDOUARD ADAM",
-        "available_bike_stands": 9,
-        "available_bikes": 6,
+        "available_bike_stands": 10,
+        "available_bikes": 5,
         "banking": true,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678393079000,
+        "last_update": 1678393714000,
         "name": "06- CHU - RUE DE GERMONT",
         "number": 6,
         "position": {
@@ -103,13 +103,13 @@
     },
     {
         "address": "RUE D' AMIENS",
-        "available_bike_stands": 17,
-        "available_bikes": 3,
+        "available_bike_stands": 18,
+        "available_bikes": 2,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678393088000,
+        "last_update": 1678393718000,
         "name": "07- CHU - BOULEVARD GAMBETTA",
         "number": 7,
         "position": {
@@ -120,13 +120,13 @@
     },
     {
         "address": "RUE ARMAND CARREL",
-        "available_bike_stands": 10,
-        "available_bikes": 10,
+        "available_bike_stands": 9,
+        "available_bikes": 11,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392532000,
+        "last_update": 1678393802000,
         "name": "08- SAINT MARC",
         "number": 8,
         "position": {
@@ -137,13 +137,13 @@
     },
     {
         "address": "RUE DE LA REPUBLIQUE",
-        "available_bike_stands": 7,
-        "available_bikes": 13,
+        "available_bike_stands": 8,
+        "available_bikes": 12,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392780000,
+        "last_update": 1678393997000,
         "name": "09 - REPUBLIQUE - QUAI CORNEILLE",
         "number": 9,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392532000,
+        "last_update": 1678393746000,
         "name": "10- PLACE CARNOT",
         "number": 10,
         "position": {
@@ -177,7 +177,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392980000,
+        "last_update": 1678393588000,
         "name": "11- CLEMENCEAU JOFFRE",
         "number": 11,
         "position": {
@@ -188,13 +188,13 @@
     },
     {
         "address": "PLACE SAINT SEVER",
-        "available_bike_stands": 10,
-        "available_bikes": 10,
+        "available_bike_stands": 11,
+        "available_bikes": 9,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392706000,
+        "last_update": 1678393924000,
         "name": "13- SAINT SEVER",
         "number": 13,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392605000,
+        "last_update": 1678393822000,
         "name": "15-GARE",
         "number": 15,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392672000,
+        "last_update": 1678393887000,
         "name": "16-ILE LACROIX",
         "number": 16,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392834000,
+        "last_update": 1678394050000,
         "name": "17- SAINT CLEMENT",
         "number": 17,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392670000,
+        "last_update": 1678393886000,
         "name": "18 - DOCKS",
         "number": 18,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678393059000,
+        "last_update": 1678393667000,
         "name": "19 - JARDIN DES PLANTES",
         "number": 19,
         "position": {
@@ -296,7 +296,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392865000,
+        "last_update": 1678394080000,
         "name": "20 - AUBERGE DE JEUNESSE",
         "number": 20,
         "position": {
@@ -307,13 +307,13 @@
     },
     {
         "address": "RUE DE LESSARD ANGLE AVENUE DE GRAMMOND",
-        "available_bike_stands": 10,
-        "available_bikes": 8,
+        "available_bike_stands": 9,
+        "available_bikes": 7,
         "banking": true,
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392509000,
+        "last_update": 1678393725000,
         "name": "21 - SIMONE DE BEAUVOIR",
         "number": 21,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392601000,
+        "last_update": 1678393818000,
         "name": "22 - CATHEDRALE",
         "number": 22,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392598000,
+        "last_update": 1678393815000,
         "name": "24 - HANGAR 108",
         "number": 24,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392533000,
+        "last_update": 1678393750000,
         "name": "25 - STATION MOBILE",
         "number": 25,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678393058000,
+        "last_update": 1678393665000,
         "name": "26 - SAINT-EXUPERY",
         "number": 26,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392929000,
+        "last_update": 1678393537000,
         "name": "27 - P+R MONT RIBOUDET",
         "number": 27,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392867000,
+        "last_update": 1678394084000,
         "name": "28 - BOULINGRIN",
         "number": 28,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "rouen",
-        "last_update": 1678392825000,
+        "last_update": 1678394042000,
         "name": "29 - PONT GUILLAUME",
         "number": 29,
         "position": {

@@ -7,7 +7,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392599000,
+        "last_update": 1678393811000,
         "name": "01 - PARVIS DE LA GARE",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392528000,
+        "last_update": 1678393738000,
         "name": "02 - REPUBLIQUE",
         "number": 2,
         "position": {
@@ -41,7 +41,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392737000,
+        "last_update": 1678393953000,
         "name": "03 - PLACE DE LA CONCORDE",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392699000,
+        "last_update": 1678393916000,
         "name": "04 - PARC SALVATOR",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393087000,
+        "last_update": 1678393695000,
         "name": "05 - METZ",
         "number": 5,
         "position": {
@@ -86,13 +86,13 @@
     },
     {
         "address": "Angle av de Colmar / av du President Kennedy devant Porte Jeune",
-        "available_bike_stands": 18,
-        "available_bikes": 0,
+        "available_bike_stands": 17,
+        "available_bikes": 1,
         "banking": true,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392513000,
+        "last_update": 1678393984000,
         "name": "06 - PORTE JEUNE",
         "number": 6,
         "position": {
@@ -109,7 +109,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393054000,
+        "last_update": 1678393662000,
         "name": "07 - MAIRIE",
         "number": 7,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393005000,
+        "last_update": 1678393613000,
         "name": "08 - PORTE HAUTE",
         "number": 8,
         "position": {
@@ -143,7 +143,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392612000,
+        "last_update": 1678393824000,
         "name": "09 - NESSEL",
         "number": 9,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392982000,
+        "last_update": 1678393587000,
         "name": "10 - PLACE DE LA PAIX",
         "number": 10,
         "position": {
@@ -171,13 +171,13 @@
     },
     {
         "address": "Rue du Printemps angle Rue Courte",
-        "available_bike_stands": 8,
-        "available_bikes": 5,
+        "available_bike_stands": 9,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392616000,
+        "last_update": 1678393771000,
         "name": "11 - PLACE DU PRINTEMPS",
         "number": 11,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392661000,
+        "last_update": 1678393881000,
         "name": "12 - STALINGRAD",
         "number": 12,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392763000,
+        "last_update": 1678394103000,
         "name": "13 - MARCHE",
         "number": 13,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392764000,
+        "last_update": 1678393982000,
         "name": "14 - SCHUMANN",
         "number": 14,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392890000,
+        "last_update": 1678394106000,
         "name": "15 - GRAND REX",
         "number": 15,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392941000,
+        "last_update": 1678393550000,
         "name": "16 - PLACE FRANKLIN",
         "number": 16,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393091000,
+        "last_update": 1678393696000,
         "name": "17 - PLACE DE LA REUNION",
         "number": 17,
         "position": {
@@ -296,7 +296,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392683000,
+        "last_update": 1678393899000,
         "name": "18 - CLEMENCEAU",
         "number": 18,
         "position": {
@@ -313,7 +313,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392620000,
+        "last_update": 1678393836000,
         "name": "19 - LES TROIS ROIS",
         "number": 19,
         "position": {
@@ -324,13 +324,13 @@
     },
     {
         "address": "Allee Nathan Katz Parvis de la Filature",
-        "available_bike_stands": 6,
-        "available_bikes": 6,
+        "available_bike_stands": 7,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392933000,
+        "last_update": 1678393719000,
         "name": "20 - FILATURE",
         "number": 20,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393031000,
+        "last_update": 1678393637000,
         "name": "21 - FONDERIE",
         "number": 21,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392906000,
+        "last_update": 1678393515000,
         "name": "22 - ST SAUVEUR",
         "number": 22,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392750000,
+        "last_update": 1678393968000,
         "name": "23 - HASENRAIN",
         "number": 23,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392744000,
+        "last_update": 1678393962000,
         "name": "24 - TIVOLI",
         "number": 24,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392500000,
+        "last_update": 1678393718000,
         "name": "25 - PALAIS DES SPORTS",
         "number": 25,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392865000,
+        "last_update": 1678394080000,
         "name": "26 - GOERICH",
         "number": 26,
         "position": {
@@ -449,7 +449,7 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392813000,
+        "last_update": 1678394028000,
         "name": "27 - CITE ADMINISTRATIVE",
         "number": 27,
         "position": {
@@ -466,7 +466,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392702000,
+        "last_update": 1678393919000,
         "name": "28 - SCHUMAN LEFEB",
         "number": 28,
         "position": {
@@ -483,7 +483,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392513000,
+        "last_update": 1678393729000,
         "name": "29 - LAURENT",
         "number": 29,
         "position": {
@@ -500,7 +500,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392894000,
+        "last_update": 1678394108000,
         "name": "30 -  HARDT",
         "number": 30,
         "position": {
@@ -517,7 +517,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392954000,
+        "last_update": 1678393559000,
         "name": "31 - KINEPOLIS",
         "number": 31,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393022000,
+        "last_update": 1678393627000,
         "name": "32- CAMPUS",
         "number": 32,
         "position": {
@@ -551,7 +551,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392981000,
+        "last_update": 1678393589000,
         "name": "33 - AUBERGE",
         "number": 33,
         "position": {
@@ -568,7 +568,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678393012000,
+        "last_update": 1678393620000,
         "name": "34 - PATINOIRE",
         "number": 34,
         "position": {
@@ -585,7 +585,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392511000,
+        "last_update": 1678393744000,
         "name": "35 - EUROPE",
         "number": 35,
         "position": {
@@ -602,7 +602,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392731000,
+        "last_update": 1678393946000,
         "name": "36 - MUSEE DE L'AUTO",
         "number": 36,
         "position": {
@@ -619,7 +619,7 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392614000,
+        "last_update": 1678393831000,
         "name": "37 - TUNNEL",
         "number": 37,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392779000,
+        "last_update": 1678393997000,
         "name": "38 - WANNE",
         "number": 38,
         "position": {
@@ -653,7 +653,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392824000,
+        "last_update": 1678394035000,
         "name": "39 - PORTE DE RIEDISHEIM",
         "number": 39,
         "position": {
@@ -670,7 +670,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392956000,
+        "last_update": 1678393564000,
         "name": "40 - GARE DE DORNACH",
         "number": 40,
         "position": {
@@ -687,7 +687,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "mulhouse",
-        "last_update": 1678392831000,
+        "last_update": 1678394041000,
         "name": "#41-STATION SOLAIRE",
         "number": 41,
         "position": {

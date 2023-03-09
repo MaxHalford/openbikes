@@ -7,7 +7,7 @@
         "bike_stands": 31,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392802000,
+        "last_update": 1678394013000,
         "name": "CLARENDON ROW",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392605000,
+        "last_update": 1678393816000,
         "name": "BLESSINGTON STREET",
         "number": 2,
         "position": {
@@ -35,13 +35,13 @@
     },
     {
         "address": "Bolton Street",
-        "available_bike_stands": 11,
-        "available_bikes": 9,
+        "available_bike_stands": 9,
+        "available_bikes": 11,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392723000,
+        "last_update": 1678393826000,
         "name": "BOLTON STREET",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392771000,
+        "last_update": 1678393942000,
         "name": "GREEK STREET",
         "number": 4,
         "position": {
@@ -69,13 +69,13 @@
     },
     {
         "address": "Charlemont Street",
-        "available_bike_stands": 4,
-        "available_bikes": 36,
+        "available_bike_stands": 5,
+        "available_bikes": 35,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392730000,
+        "last_update": 1678393776000,
         "name": "CHARLEMONT PLACE",
         "number": 5,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392755000,
+        "last_update": 1678393967000,
         "name": "CHRISTCHURCH PLACE",
         "number": 6,
         "position": {
@@ -103,13 +103,13 @@
     },
     {
         "address": "High Street",
-        "available_bike_stands": 12,
-        "available_bikes": 16,
+        "available_bike_stands": 11,
+        "available_bikes": 17,
         "banking": false,
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392639000,
+        "last_update": 1678393984000,
         "name": "HIGH STREET",
         "number": 7,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392585000,
+        "last_update": 1678393796000,
         "name": "CUSTOM HOUSE QUAY",
         "number": 8,
         "position": {
@@ -137,13 +137,13 @@
     },
     {
         "address": "Exchequer Street",
-        "available_bike_stands": 17,
-        "available_bikes": 7,
+        "available_bike_stands": 18,
+        "available_bikes": 6,
         "banking": false,
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392497000,
+        "last_update": 1678393849000,
         "name": "EXCHEQUER STREET",
         "number": 9,
         "position": {
@@ -154,13 +154,13 @@
     },
     {
         "address": "Dame Street",
-        "available_bike_stands": 11,
-        "available_bikes": 5,
+        "available_bike_stands": 10,
+        "available_bikes": 6,
         "banking": true,
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392998000,
+        "last_update": 1678393570000,
         "name": "DAME STREET",
         "number": 10,
         "position": {
@@ -171,13 +171,13 @@
     },
     {
         "address": "Earlsfort Terrace",
-        "available_bike_stands": 27,
-        "available_bikes": 3,
+        "available_bike_stands": 28,
+        "available_bikes": 2,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392846000,
+        "last_update": 1678393798000,
         "name": "EARLSFORT TERRACE",
         "number": 11,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393001000,
+        "last_update": 1678393607000,
         "name": "ECCLES STREET",
         "number": 12,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392643000,
+        "last_update": 1678393853000,
         "name": "FITZWILLIAM SQUARE WEST",
         "number": 13,
         "position": {
@@ -222,13 +222,13 @@
     },
     {
         "address": "Fownes Street Upper",
-        "available_bike_stands": 28,
-        "available_bikes": 2,
+        "available_bike_stands": 27,
+        "available_bikes": 3,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393043000,
+        "last_update": 1678393714000,
         "name": "FOWNES STREET UPPER",
         "number": 14,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392876000,
+        "last_update": 1678393886000,
         "name": "HARDWICKE STREET",
         "number": 15,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392763000,
+        "last_update": 1678393974000,
         "name": "GEORGES QUAY",
         "number": 16,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392935000,
+        "last_update": 1678393540000,
         "name": "GOLDEN LANE",
         "number": 17,
         "position": {
@@ -296,7 +296,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392904000,
+        "last_update": 1678394114000,
         "name": "GRANTHAM STREET",
         "number": 18,
         "position": {
@@ -307,13 +307,13 @@
     },
     {
         "address": "Herbert Place",
-        "available_bike_stands": 27,
-        "available_bikes": 3,
+        "available_bike_stands": 25,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392727000,
+        "last_update": 1678393934000,
         "name": "HERBERT PLACE",
         "number": 19,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392531000,
+        "last_update": 1678393742000,
         "name": "JAMES STREET EAST",
         "number": 20,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392658000,
+        "last_update": 1678393870000,
         "name": "LEINSTER STREET SOUTH",
         "number": 21,
         "position": {
@@ -358,13 +358,13 @@
     },
     {
         "address": "Townsend Street",
-        "available_bike_stands": 6,
-        "available_bikes": 13,
+        "available_bike_stands": 7,
+        "available_bikes": 12,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392513000,
+        "last_update": 1678394062000,
         "name": "TOWNSEND STREET",
         "number": 22,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392988000,
+        "last_update": 1678393593000,
         "name": "CUSTOM HOUSE",
         "number": 23,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393008000,
+        "last_update": 1678393614000,
         "name": "CATHAL BRUGHA STREET",
         "number": 24,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392707000,
+        "last_update": 1678393918000,
         "name": "MERRION SQUARE EAST",
         "number": 25,
         "position": {
@@ -426,13 +426,13 @@
     },
     {
         "address": "Merrion Square West",
-        "available_bike_stands": 1,
-        "available_bikes": 19,
+        "available_bike_stands": 2,
+        "available_bikes": 18,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392769000,
+        "last_update": 1678394122000,
         "name": "MERRION SQUARE WEST",
         "number": 26,
         "position": {
@@ -443,13 +443,13 @@
     },
     {
         "address": "Molesworth Street",
-        "available_bike_stands": 13,
-        "available_bikes": 7,
+        "available_bike_stands": 12,
+        "available_bikes": 8,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393050000,
+        "last_update": 1678393608000,
         "name": "MOLESWORTH STREET",
         "number": 27,
         "position": {
@@ -466,7 +466,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392918000,
+        "last_update": 1678393697000,
         "name": "MOUNTJOY SQUARE WEST",
         "number": 28,
         "position": {
@@ -483,7 +483,7 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392812000,
+        "last_update": 1678394023000,
         "name": "ORMOND QUAY UPPER",
         "number": 29,
         "position": {
@@ -500,7 +500,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392825000,
+        "last_update": 1678394037000,
         "name": "PARNELL SQUARE NORTH",
         "number": 30,
         "position": {
@@ -511,13 +511,13 @@
     },
     {
         "address": "Parnell Street",
-        "available_bike_stands": 14,
-        "available_bikes": 6,
+        "available_bike_stands": 15,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392867000,
+        "last_update": 1678393841000,
         "name": "PARNELL STREET",
         "number": 31,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392649000,
+        "last_update": 1678393861000,
         "name": "PEARSE STREET",
         "number": 32,
         "position": {
@@ -545,13 +545,13 @@
     },
     {
         "address": "Princes Street / O'Connell Street",
-        "available_bike_stands": 15,
-        "available_bikes": 8,
+        "available_bike_stands": 14,
+        "available_bikes": 9,
         "banking": true,
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392701000,
+        "last_update": 1678393860000,
         "name": "PRINCES STREET / O'CONNELL STREET",
         "number": 33,
         "position": {
@@ -562,13 +562,13 @@
     },
     {
         "address": "Portobello Harbour",
-        "available_bike_stands": 1,
-        "available_bikes": 29,
+        "available_bike_stands": 2,
+        "available_bikes": 28,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392969000,
+        "last_update": 1678393719000,
         "name": "PORTOBELLO HARBOUR",
         "number": 34,
         "position": {
@@ -585,7 +585,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392796000,
+        "last_update": 1678394007000,
         "name": "SMITHFIELD",
         "number": 35,
         "position": {
@@ -602,7 +602,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392923000,
+        "last_update": 1678394135000,
         "name": "ST. STEPHEN'S GREEN EAST",
         "number": 36,
         "position": {
@@ -619,7 +619,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392916000,
+        "last_update": 1678394126000,
         "name": "ST. STEPHEN'S GREEN SOUTH",
         "number": 37,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392575000,
+        "last_update": 1678394095000,
         "name": "TALBOT STREET",
         "number": 38,
         "position": {
@@ -653,7 +653,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392853000,
+        "last_update": 1678394064000,
         "name": "WILTON TERRACE",
         "number": 39,
         "position": {
@@ -670,7 +670,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392820000,
+        "last_update": 1678394031000,
         "name": "JERVIS STREET",
         "number": 40,
         "position": {
@@ -687,7 +687,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392779000,
+        "last_update": 1678393990000,
         "name": "HARCOURT TERRACE",
         "number": 41,
         "position": {
@@ -704,7 +704,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392611000,
+        "last_update": 1678393821000,
         "name": "SMITHFIELD NORTH",
         "number": 42,
         "position": {
@@ -715,13 +715,13 @@
     },
     {
         "address": "Portobello Road",
-        "available_bike_stands": 14,
-        "available_bikes": 16,
+        "available_bike_stands": 13,
+        "available_bikes": 17,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392727000,
+        "last_update": 1678394142000,
         "name": "PORTOBELLO ROAD",
         "number": 43,
         "position": {
@@ -738,7 +738,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392553000,
+        "last_update": 1678393764000,
         "name": "UPPER SHERRARD STREET",
         "number": 44,
         "position": {
@@ -749,13 +749,13 @@
     },
     {
         "address": "Deverell Place",
-        "available_bike_stands": 24,
-        "available_bikes": 6,
+        "available_bike_stands": 25,
+        "available_bikes": 5,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392631000,
+        "last_update": 1678393789000,
         "name": "DEVERELL PLACE",
         "number": 45,
         "position": {
@@ -772,7 +772,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392546000,
+        "last_update": 1678393758000,
         "name": "HERBERT STREET",
         "number": 47,
         "position": {
@@ -789,7 +789,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392645000,
+        "last_update": 1678393856000,
         "name": "EXCISE WALK",
         "number": 48,
         "position": {
@@ -806,7 +806,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392634000,
+        "last_update": 1678393845000,
         "name": "GUILD STREET",
         "number": 49,
         "position": {
@@ -817,13 +817,13 @@
     },
     {
         "address": "George's Lane",
-        "available_bike_stands": 4,
-        "available_bikes": 36,
+        "available_bike_stands": 2,
+        "available_bikes": 38,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392750000,
+        "last_update": 1678394114000,
         "name": "GEORGES LANE",
         "number": 50,
         "position": {
@@ -834,13 +834,13 @@
     },
     {
         "address": "York Street West",
-        "available_bike_stands": 36,
-        "available_bikes": 4,
+        "available_bike_stands": 37,
+        "available_bikes": 3,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392632000,
+        "last_update": 1678394080000,
         "name": "YORK STREET WEST",
         "number": 51,
         "position": {
@@ -857,7 +857,7 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392584000,
+        "last_update": 1678393795000,
         "name": "YORK STREET EAST",
         "number": 52,
         "position": {
@@ -874,7 +874,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392605000,
+        "last_update": 1678393816000,
         "name": "NEWMAN HOUSE",
         "number": 53,
         "position": {
@@ -891,7 +891,7 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392950000,
+        "last_update": 1678393556000,
         "name": "CLONMEL STREET",
         "number": 54,
         "position": {
@@ -902,13 +902,13 @@
     },
     {
         "address": "Hatch Street",
-        "available_bike_stands": 33,
-        "available_bikes": 1,
+        "available_bike_stands": 32,
+        "available_bikes": 2,
         "banking": false,
         "bike_stands": 36,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392622000,
+        "last_update": 1678394095000,
         "name": "HATCH STREET",
         "number": 55,
         "position": {
@@ -925,7 +925,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392892000,
+        "last_update": 1678394104000,
         "name": "MOUNT STREET LOWER",
         "number": 56,
         "position": {
@@ -942,7 +942,7 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392531000,
+        "last_update": 1678393743000,
         "name": "GRATTAN STREET",
         "number": 57,
         "position": {
@@ -953,13 +953,13 @@
     },
     {
         "address": "Sir Patrick's Dun",
-        "available_bike_stands": 24,
-        "available_bikes": 16,
+        "available_bike_stands": 25,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393030000,
+        "last_update": 1678393937000,
         "name": "SIR PATRICK DUN'S",
         "number": 58,
         "position": {
@@ -970,13 +970,13 @@
     },
     {
         "address": "Denmark Street Great",
-        "available_bike_stands": 6,
-        "available_bikes": 14,
+        "available_bike_stands": 5,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392638000,
+        "last_update": 1678393713000,
         "name": "DENMARK STREET GREAT",
         "number": 59,
         "position": {
@@ -987,13 +987,13 @@
     },
     {
         "address": "North Circular Road",
-        "available_bike_stands": 9,
-        "available_bikes": 21,
+        "available_bike_stands": 10,
+        "available_bikes": 20,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392762000,
+        "last_update": 1678394111000,
         "name": "NORTH CIRCULAR ROAD",
         "number": 60,
         "position": {
@@ -1010,7 +1010,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393043000,
+        "last_update": 1678393648000,
         "name": "HARDWICKE PLACE",
         "number": 61,
         "position": {
@@ -1027,7 +1027,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392566000,
+        "last_update": 1678393777000,
         "name": "LIME STREET",
         "number": 62,
         "position": {
@@ -1044,7 +1044,7 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392893000,
+        "last_update": 1678394103000,
         "name": "FENIAN STREET",
         "number": 63,
         "position": {
@@ -1055,13 +1055,13 @@
     },
     {
         "address": "Sandwith Street",
-        "available_bike_stands": 20,
-        "available_bikes": 20,
+        "available_bike_stands": 21,
+        "available_bikes": 19,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392903000,
+        "last_update": 1678394102000,
         "name": "SANDWITH STREET",
         "number": 64,
         "position": {
@@ -1078,7 +1078,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392997000,
+        "last_update": 1678393923000,
         "name": "CONVENTION CENTRE",
         "number": 65,
         "position": {
@@ -1089,13 +1089,13 @@
     },
     {
         "address": "New Central Bank",
-        "available_bike_stands": 29,
-        "available_bikes": 11,
+        "available_bike_stands": 31,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392545000,
+        "last_update": 1678393989000,
         "name": "NEW CENTRAL BANK",
         "number": 66,
         "position": {
@@ -1112,7 +1112,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392944000,
+        "last_update": 1678393550000,
         "name": "THE POINT",
         "number": 67,
         "position": {
@@ -1129,7 +1129,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392753000,
+        "last_update": 1678393705000,
         "name": "HANOVER QUAY",
         "number": 68,
         "position": {
@@ -1140,13 +1140,13 @@
     },
     {
         "address": "Grand Canal Dock",
-        "available_bike_stands": 33,
-        "available_bikes": 7,
+        "available_bike_stands": 31,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392733000,
+        "last_update": 1678393641000,
         "name": "GRAND CANAL DOCK",
         "number": 69,
         "position": {
@@ -1163,7 +1163,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392683000,
+        "last_update": 1678393895000,
         "name": "KEVIN STREET",
         "number": 71,
         "position": {
@@ -1174,13 +1174,13 @@
     },
     {
         "address": "John Street West",
-        "available_bike_stands": 22,
-        "available_bikes": 9,
+        "available_bike_stands": 21,
+        "available_bikes": 10,
         "banking": false,
         "bike_stands": 31,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392662000,
+        "last_update": 1678393934000,
         "name": "JOHN STREET WEST",
         "number": 72,
         "position": {
@@ -1197,7 +1197,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392988000,
+        "last_update": 1678393593000,
         "name": "FRANCIS STREET",
         "number": 73,
         "position": {
@@ -1214,7 +1214,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392534000,
+        "last_update": 1678393746000,
         "name": "OLIVER BOND STREET",
         "number": 74,
         "position": {
@@ -1231,7 +1231,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392648000,
+        "last_update": 1678393859000,
         "name": "JAMES STREET",
         "number": 75,
         "position": {
@@ -1248,7 +1248,7 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392820000,
+        "last_update": 1678393914000,
         "name": "MARKET STREET SOUTH",
         "number": 76,
         "position": {
@@ -1265,7 +1265,7 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392833000,
+        "last_update": 1678394045000,
         "name": "WOLFE TONE STREET",
         "number": 77,
         "position": {
@@ -1282,7 +1282,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392470000,
+        "last_update": 1678393681000,
         "name": "MATER HOSPITAL",
         "number": 78,
         "position": {
@@ -1299,7 +1299,7 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392500000,
+        "last_update": 1678393711000,
         "name": "ECCLES STREET EAST",
         "number": 79,
         "position": {
@@ -1316,7 +1316,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392808000,
+        "last_update": 1678394018000,
         "name": "ST JAMES HOSPITAL (LUAS)",
         "number": 80,
         "position": {
@@ -1333,7 +1333,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392988000,
+        "last_update": 1678393593000,
         "name": "MOUNT BROWN",
         "number": 82,
         "position": {
@@ -1350,7 +1350,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392661000,
+        "last_update": 1678393871000,
         "name": "EMMET ROAD",
         "number": 83,
         "position": {
@@ -1367,7 +1367,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392479000,
+        "last_update": 1678393691000,
         "name": "BROOKFIELD ROAD",
         "number": 84,
         "position": {
@@ -1378,13 +1378,13 @@
     },
     {
         "address": "Rothe Abbey",
-        "available_bike_stands": 16,
-        "available_bikes": 19,
+        "available_bike_stands": 15,
+        "available_bikes": 20,
         "banking": false,
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392651000,
+        "last_update": 1678393580000,
         "name": "ROTHE ABBEY",
         "number": 85,
         "position": {
@@ -1395,13 +1395,13 @@
     },
     {
         "address": "Parkgate Street",
-        "available_bike_stands": 19,
-        "available_bikes": 19,
+        "available_bike_stands": 18,
+        "available_bikes": 20,
         "banking": false,
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392634000,
+        "last_update": 1678393547000,
         "name": "PARKGATE STREET",
         "number": 86,
         "position": {
@@ -1418,7 +1418,7 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392848000,
+        "last_update": 1678394059000,
         "name": "COLLINS BARRACKS MUSEUM",
         "number": 87,
         "position": {
@@ -1429,13 +1429,13 @@
     },
     {
         "address": "Blackhall Place",
-        "available_bike_stands": 16,
-        "available_bikes": 14,
+        "available_bike_stands": 17,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392970000,
+        "last_update": 1678393922000,
         "name": "BLACKHALL PLACE",
         "number": 88,
         "position": {
@@ -1452,7 +1452,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392829000,
+        "last_update": 1678394040000,
         "name": "FITZWILLIAM SQUARE EAST",
         "number": 89,
         "position": {
@@ -1469,7 +1469,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392595000,
+        "last_update": 1678393806000,
         "name": "BENSON STREET",
         "number": 90,
         "position": {
@@ -1480,13 +1480,13 @@
     },
     {
         "address": "South Dock Road",
-        "available_bike_stands": 13,
-        "available_bikes": 17,
+        "available_bike_stands": 14,
+        "available_bikes": 16,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392928000,
+        "last_update": 1678393868000,
         "name": "SOUTH DOCK ROAD",
         "number": 91,
         "position": {
@@ -1503,7 +1503,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392599000,
+        "last_update": 1678393811000,
         "name": "HEUSTON BRIDGE (NORTH)",
         "number": 92,
         "position": {
@@ -1520,7 +1520,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392580000,
+        "last_update": 1678393585000,
         "name": "HEUSTON STATION (CENTRAL)",
         "number": 93,
         "position": {
@@ -1537,7 +1537,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392937000,
+        "last_update": 1678393543000,
         "name": "HEUSTON STATION (CAR PARK)",
         "number": 94,
         "position": {
@@ -1554,7 +1554,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392475000,
+        "last_update": 1678393687000,
         "name": "ROYAL HOSPITAL",
         "number": 95,
         "position": {
@@ -1571,7 +1571,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393064000,
+        "last_update": 1678393670000,
         "name": "KILMAINHAM LANE",
         "number": 96,
         "position": {
@@ -1588,7 +1588,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392819000,
+        "last_update": 1678394029000,
         "name": "KILMAINHAM GAOL",
         "number": 97,
         "position": {
@@ -1605,7 +1605,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392730000,
+        "last_update": 1678393941000,
         "name": "FREDERICK STREET SOUTH",
         "number": 98,
         "position": {
@@ -1622,7 +1622,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392710000,
+        "last_update": 1678393921000,
         "name": "CITY QUAY",
         "number": 99,
         "position": {
@@ -1639,7 +1639,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392974000,
+        "last_update": 1678393580000,
         "name": "HEUSTON BRIDGE (SOUTH)",
         "number": 100,
         "position": {
@@ -1656,7 +1656,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393058000,
+        "last_update": 1678393762000,
         "name": "KING STREET NORTH",
         "number": 101,
         "position": {
@@ -1667,13 +1667,13 @@
     },
     {
         "address": "Western Way",
-        "available_bike_stands": 25,
-        "available_bikes": 15,
+        "available_bike_stands": 27,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393059000,
+        "last_update": 1678393736000,
         "name": "WESTERN WAY",
         "number": 102,
         "position": {
@@ -1690,7 +1690,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392941000,
+        "last_update": 1678394125000,
         "name": "GRANGEGORMAN LOWER (SOUTH)",
         "number": 103,
         "position": {
@@ -1707,7 +1707,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392865000,
+        "last_update": 1678394076000,
         "name": "GRANGEGORMAN LOWER (CENTRAL)",
         "number": 104,
         "position": {
@@ -1718,13 +1718,13 @@
     },
     {
         "address": "Grangegorman Lower (North)",
-        "available_bike_stands": 31,
-        "available_bikes": 5,
+        "available_bike_stands": 32,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 36,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392762000,
+        "last_update": 1678393853000,
         "name": "GRANGEGORMAN LOWER (NORTH)",
         "number": 105,
         "position": {
@@ -1741,7 +1741,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392924000,
+        "last_update": 1678394091000,
         "name": "RATHDOWN ROAD",
         "number": 106,
         "position": {
@@ -1758,7 +1758,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392827000,
+        "last_update": 1678393643000,
         "name": "CHARLEVILLE ROAD",
         "number": 107,
         "position": {
@@ -1775,7 +1775,7 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392982000,
+        "last_update": 1678394095000,
         "name": "AVONDALE ROAD",
         "number": 108,
         "position": {
@@ -1792,7 +1792,7 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392812000,
+        "last_update": 1678394024000,
         "name": "BUCKINGHAM STREET LOWER",
         "number": 109,
         "position": {
@@ -1809,7 +1809,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392929000,
+        "last_update": 1678394140000,
         "name": "PHIBSBOROUGH ROAD",
         "number": 110,
         "position": {
@@ -1826,7 +1826,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392844000,
+        "last_update": 1678394056000,
         "name": "MOUNTJOY SQUARE EAST",
         "number": 111,
         "position": {
@@ -1843,7 +1843,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392855000,
+        "last_update": 1678394066000,
         "name": "NORTH CIRCULAR ROAD (O'CONNELL'S)",
         "number": 112,
         "position": {
@@ -1860,7 +1860,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678393009000,
+        "last_update": 1678393614000,
         "name": "MERRION SQUARE SOUTH",
         "number": 113,
         "position": {
@@ -1877,7 +1877,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392532000,
+        "last_update": 1678393743000,
         "name": "WILTON TERRACE (PARK)",
         "number": 114,
         "position": {
@@ -1888,13 +1888,13 @@
     },
     {
         "address": "Killarney Street",
-        "available_bike_stands": 27,
-        "available_bikes": 3,
+        "available_bike_stands": 26,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392727000,
+        "last_update": 1678393729000,
         "name": "KILLARNEY STREET",
         "number": 115,
         "position": {
@@ -1911,7 +1911,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392966000,
+        "last_update": 1678393571000,
         "name": "BROADSTONE",
         "number": 116,
         "position": {
@@ -1928,7 +1928,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "dublin",
-        "last_update": 1678392775000,
+        "last_update": 1678393986000,
         "name": "HANOVER QUAY EAST",
         "number": 117,
         "position": {

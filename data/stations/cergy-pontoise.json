@@ -7,7 +7,7 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392585000,
+        "last_update": 1678393802000,
         "name": "50001 - CER01 - GARE LES HAUTS DE CERGY(CB)",
         "number": 50001,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393019000,
+        "last_update": 1678393627000,
         "name": "50002 - CER02 - AVENUE DU HAZAY",
         "number": 50002,
         "position": {
@@ -35,13 +35,13 @@
     },
     {
         "address": "AVENUE DES ESSARTS ANGLE BOULEVARD DE L'OISE - 95000 CERGY",
-        "available_bike_stands": 14,
+        "available_bike_stands": 15,
         "available_bikes": 6,
         "banking": true,
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392566000,
+        "last_update": 1678393787000,
         "name": "50003 - CER03 - LES ESSARTS (CB)",
         "number": 50003,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392797000,
+        "last_update": 1678394011000,
         "name": "50004 - CER04 - LE BON TEMPS",
         "number": 50004,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393037000,
+        "last_update": 1678394108000,
         "name": "50005 - CER05 - MOULIN A VENT",
         "number": 50005,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392493000,
+        "last_update": 1678393708000,
         "name": "50006 - CER06 - LE CHAT PERCH\u00c9",
         "number": 50006,
         "position": {
@@ -109,7 +109,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393039000,
+        "last_update": 1678393646000,
         "name": "50007 - CER07 -  PARC ST-CHRISTOPHE",
         "number": 50007,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392578000,
+        "last_update": 1678393792000,
         "name": "50008 - CER08 - AXE MAJEUR (CB)",
         "number": 50008,
         "position": {
@@ -143,7 +143,7 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392640000,
+        "last_update": 1678393854000,
         "name": "50009 - CER09 - RUE DU BR\u00dbLOIR",
         "number": 50009,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393043000,
+        "last_update": 1678393650000,
         "name": "50010 - CER10 - GARE CERGY AXE MAJ HORLOGE (CB)",
         "number": 50010,
         "position": {
@@ -177,7 +177,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392774000,
+        "last_update": 1678393990000,
         "name": "50011 - CER11 - PLACE DE L'HOTEL DE VILLE (CB)",
         "number": 50011,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392669000,
+        "last_update": 1678393884000,
         "name": "50012 - CER12 - PLACE DU HAUT-GENCY",
         "number": 50012,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392905000,
+        "last_update": 1678393513000,
         "name": "50013 - CER13 - ROND-POINT DES RAIES",
         "number": 50013,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392995000,
+        "last_update": 1678393604000,
         "name": "50014 - CER14 - AVENUE DU NORD",
         "number": 50014,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392669000,
+        "last_update": 1678393885000,
         "name": "50015 - CER15 - PLACE DES LINANDES (CB)",
         "number": 50015,
         "position": {
@@ -262,7 +262,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393060000,
+        "last_update": 1678393668000,
         "name": "50016 - CER16 - UNIVERSIT\u00c9 LES CH\u00caNES (CB)",
         "number": 50016,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393018000,
+        "last_update": 1678393628000,
         "name": "50017 - CER17 - CERGY VILLAGE CENTRE",
         "number": 50017,
         "position": {
@@ -290,13 +290,13 @@
     },
     {
         "address": "BOULEVARD DU PORT ANGLE RUE JEAN BART - 95000 CERGY",
-        "available_bike_stands": 14,
-        "available_bikes": 13,
+        "available_bike_stands": 13,
+        "available_bikes": 14,
         "banking": true,
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392997000,
+        "last_update": 1678393747000,
         "name": "50018 - CER18 - PORT CERGY (CB)",
         "number": 50018,
         "position": {
@@ -313,7 +313,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392800000,
+        "last_update": 1678394016000,
         "name": "50019 - CER19 - RUE DES LILAS",
         "number": 50019,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392569000,
+        "last_update": 1678393638000,
         "name": "50020 - CONSEIL G\u00c9N\u00c9RAL",
         "number": 50020,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392566000,
+        "last_update": 1678393782000,
         "name": "50021 - CER21 - DALLE PI\u00c9TONNE GRAND CENTRE",
         "number": 50021,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393085000,
+        "last_update": 1678393692000,
         "name": "50023 - CER23 - LES TOULEUSES",
         "number": 50023,
         "position": {
@@ -375,13 +375,13 @@
     },
     {
         "address": "Rue des petits pr\u00e9s  95000 CERGY",
-        "available_bike_stands": 8,
-        "available_bikes": 10,
+        "available_bike_stands": 7,
+        "available_bikes": 11,
         "banking": false,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392792000,
+        "last_update": 1678393876000,
         "name": "50024 - CER24 - CROIX PETIT",
         "number": 50024,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392643000,
+        "last_update": 1678393860000,
         "name": "50025 - CER25 - ARENICE",
         "number": 50025,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392533000,
+        "last_update": 1678393748000,
         "name": "50026 - CER26 - BEAUX SOLEILS",
         "number": 50026,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392539000,
+        "last_update": 1678393755000,
         "name": "50027 - CER27 - MARJOBERTS",
         "number": 50027,
         "position": {
@@ -449,7 +449,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392663000,
+        "last_update": 1678393878000,
         "name": "50101 - P\u00d4LE GARE (CB)",
         "number": 50101,
         "position": {
@@ -466,7 +466,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392777000,
+        "last_update": 1678393992000,
         "name": "53001 - PON01 - RUE SERE-DEPOIN (CB)",
         "number": 53001,
         "position": {
@@ -483,7 +483,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392970000,
+        "last_update": 1678393577000,
         "name": "53002 - PON02 - PLACE DE LA LIB\u00c9RATION",
         "number": 53002,
         "position": {
@@ -500,7 +500,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392768000,
+        "last_update": 1678393982000,
         "name": "53003 - PON03 - UNIVERSIT\u00c9 ST MARTIN",
         "number": 53003,
         "position": {
@@ -517,7 +517,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393058000,
+        "last_update": 1678393667000,
         "name": "53004 - PON04 - LA PALETTE",
         "number": 53004,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392640000,
+        "last_update": 1678393855000,
         "name": "53101 - SOA01 - PLACE CARNOT (CB)",
         "number": 53101,
         "position": {
@@ -551,7 +551,7 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392674000,
+        "last_update": 1678393890000,
         "name": "53102 - SOA02 - GARE SOA CENTRE",
         "number": 53102,
         "position": {
@@ -568,7 +568,7 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392375000,
+        "last_update": 1678393424000,
         "name": "54902 - VAU02 - MAIRIE CROIX-LIEU(CB)",
         "number": 54902,
         "position": {
@@ -585,7 +585,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392602000,
+        "last_update": 1678393818000,
         "name": "54904 - VAU04 - MENDES FRANCE",
         "number": 54904,
         "position": {
@@ -602,7 +602,7 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392769000,
+        "last_update": 1678393985000,
         "name": "54905 - VAU05 - LES TOUPETS",
         "number": 54905,
         "position": {
@@ -619,7 +619,7 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392721000,
+        "last_update": 1678393936000,
         "name": "56101 - ERA01 - LA DANNE",
         "number": 56101,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392898000,
+        "last_update": 1678393506000,
         "name": "56102 - ERA02 - CHARLES DE GAULLE",
         "number": 56102,
         "position": {
@@ -653,7 +653,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678393011000,
+        "last_update": 1678394003000,
         "name": "56103 - ERA03 - GARE D'ERAGNY (CB)",
         "number": 56103,
         "position": {
@@ -670,7 +670,7 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392702000,
+        "last_update": 1678393917000,
         "name": "56104 - ERA04 - LA CHALLE (CB)",
         "number": 56104,
         "position": {
@@ -687,7 +687,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392636000,
+        "last_update": 1678393852000,
         "name": "56105 - ERA05- BAS NOYER (CB)",
         "number": 56105,
         "position": {
@@ -704,7 +704,7 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392611000,
+        "last_update": 1678393828000,
         "name": "56106 - ERA06 - CENTRE TECHNIQUE MUNICIPAL",
         "number": 56106,
         "position": {
@@ -721,7 +721,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "cergy-pontoise",
-        "last_update": 1678392786000,
+        "last_update": 1678394001000,
         "name": "56401 - COU01 - LA LOUVIERE (CB)",
         "number": 56401,
         "position": {

@@ -7,7 +7,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392882000,
+        "last_update": 1678394095000,
         "name": "#00001-LEON XIII",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393013000,
+        "last_update": 1678394084000,
         "name": "#00002-GARE CENTRALE 2",
         "number": 2,
         "position": {
@@ -35,13 +35,13 @@
     },
     {
         "address": "STROOSSBUERGER PLAZ - PLACE DE STRASBOURG ( FACE N\u00b0 41 )",
-        "available_bike_stands": 6,
+        "available_bike_stands": 7,
         "available_bikes": 11,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393008000,
+        "last_update": 1678393944000,
         "name": "#00003-STROOSSBUERGER PLAZ",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392777000,
+        "last_update": 1678394023000,
         "name": "#00004-ROCADE",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393014000,
+        "last_update": 1678394142000,
         "name": "#00005-PARAISER PLAZ",
         "number": 5,
         "position": {
@@ -86,13 +86,13 @@
     },
     {
         "address": "AL BR\u00c9CK - VIADUC / BOULEVARD DE LA PETRUSSE",
-        "available_bike_stands": 0,
-        "available_bikes": 14,
+        "available_bike_stands": 1,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392828000,
+        "last_update": 1678394137000,
         "name": "#00006-AL BR\u00c9CK",
         "number": 6,
         "position": {
@@ -109,7 +109,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392834000,
+        "last_update": 1678394009000,
         "name": "#00007-ROUSEGAERTCHEN",
         "number": 7,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392855000,
+        "last_update": 1678393966000,
         "name": "#00008-METZER PLAZ",
         "number": 8,
         "position": {
@@ -137,13 +137,13 @@
     },
     {
         "address": "CONVICT - PLACE DU FOYER",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 6,
+        "available_bikes": 14,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392904000,
+        "last_update": 1678394131000,
         "name": "#00009-CONVICT",
         "number": 9,
         "position": {
@@ -154,13 +154,13 @@
     },
     {
         "address": "M\u00c4RELER PARC - RUE DU 10 SEPTEMBRE ( DEVANT N\u00b0 108 )",
-        "available_bike_stands": 9,
-        "available_bikes": 6,
+        "available_bike_stands": 8,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392825000,
+        "last_update": 1678393844000,
         "name": "#00010-M\u00c4RELER PARC",
         "number": 10,
         "position": {
@@ -177,7 +177,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392877000,
+        "last_update": 1678394090000,
         "name": "#00011-WINSTON CHURCHILL",
         "number": 11,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392860000,
+        "last_update": 1678394005000,
         "name": "#00012-HAMILIUS",
         "number": 12,
         "position": {
@@ -207,11 +207,11 @@
         "address": "",
         "available_bike_stands": 15,
         "available_bikes": 9,
-        "banking": false,
+        "banking": true,
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393010000,
+        "last_update": 1678394094000,
         "name": "#00013-GELLE FRA",
         "number": 13,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392996000,
+        "last_update": 1678394033000,
         "name": "#00014-KNUEDLER",
         "number": 14,
         "position": {
@@ -245,7 +245,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393025000,
+        "last_update": 1678394112000,
         "name": "#00015-THEATER PLAZ",
         "number": 15,
         "position": {
@@ -256,13 +256,13 @@
     },
     {
         "address": "- AMELIE - BOULEVARD ROYAL / AVENUE AMELIE",
-        "available_bike_stands": 16,
-        "available_bikes": 3,
+        "available_bike_stands": 12,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393060000,
+        "last_update": 1678394070000,
         "name": "#00016-AMELIE",
         "number": 16,
         "position": {
@@ -273,13 +273,13 @@
     },
     {
         "address": "ROBERT SCHUMAN - SQUARE SCHUMAN",
-        "available_bike_stands": 19,
-        "available_bikes": 4,
+        "available_bike_stands": 20,
+        "available_bikes": 3,
         "banking": true,
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392805000,
+        "last_update": 1678394060000,
         "name": "#00017-ROBERT SCHUMAN",
         "number": 17,
         "position": {
@@ -290,13 +290,13 @@
     },
     {
         "address": "CAMPUS LAMPERTSBIERG - RUE DE LA FAIENCERIE ( DEVANT N\u00b0 151 )",
-        "available_bike_stands": 16,
-        "available_bikes": 3,
+        "available_bike_stands": 15,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393013000,
+        "last_update": 1678394057000,
         "name": "#00018-CAMPUS LAMPERTSBIERG",
         "number": 18,
         "position": {
@@ -313,7 +313,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392937000,
+        "last_update": 1678394127000,
         "name": "#00019-PHILHARMONIE",
         "number": 19,
         "position": {
@@ -330,7 +330,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392763000,
+        "last_update": 1678393977000,
         "name": "#00020-COQUE",
         "number": 20,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392956000,
+        "last_update": 1678393881000,
         "name": "#00021-JEAN MONNET",
         "number": 21,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392924000,
+        "last_update": 1678394136000,
         "name": "#00022-CAMPUS KIRCHBIERG",
         "number": 22,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392882000,
+        "last_update": 1678394095000,
         "name": "#00023-REIMERWEE",
         "number": 23,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392777000,
+        "last_update": 1678393953000,
         "name": "#00024-WEICKER",
         "number": 24,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393037000,
+        "last_update": 1678394122000,
         "name": "#00025-KIEM",
         "number": 25,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392816000,
+        "last_update": 1678393947000,
         "name": "#00026-HOLLERECHER PLAZ",
         "number": 26,
         "position": {
@@ -449,7 +449,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392928000,
+        "last_update": 1678394042000,
         "name": "#00027-MERCIER",
         "number": 27,
         "position": {
@@ -460,13 +460,13 @@
     },
     {
         "address": "CHARLY'S GARE - BOULEVARD PRINCE HENRI",
-        "available_bike_stands": 11,
-        "available_bikes": 9,
+        "available_bike_stands": 12,
+        "available_bikes": 8,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392911000,
+        "last_update": 1678394014000,
         "name": "#00028-CHARLY'S GARE",
         "number": 28,
         "position": {
@@ -483,7 +483,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393032000,
+        "last_update": 1678393880000,
         "name": "#00029-MONTEREY",
         "number": 29,
         "position": {
@@ -500,7 +500,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392975000,
+        "last_update": 1678394017000,
         "name": "#00030-MERKELS PLAZ",
         "number": 30,
         "position": {
@@ -511,13 +511,13 @@
     },
     {
         "address": "PLACE DE FRANCE - PLACE DE FRANCE",
-        "available_bike_stands": 5,
-        "available_bikes": 14,
+        "available_bike_stands": 4,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393010000,
+        "last_update": 1678393848000,
         "name": "#00031-PLACE DE FRANCE",
         "number": 31,
         "position": {
@@ -534,7 +534,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393050000,
+        "last_update": 1678393959000,
         "name": "#00032-PISCINE OLYMPIQUE",
         "number": 32,
         "position": {
@@ -551,7 +551,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393049000,
+        "last_update": 1678393937000,
         "name": "#00033-K. ADENAUER",
         "number": 33,
         "position": {
@@ -568,7 +568,7 @@
         "bike_stands": 31,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393020000,
+        "last_update": 1678394128000,
         "name": "#00034-KOLLEISCH",
         "number": 34,
         "position": {
@@ -579,13 +579,13 @@
     },
     {
         "address": "GASTON DIDERICH - AVENUE GASTON DIDERICH",
-        "available_bike_stands": 6,
-        "available_bikes": 9,
+        "available_bike_stands": 5,
+        "available_bikes": 10,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392827000,
+        "last_update": 1678393895000,
         "name": "#00035-GASTON DIDERICH",
         "number": 35,
         "position": {
@@ -613,13 +613,13 @@
     },
     {
         "address": "GAULOIS - RUE DES GAULOIS 11",
-        "available_bike_stands": 1,
-        "available_bikes": 12,
+        "available_bike_stands": 0,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392875000,
+        "last_update": 1678394130000,
         "name": "#00037-GAULOIS",
         "number": 37,
         "position": {
@@ -636,7 +636,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393027000,
+        "last_update": 1678394078000,
         "name": "#00038-HELLEG GEESCHT",
         "number": 38,
         "position": {
@@ -647,13 +647,13 @@
     },
     {
         "address": "KRAIZGRENNCHEN - SQUARE DE NEW- YORK",
-        "available_bike_stands": 10,
-        "available_bikes": 8,
+        "available_bike_stands": 11,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392988000,
+        "last_update": 1678394085000,
         "name": "#00039-KRAIZGRENNCHEN",
         "number": 39,
         "position": {
@@ -670,7 +670,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392914000,
+        "last_update": 1678394106000,
         "name": "#00040-GLACIS KAPELL",
         "number": 40,
         "position": {
@@ -687,7 +687,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392903000,
+        "last_update": 1678394096000,
         "name": "#00041-PLACE LAURENT",
         "number": 41,
         "position": {
@@ -698,13 +698,13 @@
     },
     {
         "address": "SQUARE ANDRE - SQUARE EDOUARD ANDRE ( DEVANT N\u00b0 1 )",
-        "available_bike_stands": 18,
+        "available_bike_stands": 17,
         "available_bikes": 2,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393047000,
+        "last_update": 1678394055000,
         "name": "#00042-SQUARE ANDRE",
         "number": 42,
         "position": {
@@ -715,13 +715,13 @@
     },
     {
         "address": "LYCEE TECHNIQUE DE BONNEVOIE - RUE DU CIMETIERE ( DEVANT N\u00b0 110 )",
-        "available_bike_stands": 13,
-        "available_bikes": 5,
+        "available_bike_stands": 12,
+        "available_bikes": 6,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392877000,
+        "last_update": 1678394119000,
         "name": "#00043-LYCEE TECHNIQUE DE BONNEVOIE",
         "number": 43,
         "position": {
@@ -738,7 +738,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393040000,
+        "last_update": 1678394028000,
         "name": "#00044-ARELER STROOSS",
         "number": 44,
         "position": {
@@ -755,7 +755,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393063000,
+        "last_update": 1678393932000,
         "name": "#00045-AUBEPINES",
         "number": 45,
         "position": {
@@ -766,13 +766,13 @@
     },
     {
         "address": "LONKECHER STROOSS - ROUTE DE LONGWY ( DEVANT N\u00b0 241 )",
-        "available_bike_stands": 4,
-        "available_bikes": 11,
+        "available_bike_stands": 3,
+        "available_bikes": 12,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392968000,
+        "last_update": 1678394048000,
         "name": "#00046-LONKECHER STROOSS",
         "number": 46,
         "position": {
@@ -789,7 +789,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392885000,
+        "last_update": 1678393999000,
         "name": "#00047-LEOPOLD GOEBEL",
         "number": 47,
         "position": {
@@ -806,7 +806,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392850000,
+        "last_update": 1678394111000,
         "name": "#00048-BGL BNP PARIBAS",
         "number": 48,
         "position": {
@@ -823,7 +823,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393025000,
+        "last_update": 1678393848000,
         "name": "#00049-MARGUERITES",
         "number": 49,
         "position": {
@@ -840,7 +840,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392887000,
+        "last_update": 1678394101000,
         "name": "#00050-EUROPAPARLAMENT",
         "number": 50,
         "position": {
@@ -857,7 +857,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392975000,
+        "last_update": 1678394042000,
         "name": "#00051-SAUERWISS",
         "number": 51,
         "position": {
@@ -874,7 +874,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392772000,
+        "last_update": 1678394036000,
         "name": "#00052-BEI DER AUER",
         "number": 52,
         "position": {
@@ -891,7 +891,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392904000,
+        "last_update": 1678394117000,
         "name": "#00053-LUDWIG VAN BEETHOVEN",
         "number": 53,
         "position": {
@@ -908,7 +908,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392864000,
+        "last_update": 1678394077000,
         "name": "#00054-CLOCHE D' OR",
         "number": 54,
         "position": {
@@ -925,7 +925,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392974000,
+        "last_update": 1678393993000,
         "name": "#00055-SCHAARFEN ECK",
         "number": 55,
         "position": {
@@ -942,7 +942,7 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392881000,
+        "last_update": 1678394111000,
         "name": "#00056-FISCHERHAFF",
         "number": 56,
         "position": {
@@ -959,7 +959,7 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392765000,
+        "last_update": 1678393868000,
         "name": "#00057-BOUILLON",
         "number": 57,
         "position": {
@@ -970,13 +970,13 @@
     },
     {
         "address": "SCHLUECHTHAUS - RUE DE L'ABATTOIR",
-        "available_bike_stands": 7,
-        "available_bikes": 12,
+        "available_bike_stands": 6,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392936000,
+        "last_update": 1678394127000,
         "name": "#00058-SCHLUECHTHAUS",
         "number": 58,
         "position": {
@@ -987,13 +987,13 @@
     },
     {
         "address": "ST HUBERT - RUE DE MERL 147 / RUE ST HUBERT",
-        "available_bike_stands": 14,
-        "available_bikes": 5,
+        "available_bike_stands": 15,
+        "available_bikes": 4,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392882000,
+        "last_update": 1678393924000,
         "name": "#00059-ST HUBERT",
         "number": 59,
         "position": {
@@ -1010,7 +1010,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392891000,
+        "last_update": 1678394026000,
         "name": "#00060-BOCH",
         "number": 60,
         "position": {
@@ -1027,7 +1027,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392988000,
+        "last_update": 1678394123000,
         "name": "#00061-FRIEDEN",
         "number": 61,
         "position": {
@@ -1044,7 +1044,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392928000,
+        "last_update": 1678393945000,
         "name": "#00062-LEYDENBACH",
         "number": 62,
         "position": {
@@ -1061,7 +1061,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392848000,
+        "last_update": 1678393989000,
         "name": "#00063-LABOURS",
         "number": 63,
         "position": {
@@ -1078,7 +1078,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392835000,
+        "last_update": 1678394133000,
         "name": "#00064-GRENIER",
         "number": 64,
         "position": {
@@ -1095,7 +1095,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393030000,
+        "last_update": 1678393990000,
         "name": "#00065-BEI DER SCHOUL",
         "number": 65,
         "position": {
@@ -1112,7 +1112,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393039000,
+        "last_update": 1678394124000,
         "name": "#00066-BEIM TENNIS",
         "number": 66,
         "position": {
@@ -1129,7 +1129,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392864000,
+        "last_update": 1678393956000,
         "name": "#00067-MAIRIE DE HESPERANGE",
         "number": 67,
         "position": {
@@ -1146,7 +1146,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392954000,
+        "last_update": 1678393987000,
         "name": "#00068-UM SCHLASS",
         "number": 68,
         "position": {
@@ -1163,7 +1163,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393011000,
+        "last_update": 1678393966000,
         "name": "#00069-UM REIMERWEE",
         "number": 69,
         "position": {
@@ -1174,13 +1174,13 @@
     },
     {
         "address": "- GEMENG STROOSSEN - RUE DES ROMAINS",
-        "available_bike_stands": 8,
+        "available_bike_stands": 9,
         "available_bikes": 10,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392920000,
+        "last_update": 1678393966000,
         "name": "#00070-GEMENG STROOSSEN",
         "number": 70,
         "position": {
@@ -1197,7 +1197,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393033000,
+        "last_update": 1678394137000,
         "name": "#00071-LES THERMES",
         "number": 71,
         "position": {
@@ -1214,7 +1214,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393030000,
+        "last_update": 1678393945000,
         "name": "#00072-AN DER BOURMICHT",
         "number": 72,
         "position": {
@@ -1231,7 +1231,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392870000,
+        "last_update": 1678393843000,
         "name": "#00073-JEANNE D'ARC",
         "number": 73,
         "position": {
@@ -1248,7 +1248,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393043000,
+        "last_update": 1678394140000,
         "name": "#00074-SAINTE CUNEGONDE",
         "number": 74,
         "position": {
@@ -1265,7 +1265,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392839000,
+        "last_update": 1678394102000,
         "name": "#00075-BEINCHEN",
         "number": 75,
         "position": {
@@ -1276,13 +1276,13 @@
     },
     {
         "address": "SAUVAGE - RUE JEAN-PIERRE SAUVAGE",
-        "available_bike_stands": 8,
-        "available_bikes": 7,
+        "available_bike_stands": 7,
+        "available_bikes": 8,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392941000,
+        "last_update": 1678394121000,
         "name": "#00076-SAUVAGE",
         "number": 76,
         "position": {
@@ -1299,7 +1299,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393036000,
+        "last_update": 1678394048000,
         "name": "#00077-FUNICULAIRE",
         "number": 77,
         "position": {
@@ -1310,13 +1310,13 @@
     },
     {
         "address": "Rue St.Mathieu/ pr\u00e9s de l'arr\u00eat Pafendall",
-        "available_bike_stands": 11,
-        "available_bikes": 7,
+        "available_bike_stands": 12,
+        "available_bikes": 6,
         "banking": true,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393049000,
+        "last_update": 1678394010000,
         "name": "#00078-ST MATHIEU",
         "number": 78,
         "position": {
@@ -1327,13 +1327,13 @@
     },
     {
         "address": "GARE CENTRALE - PLACE DE LA GARE (Quai n\u00b01)",
-        "available_bike_stands": 1,
-        "available_bikes": 19,
+        "available_bike_stands": 7,
+        "available_bikes": 13,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392935000,
+        "last_update": 1678394068000,
         "name": "#00079-GARE CENTRALE",
         "number": 79,
         "position": {
@@ -1350,7 +1350,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393011000,
+        "last_update": 1678394085000,
         "name": "#00080-INS",
         "number": 80,
         "position": {
@@ -1367,7 +1367,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392928000,
+        "last_update": 1678394033000,
         "name": "#00081-CARMEL",
         "number": 81,
         "position": {
@@ -1384,7 +1384,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392800000,
+        "last_update": 1678393880000,
         "name": "#00082-GARE CENTS-HAMM",
         "number": 82,
         "position": {
@@ -1401,7 +1401,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392918000,
+        "last_update": 1678393976000,
         "name": "#00083-PULVERM\u00dcHL",
         "number": 83,
         "position": {
@@ -1418,7 +1418,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392851000,
+        "last_update": 1678394103000,
         "name": "#00084-BITBOURG",
         "number": 84,
         "position": {
@@ -1435,7 +1435,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392958000,
+        "last_update": 1678393868000,
         "name": "#00085-EINSTEIN",
         "number": 85,
         "position": {
@@ -1452,7 +1452,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392833000,
+        "last_update": 1678394047000,
         "name": "#00086-PWC - BD KOCKELSCHEUER",
         "number": 86,
         "position": {
@@ -1469,7 +1469,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392947000,
+        "last_update": 1678393857000,
         "name": "#00087-NATIONALBIBLIOTHEIK",
         "number": 87,
         "position": {
@@ -1486,7 +1486,7 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393007000,
+        "last_update": 1678394039000,
         "name": "#00088-SERRA",
         "number": 88,
         "position": {
@@ -1503,7 +1503,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392854000,
+        "last_update": 1678394073000,
         "name": "#00089-PLACE THORN",
         "number": 89,
         "position": {
@@ -1520,7 +1520,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392961000,
+        "last_update": 1678394001000,
         "name": "#00090-HUBERTY (M\u00dcHLENBACH)",
         "number": 90,
         "position": {
@@ -1531,13 +1531,13 @@
     },
     {
         "address": "Rue de M\u00fchlenbach/ Rue Jules Mersch",
-        "available_bike_stands": 9,
-        "available_bikes": 10,
+        "available_bike_stands": 8,
+        "available_bikes": 11,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393006000,
+        "last_update": 1678394080000,
         "name": "#00091-MERSCH (M\u00dcHLENBACH)",
         "number": 91,
         "position": {
@@ -1554,7 +1554,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392914000,
+        "last_update": 1678394019000,
         "name": "#00092-BRILL (CESSANGE)",
         "number": 92,
         "position": {
@@ -1571,7 +1571,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393031000,
+        "last_update": 1678393853000,
         "name": "#00093-GODCHAUX (BONNEVOIE)",
         "number": 93,
         "position": {
@@ -1588,7 +1588,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392933000,
+        "last_update": 1678393912000,
         "name": "#00094-HAMM-COLONIE",
         "number": 94,
         "position": {
@@ -1605,7 +1605,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392980000,
+        "last_update": 1678393961000,
         "name": "#00095-MAIRIE DE BERTRANGE",
         "number": 95,
         "position": {
@@ -1622,7 +1622,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392928000,
+        "last_update": 1678393949000,
         "name": "#00096-BERTRANGE - GARE",
         "number": 96,
         "position": {
@@ -1639,7 +1639,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393037000,
+        "last_update": 1678394010000,
         "name": "#00097-HELFENT (PARKING)",
         "number": 97,
         "position": {
@@ -1656,7 +1656,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392977000,
+        "last_update": 1678394024000,
         "name": "#00098-CITY CONCORDE",
         "number": 98,
         "position": {
@@ -1673,7 +1673,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393009000,
+        "last_update": 1678394019000,
         "name": "#00099-CAMPUS CENTS",
         "number": 99,
         "position": {
@@ -1684,13 +1684,13 @@
     },
     {
         "address": "FORT NIEDERGR\u00dcNEWALD - RUE DU FORT NIEDERGR\u00dcNEWALD/KENNEDY",
-        "available_bike_stands": 17,
-        "available_bikes": 2,
+        "available_bike_stands": 18,
+        "available_bikes": 1,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392902000,
+        "last_update": 1678394075000,
         "name": "#00100-FORT NIEDERGR\u00dcNEWALD",
         "number": 100,
         "position": {
@@ -1707,7 +1707,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392882000,
+        "last_update": 1678394017000,
         "name": "#00102-FENTANGE HIEHL",
         "number": 102,
         "position": {
@@ -1724,7 +1724,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393002000,
+        "last_update": 1678394075000,
         "name": "#00103-ALZINGEN G\u00c4SSEL",
         "number": 103,
         "position": {
@@ -1741,7 +1741,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392993000,
+        "last_update": 1678394032000,
         "name": "#00104-ITZIG VILLAGE/PLACE MANDERSCHEID",
         "number": 104,
         "position": {
@@ -1758,7 +1758,7 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392815000,
+        "last_update": 1678393948000,
         "name": "#00105-ITZIG PLATEAU/HUBERTUSPAD",
         "number": 105,
         "position": {
@@ -1775,7 +1775,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393004000,
+        "last_update": 1678394123000,
         "name": "#00106-CENTRE",
         "number": 106,
         "position": {
@@ -1792,7 +1792,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392925000,
+        "last_update": 1678394075000,
         "name": "#00107-GARE",
         "number": 107,
         "position": {
@@ -1809,7 +1809,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393050000,
+        "last_update": 1678394144000,
         "name": "#00108-EDELECK",
         "number": 108,
         "position": {
@@ -1826,7 +1826,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392922000,
+        "last_update": 1678394124000,
         "name": "#00109-FOYER",
         "number": 109,
         "position": {
@@ -1843,7 +1843,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392989000,
+        "last_update": 1678394093000,
         "name": "#00110-ROND-POINT GASSECHTBIERG",
         "number": 110,
         "position": {
@@ -1860,7 +1860,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393052000,
+        "last_update": 1678394066000,
         "name": "#00111-HALL SPORTIF NICOLAS FRANTZ",
         "number": 111,
         "position": {
@@ -1877,7 +1877,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392991000,
+        "last_update": 1678394117000,
         "name": "#00112-ADMINISTRATION COMMUNALE",
         "number": 112,
         "position": {
@@ -1894,7 +1894,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392823000,
+        "last_update": 1678394055000,
         "name": "#00113-EDEMER",
         "number": 113,
         "position": {
@@ -1911,7 +1911,7 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393059000,
+        "last_update": 1678393846000,
         "name": "#00114-ROND-POINT MOTEL",
         "number": 114,
         "position": {
@@ -1928,7 +1928,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393015000,
+        "last_update": 1678393963000,
         "name": "#00115-CENTRE CULTUREL CAP",
         "number": 115,
         "position": {
@@ -1945,7 +1945,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392855000,
+        "last_update": 1678393994000,
         "name": "#00116-CHARLY'S STATION",
         "number": 116,
         "position": {
@@ -1962,7 +1962,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392998000,
+        "last_update": 1678393917000,
         "name": "#00117-SYRDALL SCHWEMM",
         "number": 117,
         "position": {
@@ -1979,7 +1979,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393019000,
+        "last_update": 1678393929000,
         "name": "#00118-PESCHER 4",
         "number": 118,
         "position": {
@@ -1996,7 +1996,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392956000,
+        "last_update": 1678394132000,
         "name": "#00119-RIEDGEN",
         "number": 119,
         "position": {
@@ -2013,7 +2013,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392869000,
+        "last_update": 1678394082000,
         "name": "#00120-RUE DES PLATANES",
         "number": 120,
         "position": {
@@ -2030,7 +2030,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393026000,
+        "last_update": 1678393951000,
         "name": "#00121-RUE KIEM",
         "number": 121,
         "position": {
@@ -2047,7 +2047,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393008000,
+        "last_update": 1678394039000,
         "name": "#00122-RUE DE LEUDELANGE",
         "number": 122,
         "position": {
@@ -2064,7 +2064,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678393046000,
+        "last_update": 1678394020000,
         "name": "#00123-BELLE ETOILE",
         "number": 123,
         "position": {
@@ -2081,7 +2081,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "luxembourg",
-        "last_update": 1678392990000,
+        "last_update": 1678394129000,
         "name": "#00124-CITE RIEDGEN",
         "number": 124,
         "position": {

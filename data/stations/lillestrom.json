@@ -7,7 +7,7 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lillestrom",
-        "last_update": 1678392831000,
+        "last_update": 1678394049000,
         "name": "LILLESTR\u00d8M STASJON",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lillestrom",
-        "last_update": 1678392861000,
+        "last_update": 1678394078000,
         "name": "THON HOTEL ARENA",
         "number": 2,
         "position": {
@@ -41,7 +41,7 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lillestrom",
-        "last_update": 1678392759000,
+        "last_update": 1678393974000,
         "name": "SKEDSMO VGS",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lillestrom",
-        "last_update": 1678392489000,
+        "last_update": 1678393705000,
         "name": "STORTORGET",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lillestrom",
-        "last_update": 1678392516000,
+        "last_update": 1678393733000,
         "name": "\u00c5R\u00c5SEN",
         "number": 5,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lillestrom",
-        "last_update": 1678392720000,
+        "last_update": 1678393937000,
         "name": "KJELLER",
         "number": 6,
         "position": {

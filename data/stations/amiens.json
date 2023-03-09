@@ -7,7 +7,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392650000,
+        "last_update": 1678393865000,
         "name": "01 - SAINT PIERRE",
         "number": 1,
         "position": {
@@ -24,7 +24,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392961000,
+        "last_update": 1678393570000,
         "name": "02- LES HALLES",
         "number": 2,
         "position": {
@@ -41,7 +41,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392865000,
+        "last_update": 1678394080000,
         "name": "03- VOGEL",
         "number": 3,
         "position": {
@@ -58,7 +58,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392557000,
+        "last_update": 1678393772000,
         "name": "04- PLACE AU FEURRE",
         "number": 4,
         "position": {
@@ -75,7 +75,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392634000,
+        "last_update": 1678393849000,
         "name": "05- ST LEU",
         "number": 5,
         "position": {
@@ -92,7 +92,7 @@
         "bike_stands": 50,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392773000,
+        "last_update": 1678393988000,
         "name": "06- CITADELLE MONTRESCU",
         "number": 6,
         "position": {
@@ -109,7 +109,7 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392779000,
+        "last_update": 1678393995000,
         "name": "07- COLLEGE SAINT-MARTIN",
         "number": 7,
         "position": {
@@ -126,7 +126,7 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392625000,
+        "last_update": 1678393840000,
         "name": "08- VANMARCKE",
         "number": 8,
         "position": {
@@ -143,7 +143,7 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392548000,
+        "last_update": 1678393763000,
         "name": "09- CATHEDRALE",
         "number": 9,
         "position": {
@@ -160,7 +160,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392945000,
+        "last_update": 1678393552000,
         "name": "10- PALAIS DE JUSTICE",
         "number": 10,
         "position": {
@@ -177,7 +177,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392992000,
+        "last_update": 1678393600000,
         "name": "11- PORT D' AMONT",
         "number": 11,
         "position": {
@@ -194,7 +194,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392905000,
+        "last_update": 1678393515000,
         "name": "12- AMIENS 2",
         "number": 12,
         "position": {
@@ -211,7 +211,7 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678393010000,
+        "last_update": 1678393619000,
         "name": "13- GARE JULES BARNI",
         "number": 13,
         "position": {
@@ -228,7 +228,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392750000,
+        "last_update": 1678393966000,
         "name": "14- GARE CINEMA",
         "number": 14,
         "position": {
@@ -239,13 +239,13 @@
     },
     {
         "address": "Rue des Jacobins",
-        "available_bike_stands": 8,
-        "available_bikes": 12,
+        "available_bike_stands": 9,
+        "available_bikes": 11,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392720000,
+        "last_update": 1678393936000,
         "name": "15- JACOBINS",
         "number": 15,
         "position": {
@@ -256,13 +256,13 @@
     },
     {
         "address": "Place du Mar\u00e9chal Joffre",
-        "available_bike_stands": 10,
-        "available_bikes": 10,
+        "available_bike_stands": 11,
+        "available_bikes": 9,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392771000,
+        "last_update": 1678393988000,
         "name": "16- JOFFRE",
         "number": 16,
         "position": {
@@ -279,7 +279,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392833000,
+        "last_update": 1678394048000,
         "name": "17- CIRQUE",
         "number": 17,
         "position": {
@@ -296,7 +296,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392831000,
+        "last_update": 1678394046000,
         "name": "18- PREFECTURE",
         "number": 18,
         "position": {
@@ -313,7 +313,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392563000,
+        "last_update": 1678393777000,
         "name": "19- REPUBLIQUE",
         "number": 19,
         "position": {
@@ -324,13 +324,13 @@
     },
     {
         "address": "Bd Maignan Larivi\u00e8re",
-        "available_bike_stands": 12,
-        "available_bikes": 8,
+        "available_bike_stands": 11,
+        "available_bikes": 9,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392768000,
+        "last_update": 1678394039000,
         "name": "20- BRANLY",
         "number": 20,
         "position": {
@@ -347,7 +347,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392982000,
+        "last_update": 1678393589000,
         "name": "21- MAISON DE LA CULTURE",
         "number": 21,
         "position": {
@@ -364,7 +364,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392846000,
+        "last_update": 1678394060000,
         "name": "22- QUATRE CHENES",
         "number": 22,
         "position": {
@@ -381,7 +381,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392936000,
+        "last_update": 1678393543000,
         "name": "23- ST ROCH",
         "number": 23,
         "position": {
@@ -398,7 +398,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392508000,
+        "last_update": 1678393722000,
         "name": "24- COLISEUM",
         "number": 24,
         "position": {
@@ -415,7 +415,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392951000,
+        "last_update": 1678393559000,
         "name": "25- LA HOTOIE",
         "number": 25,
         "position": {
@@ -432,7 +432,7 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678393078000,
+        "last_update": 1678393685000,
         "name": "26- MARCHE AUX CHEVAUX",
         "number": 26,
         "position": {
@@ -449,7 +449,7 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "amiens",
-        "last_update": 1678392523000,
+        "last_update": 1678393737000,
         "name": "27- CIT\u00c9 SCOLAIRE",
         "number": 27,
         "position": {
