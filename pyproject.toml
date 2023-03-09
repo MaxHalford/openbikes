@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "openbikes"
+version = "0.1.0"
+description = "Collecting bike sharing data"
+authors = ["Max Halford <maxhalford25@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.2"
+gitpython = "^3.1.31"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

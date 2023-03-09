@@ -1,0 +1,291 @@
+[
+    {
+        "address": "",
+        "available_bike_stands": 18,
+        "available_bikes": 19,
+        "banking": true,
+        "bike_stands": 40,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678393039000,
+        "name": "LUNDS CENTRAL",
+        "number": 1,
+        "position": {
+            "lat": 55.7065202995297,
+            "lng": 13.1874185800552
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 2,
+        "available_bikes": 23,
+        "banking": false,
+        "bike_stands": 25,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392748000,
+        "name": "BANTORGET",
+        "number": 2,
+        "position": {
+            "lat": 55.7042412794077,
+            "lng": 13.1876116991043
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 7,
+        "available_bikes": 11,
+        "banking": true,
+        "bike_stands": 20,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392743000,
+        "name": "STADSPARKEN NORR",
+        "number": 3,
+        "position": {
+            "lat": 55.7013726686025,
+            "lng": 13.1856563687325
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 12,
+        "available_bikes": 9,
+        "banking": true,
+        "bike_stands": 21,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392749000,
+        "name": "STORTORGET",
+        "number": 4,
+        "position": {
+            "lat": 55.7029777865809,
+            "lng": 13.1933650374413
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 22,
+        "available_bikes": 9,
+        "banking": true,
+        "bike_stands": 33,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392597000,
+        "name": "M\u00c5RTENSTORGET",
+        "number": 5,
+        "position": {
+            "lat": 55.7019107380952,
+            "lng": 13.196025788784
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 7,
+        "available_bikes": 13,
+        "banking": false,
+        "bike_stands": 20,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678393030000,
+        "name": "GALTEN",
+        "number": 6,
+        "position": {
+            "lat": 55.7008134312229,
+            "lng": 13.1956234574318
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 13,
+        "available_bikes": 7,
+        "banking": true,
+        "bike_stands": 20,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392600000,
+        "name": "BOTANISKA TR\u00c4DG\u00c5RDEN",
+        "number": 7,
+        "position": {
+            "lat": 55.7059732259213,
+            "lng": 13.201240003109
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 7,
+        "available_bikes": 13,
+        "banking": true,
+        "bike_stands": 21,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392942000,
+        "name": "UNIVERSITETSBIBLIOTEKET",
+        "number": 8,
+        "position": {
+            "lat": 55.7080949824667,
+            "lng": 13.1963047385216
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 10,
+        "available_bikes": 20,
+        "banking": false,
+        "bike_stands": 30,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392734000,
+        "name": "UNIVERSITETSSJUKHUSET",
+        "number": 9,
+        "position": {
+            "lat": 55.7128579364781,
+            "lng": 13.1967929005623
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 11,
+        "available_bikes": 11,
+        "banking": true,
+        "bike_stands": 23,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392897000,
+        "name": "RIDHUSET",
+        "number": 10,
+        "position": {
+            "lat": 55.7167933353397,
+            "lng": 13.2074149131058
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 6,
+        "available_bikes": 18,
+        "banking": false,
+        "bike_stands": 24,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392863000,
+        "name": "LTH",
+        "number": 11,
+        "position": {
+            "lat": 55.712382,
+            "lng": 13.208109
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 16,
+        "available_bikes": 5,
+        "banking": true,
+        "bike_stands": 21,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392753000,
+        "name": "ALLHELGONAKYRKAN",
+        "number": 12,
+        "position": {
+            "lat": 55.710366,
+            "lng": 13.192236
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 7,
+        "available_bikes": 13,
+        "banking": false,
+        "bike_stands": 21,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392999000,
+        "name": "IDEON NORR",
+        "number": 13,
+        "position": {
+            "lat": 55.715504,
+            "lng": 13.214801
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 11,
+        "available_bikes": 10,
+        "banking": false,
+        "bike_stands": 21,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392718000,
+        "name": "IDEON S\u00d6DER",
+        "number": 14,
+        "position": {
+            "lat": 55.712961,
+            "lng": 13.213704
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 26,
+        "available_bikes": 11,
+        "banking": true,
+        "bike_stands": 39,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392969000,
+        "name": "SPARTA",
+        "number": 15,
+        "position": {
+            "lat": 55.709257,
+            "lng": 13.214571
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 10,
+        "available_bikes": 13,
+        "banking": true,
+        "bike_stands": 23,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678392734000,
+        "name": "PROFESSORSGATAN",
+        "number": 16,
+        "position": {
+            "lat": 55.709632,
+            "lng": 13.20595
+        },
+        "status": "OPEN"
+    },
+    {
+        "address": "",
+        "available_bike_stands": 11,
+        "available_bikes": 12,
+        "banking": false,
+        "bike_stands": 23,
+        "bonus": false,
+        "contract_name": "lund",
+        "last_update": 1678393030000,
+        "name": "FYSIOLOGEN",
+        "number": 17,
+        "position": {
+            "lat": 55.710874,
+            "lng": 13.202782
+        },
+        "status": "OPEN"
+    }
+]
