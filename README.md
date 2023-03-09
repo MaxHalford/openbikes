@@ -1,3 +1,7 @@
+# OpenBikes
+
+Collecting and publishing bike sharing data.
+
 ## Development
 
 ```sh
