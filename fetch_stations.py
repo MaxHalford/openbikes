@@ -1,9 +1,11 @@
 import concurrent.futures
+import datetime as dt
 import logging
-import json
 import pathlib
 import functools
 import requests
+from git import Repo
+import tools
 
 
 def jcdecaux(city):
@@ -12,14 +14,9 @@ def jcdecaux(city):
     r = requests.get(url)
     r.raise_for_status()
     stations = r.json()
+    for station in stations:
+        del station["last_update"]
     return sorted(stations, key=lambda x: x["number"])
-
-
-def call_and_save(func, filename):
-    data = func()
-    filename.parent.mkdir(parents=True, exist_ok=True)
-    with open(filename, "w") as f:
-        json.dump(data, f, sort_keys=True, indent=4)
 
 
 city_funcs = {
@@ -51,17 +48,15 @@ city_funcs = {
     "ljubljana": functools.partial(jcdecaux, "ljubljana"),
 }
 
-here = pathlib.Path(__file__).parent
-logging.basicConfig(level="INFO", format="level=%(levelname)s %(message)s")
-
 
 def main():
+    here = pathlib.Path(__file__).parent
     cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
 
     with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
         future_to_city = {
             executor.submit(
-                call_and_save,
+                tools.call_and_save,
                 func=city_funcs[city],
                 filename=here / "data" / "stations" / f"{city}.json",
             ): city
@@ -75,6 +70,12 @@ def main():
             logging.info(f"✅ {city}")
         except Exception as exc:
             logging.exception(f"❌ {city}: {exc}")
+
+    repo = Repo(here)
+    repo.git.add(here / "data" / "stations")
+    repo.index.commit(
+        f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
+    )
 
 
 if __name__ == "__main__":

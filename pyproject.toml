@@ -13,6 +13,7 @@ gitpython = "^3.1.31"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
+ipykernel = "^6.21.3"
 
 [build-system]
 requires = ["poetry-core"]
