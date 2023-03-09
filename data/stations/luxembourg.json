@@ -178,7 +178,7 @@
     {
         "address": "HAMILIUS - RUE NOTRE DAME 37",
         "available_bike_stands": 15,
-        "available_bikes": 3,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
@@ -530,7 +530,7 @@
     {
         "address": "- KOLLEISCH - RUE DE BRAGANCE",
         "available_bike_stands": 15,
-        "available_bikes": 14,
+        "available_bikes": 15,
         "banking": false,
         "bike_stands": 31,
         "bonus": false,
@@ -577,8 +577,8 @@
     },
     {
         "address": "GAULOIS - RUE DES GAULOIS 11",
-        "available_bike_stands": 0,
-        "available_bikes": 13,
+        "available_bike_stands": 7,
+        "available_bikes": 6,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
@@ -737,8 +737,8 @@
     },
     {
         "address": "LEOPOLD GOEBEL - ALLEE LEOPOLD GOEBEL ( DEVANT N\u00b0 109 )",
-        "available_bike_stands": 7,
-        "available_bikes": 13,
+        "available_bike_stands": 8,
+        "available_bikes": 12,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
