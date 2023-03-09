@@ -1,3 +1,5 @@
+fastapi
 gitpython
 python-dotenv
 requests
+uvicorn
