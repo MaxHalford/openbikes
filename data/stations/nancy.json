@@ -7,7 +7,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394922000,
         "name": "00001 - DOMINICAINS - FOURIER (CB)",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395002000,
         "name": "00002 - PLACE DE LA CARRIERE",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394689000,
         "name": "00003 - PLACE DE DOMBASLE",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395062000,
         "name": "00004 - MARCHE CENTRAL (CB)",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395112000,
         "name": "00005 - PLACE COLONEL DRIANT",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394595000,
         "name": "00006 - LES 2 RIVES",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394626000,
         "name": "00007 - PLACE ST EPVRE",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395131000,
         "name": "00008 - COURS LEOPOLD - SAINT MICHEL",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394672000,
         "name": "00009 - PLACE BARROIS",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395081000,
         "name": "00010 - GARE THIERS (CB)",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394686000,
         "name": "00011 - MAZAGRAN - FOCH (CB)",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394756000,
         "name": "00012 - ST SEBASTIEN - ST THIEBAUT",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394622000,
         "name": "00013 - SAINT NICOLAS - CHARLES III",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394887000,
         "name": "00014 - FAC DE LETTRES",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394705000,
         "name": "00015 - PORT STE CATHERINE",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394856000,
         "name": "00016 - PORTE DE LA CRAFFE",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394606000,
         "name": "00017 - CONSERVATOIRE - MANUFACTURE",
         "number": 17,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394723000,
         "name": "00018 - GARE SAINT LEON",
         "number": 18,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394729000,
         "name": "00019 - COMMANDERIE - CHALNOT",
         "number": 19,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395110000,
         "name": "00020 - PLACE DES VOSGES",
         "number": 20,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394775000,
         "name": "00021 - HOPITAL CENTRAL",
         "number": 21,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395020000,
         "name": "00022 - HOPITAL ST JULIEN",
         "number": 22,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394943000,
         "name": "00023 - PROMENADE DES CANAUX",
         "number": 23,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394991000,
         "name": "00024 - 3 MAISONS - CHARLES V (CB)",
         "number": 24,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395105000,
         "name": "00025 - PLACE COMMANDERIE",
         "number": 25,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395081000,
         "name": "00026 - BAUDRICOURT HAUSSONVILLE",
         "number": 26,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394971000,
         "name": "00028 - MARCH\u00c9 D'HAUSSONVILLE",
         "number": 28,
         "position": {
@@ -460,13 +433,12 @@
     },
     {
         "address": "Place du V\u00e9lodrome",
-        "available_bike_stands": 22,
-        "available_bikes": 2,
+        "available_bike_stands": 23,
+        "available_bikes": 1,
         "banking": true,
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394773000,
         "name": "00029 - VELODROME (CB)",
         "number": 29,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394646000,
         "name": "00030 - NATIONS",
         "number": 30,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678395143000,
         "name": "00031 - ARTEM",
         "number": 31,
         "position": {
@@ -517,7 +487,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394962000,
         "name": "00032 - MEDREVILLE",
         "number": 32,
         "position": {
@@ -534,7 +503,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394617000,
         "name": "00033 - LAXOU MAIRIE",
         "number": 33,
         "position": {
@@ -551,7 +519,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394801000,
         "name": "00034 - MALZEVILLE",
         "number": 34,
         "position": {
@@ -568,7 +535,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "nancy",
-        "last_update": 1678394925000,
         "name": "00036 - SAURUPT",
         "number": 36,
         "position": {

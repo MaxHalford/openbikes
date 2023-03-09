@@ -7,7 +7,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395056000,
         "name": "001_GUILLEN_DE_CASTRO",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395146000,
         "name": "002_CALLE_SALVADOR_GINER_CALLE_MUSEO",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394630000,
         "name": "003_PLAZA_MUSICO_LOPEZ_CHAVARRI",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395069000,
         "name": "004_PLAZA_DE_LA_VIRGEN_CALLE_BAILIA",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394948000,
         "name": "005_PINTOR_LOPEZ_PZA_POETA_LLORENTE",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394889000,
         "name": "006_GUILLEN_CASTRO_CON_CALLE_SAN_PEDRO_PASCUAL",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394914000,
         "name": "007_PZA_DEL_MERCADO_TAULA_DE_CANVIS",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395189000,
         "name": "008_PLAZA_DE_LA_REINA_ESQUINA_CALLE_DEL_MAR",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394789000,
         "name": "009_PLAZA_TETUAN_4",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394626000,
         "name": "010_CALLE_DEL_HOSPITAL_FRENTE_CALLE_HORNO_DEL_HOSP",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394673000,
         "name": "011_PZA_AYTO_CON_CALLE_COTANDA",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395068000,
         "name": "012_CALLE_MINYANA",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394767000,
         "name": "013_PZA. ALFONSO MAGNANIMO_CON_CALLE_LA_NAVE",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395211000,
         "name": "014_BAR\u00d3N CARCER",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394738000,
         "name": "015_RIBERA",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394866000,
         "name": "016_COLON I",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394653000,
         "name": "017_ESTACION RENFE I",
         "number": 17,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394844000,
         "name": "018_COLON II",
         "number": 18,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394773000,
         "name": "019_JUAN_LLORENS",
         "number": 19,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395003000,
         "name": "020_FERNANDO_EL_CATOLICO_CALLE_QUART",
         "number": 20,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394797000,
         "name": "021_JUAN_LLORENS_29",
         "number": 21,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394921000,
         "name": "022_JUAN_LLORENS_57",
         "number": 22,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394943000,
         "name": "023_GRAN_VIA_FERNANDO_EL_CATOLICO",
         "number": 23,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395221000,
         "name": "024_GRAN_VIA_RAMON_Y_CAJAL",
         "number": 24,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394760000,
         "name": "025_CALLE_DEL_ALBERIC",
         "number": 25,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394682000,
         "name": "026_CALLE_SAN_JOSE_DE_CALASANZ",
         "number": 26,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394881000,
         "name": "027_CALLE_SAN_VICENTE_MARTIR_129",
         "number": 27,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 29,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394726000,
         "name": "028_NAVARRO REVERTE",
         "number": 28,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395049000,
         "name": "029_PLAZA AMERICA",
         "number": 29,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394823000,
         "name": "030_CIRILO AMOROS",
         "number": 30,
         "position": {
@@ -517,7 +487,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395209000,
         "name": "031_CALLE SALAMANCA",
         "number": 31,
         "position": {
@@ -534,7 +503,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678081395000,
         "name": "032_C/ CONDE DE ALTEA",
         "number": 32,
         "position": {
@@ -551,7 +519,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395157000,
         "name": "033_GRAN_VIA_GERMANIAS_ESQ_CALLE_RUZAFA",
         "number": 33,
         "position": {
@@ -568,7 +535,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395040000,
         "name": "34_AVDA. ANTIGUO REINO DE VALENCIA",
         "number": 34,
         "position": {
@@ -585,7 +551,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1677821616000,
         "name": "35_C/ DUQUE DE CALABRIA",
         "number": 35,
         "position": {
@@ -602,7 +567,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395158000,
         "name": "036_PZA_LOS_FUEROS_CONDE_TRENOR",
         "number": 36,
         "position": {
@@ -619,7 +583,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394774000,
         "name": "37_AVDA. PERIS Y VALERO",
         "number": 37,
         "position": {
@@ -636,7 +599,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394780000,
         "name": "38_AVDA. PERIS Y VALERO",
         "number": 38,
         "position": {
@@ -653,7 +615,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395184000,
         "name": "39_AVDA. PERIS Y VALERO",
         "number": 39,
         "position": {
@@ -670,7 +631,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395171000,
         "name": "40_CALLE_BARCAS_FRENTE _TEATRO_PRINCIPAL",
         "number": 40,
         "position": {
@@ -687,7 +647,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395179000,
         "name": "41_AVDA. GRAL. URRUTIA",
         "number": 41,
         "position": {
@@ -704,7 +663,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395176000,
         "name": "42_AVDA. DE LA PLATA",
         "number": 42,
         "position": {
@@ -721,7 +679,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394891000,
         "name": "43_C/ DE ORIENTE",
         "number": 43,
         "position": {
@@ -738,7 +695,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394789000,
         "name": "44_AVDA. GRAL. URRUTIA",
         "number": 44,
         "position": {
@@ -755,7 +711,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394752000,
         "name": "45_AVDA. GRAL. URRUTIA",
         "number": 45,
         "position": {
@@ -772,7 +727,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395042000,
         "name": "46_AVDA. INSTITUTO OBRERO DE VALENCIA",
         "number": 46,
         "position": {
@@ -789,7 +743,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394962000,
         "name": "47_AVDA. AUTOPISTA DEL SALER",
         "number": 47,
         "position": {
@@ -806,7 +759,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395198000,
         "name": "48_AVDA. ANTONIO FERRANDIS",
         "number": 48,
         "position": {
@@ -823,7 +775,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395004000,
         "name": "49_C/ RICARDO MU\u00d1OZ SUAY",
         "number": 49,
         "position": {
@@ -840,7 +791,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394883000,
         "name": "50_AVDA. AUTOPISTA DEL SALER",
         "number": 50,
         "position": {
@@ -857,7 +807,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394860000,
         "name": "51_PSO. DE LAS MORERAS",
         "number": 51,
         "position": {
@@ -874,7 +823,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394751000,
         "name": "52_C/ LUIS GARCIA BERLANGA",
         "number": 52,
         "position": {
@@ -891,7 +839,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394870000,
         "name": "53_C/ LUIS GARCIA BERLANGA",
         "number": 53,
         "position": {
@@ -908,7 +855,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395077000,
         "name": "54_PASEO ALAMEDA",
         "number": 54,
         "position": {
@@ -925,7 +871,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395150000,
         "name": "55_AVDA. DE FRANCIA",
         "number": 55,
         "position": {
@@ -942,7 +887,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394877000,
         "name": "56_AVDA. DE FRANCIA",
         "number": 56,
         "position": {
@@ -959,7 +903,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395224000,
         "name": "057_CALLE PINTOR MONLEON",
         "number": 57,
         "position": {
@@ -976,7 +919,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395184000,
         "name": "058_PLAZA DE ESPA\u00d1A",
         "number": 58,
         "position": {
@@ -993,7 +935,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395071000,
         "name": "059_AVDA. DE BALEARES I",
         "number": 59,
         "position": {
@@ -1010,7 +951,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394788000,
         "name": "060_AVDA.BALEARES II",
         "number": 60,
         "position": {
@@ -1027,7 +967,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395069000,
         "name": "061_VICENTE VIDAL",
         "number": 61,
         "position": {
@@ -1044,7 +983,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395156000,
         "name": "062_MENORCA",
         "number": 62,
         "position": {
@@ -1061,7 +999,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395204000,
         "name": "063_AVDA. DEL PUERTO I",
         "number": 63,
         "position": {
@@ -1078,7 +1015,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394900000,
         "name": "064_AVDA. DEL PUERTO II",
         "number": 64,
         "position": {
@@ -1095,7 +1031,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395060000,
         "name": "065_AVDA. DEL PUERTO III",
         "number": 65,
         "position": {
@@ -1112,7 +1047,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394648000,
         "name": "066_GUILLEN DE ANGLESOLA",
         "number": 66,
         "position": {
@@ -1129,7 +1063,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395135000,
         "name": "067_JUAN VERDEGUER",
         "number": 67,
         "position": {
@@ -1146,7 +1079,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395009000,
         "name": "068_AVDA. DEL PUERTO IV",
         "number": 68,
         "position": {
@@ -1163,7 +1095,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395118000,
         "name": "069_AVDA. DEL PUERTO",
         "number": 69,
         "position": {
@@ -1180,7 +1111,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395142000,
         "name": "70_CALLE_COLON_ESQ_ALMIRANTE_ROGER_DE_LAURIA",
         "number": 70,
         "position": {
@@ -1197,7 +1127,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394636000,
         "name": "071_AVDA DEL PUERTO VI",
         "number": 71,
         "position": {
@@ -1214,7 +1143,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394662000,
         "name": "072_RAMIRO MAETZU",
         "number": 72,
         "position": {
@@ -1231,7 +1159,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395131000,
         "name": "073_JERONIMO MONSORIU",
         "number": 73,
         "position": {
@@ -1248,7 +1175,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394654000,
         "name": "074_PLAZA SAN FELIPE NERI",
         "number": 74,
         "position": {
@@ -1265,7 +1191,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395078000,
         "name": "075_CAMPOAMOR I",
         "number": 75,
         "position": {
@@ -1282,7 +1207,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395002000,
         "name": "076_CAMPOAMOR II",
         "number": 76,
         "position": {
@@ -1299,7 +1223,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394676000,
         "name": "77_C/ MOLINELL",
         "number": 77,
         "position": {
@@ -1316,7 +1239,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394657000,
         "name": "078_AVDA. ARAG\u00d3N I",
         "number": 78,
         "position": {
@@ -1333,7 +1255,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395008000,
         "name": "079_AVDA. ARAGON II",
         "number": 79,
         "position": {
@@ -1350,7 +1271,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394684000,
         "name": "080_AMADEO SAVOIA",
         "number": 80,
         "position": {
@@ -1367,7 +1287,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394978000,
         "name": "081_DOCTOR FORNOS",
         "number": 81,
         "position": {
@@ -1384,7 +1303,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394987000,
         "name": "082_GUILLEN_DE_CASTRO_TORRES_DE_QUART",
         "number": 82,
         "position": {
@@ -1401,7 +1319,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394956000,
         "name": "83_PZA. DE LA LEGI\u00d3N ESPA\u00d1OLA",
         "number": 83,
         "position": {
@@ -1418,7 +1335,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394647000,
         "name": "84_SERRERIA_ESQ_PINTOR FERRER CALATAYUD",
         "number": 84,
         "position": {
@@ -1435,7 +1351,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395156000,
         "name": "085_AVDA_BLASCO IBA\u00d1EZ 1",
         "number": 85,
         "position": {
@@ -1452,7 +1367,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395062000,
         "name": "86_AVDA_GASPAR_AGUILAR_ESQ_VICENTE_PARRA",
         "number": 86,
         "position": {
@@ -1469,7 +1383,6 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395003000,
         "name": "87_AVDA BLASCO IBA\u00d1EZ 2",
         "number": 87,
         "position": {
@@ -1486,7 +1399,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394703000,
         "name": "088_AVDA. BLASCO IBA\u00d1EZ 3",
         "number": 88,
         "position": {
@@ -1503,7 +1415,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395145000,
         "name": "89_AVDA. BLASCO IBA\u00d1EZ",
         "number": 89,
         "position": {
@@ -1520,7 +1431,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394762000,
         "name": "90_AVDA. BLASCO IBA\u00d1EZ",
         "number": 90,
         "position": {
@@ -1537,7 +1447,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395112000,
         "name": "091_CALLE_GRABADOR_JORDAN_46_PLAZA_ESCULTOR_PASTOR",
         "number": 91,
         "position": {
@@ -1554,7 +1463,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395100000,
         "name": "092_AVDA. DE ARAGON, 4 - ESQ AVDA BLASCO IBA\u00d1EZ",
         "number": 92,
         "position": {
@@ -1571,7 +1479,6 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395133000,
         "name": "93_AVADA_BLASCO_IBA\u00d1EZ_DESP_C_POETA_DURAN_TORTAJAD",
         "number": 93,
         "position": {
@@ -1588,7 +1495,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394775000,
         "name": "094_AVDA. BLASCO IBA\u00d1EZ 5",
         "number": 94,
         "position": {
@@ -1605,7 +1511,6 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394730000,
         "name": "95_AVDA. DE LOS NARANJOS",
         "number": 95,
         "position": {
@@ -1622,7 +1527,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395174000,
         "name": "096_AVDA. BLASCO IBA\u00d1EZ 6",
         "number": 96,
         "position": {
@@ -1639,7 +1543,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395206000,
         "name": "097_AVDA. BLASCO IBA\u00d1EZ 7",
         "number": 97,
         "position": {
@@ -1656,7 +1559,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394734000,
         "name": "098_SANTOS JUSTO Y PASTOR",
         "number": 98,
         "position": {
@@ -1673,7 +1575,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394729000,
         "name": "099_AVDA. BLASCO IBA\u00d1EZ 8",
         "number": 99,
         "position": {
@@ -1690,7 +1591,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394705000,
         "name": "100_AVDA. BLASCO IBA\u00d1EZ 9",
         "number": 100,
         "position": {
@@ -1707,7 +1607,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395194000,
         "name": "101_AVDA. BLASCO IBA\u00d1EZ 10",
         "number": 101,
         "position": {
@@ -1724,7 +1623,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394958000,
         "name": "102_AVDA.RAMON LLUL",
         "number": 102,
         "position": {
@@ -1741,7 +1639,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394922000,
         "name": "103_RUBEN DARIO",
         "number": 103,
         "position": {
@@ -1758,7 +1655,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395130000,
         "name": "104_ALBALAT DELS TARONGERS",
         "number": 104,
         "position": {
@@ -1775,7 +1671,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395088000,
         "name": "105_AVDA. DE LOS NARANJOS",
         "number": 105,
         "position": {
@@ -1792,7 +1687,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394882000,
         "name": "106_AVDA. DE LOS NARANJOS",
         "number": 106,
         "position": {
@@ -1809,7 +1703,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395192000,
         "name": "107_C/ CAMPILLO ALTO BUEY",
         "number": 107,
         "position": {
@@ -1826,7 +1719,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395148000,
         "name": "108_ LUIS PEIXO",
         "number": 108,
         "position": {
@@ -1843,7 +1735,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394714000,
         "name": "109_AVDA. NARANJOS",
         "number": 109,
         "position": {
@@ -1860,7 +1751,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394745000,
         "name": "110_KISSHOMARU",
         "number": 110,
         "position": {
@@ -1877,7 +1767,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394778000,
         "name": "111_UNIVERSIDAD POLITECNICA \u2013 JUNTO PISTAS DEPORTI",
         "number": 111,
         "position": {
@@ -1894,7 +1783,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395197000,
         "name": "112_AVDA. DE LOS NARANJOS",
         "number": 112,
         "position": {
@@ -1911,7 +1799,6 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394954000,
         "name": "113_ETS CAMINOS",
         "number": 113,
         "position": {
@@ -1928,7 +1815,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394898000,
         "name": "114_ADOLFO SUAREZ",
         "number": 114,
         "position": {
@@ -1945,7 +1831,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395177000,
         "name": "115_C/ DR. VICENTE ZARAGOZA",
         "number": 115,
         "position": {
@@ -1962,7 +1847,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395212000,
         "name": "116_C/ DR. VICENTE ZARAGOZA",
         "number": 116,
         "position": {
@@ -1979,7 +1863,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395162000,
         "name": "117_PRIMADO REIG",
         "number": 117,
         "position": {
@@ -1996,7 +1879,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395200000,
         "name": "118_C/ DR. GOMEZ FERRER",
         "number": 118,
         "position": {
@@ -2013,7 +1895,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395184000,
         "name": "119_C/ JAIME ROIG",
         "number": 119,
         "position": {
@@ -2030,7 +1911,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395202000,
         "name": "120_C_DR VICENTE ZARAGOZA",
         "number": 120,
         "position": {
@@ -2047,7 +1927,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395190000,
         "name": "121_C_MURTA",
         "number": 121,
         "position": {
@@ -2064,7 +1943,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395192000,
         "name": "122_C_M\u00daSICO HIP\u00d3LITO MART\u00cdNEZ",
         "number": 122,
         "position": {
@@ -2081,7 +1959,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395032000,
         "name": "123_C_ALBOCACER",
         "number": 123,
         "position": {
@@ -2098,7 +1975,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394897000,
         "name": "124_C/ AZAGADOR DE ALBORAYA",
         "number": 124,
         "position": {
@@ -2115,7 +1991,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395158000,
         "name": "125_C/ MASQUEFA",
         "number": 125,
         "position": {
@@ -2132,7 +2007,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395014000,
         "name": "126_C/ ALFAUIR",
         "number": 126,
         "position": {
@@ -2149,7 +2023,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395194000,
         "name": "127_C/ DUQUE DE MANDAS",
         "number": 127,
         "position": {
@@ -2166,7 +2039,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394737000,
         "name": "128_C/ ALFAUIR",
         "number": 128,
         "position": {
@@ -2183,7 +2055,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394831000,
         "name": "129_C_ALMAZORA",
         "number": 129,
         "position": {
@@ -2200,7 +2071,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395156000,
         "name": "130_C/ CONVENTO CARMELITAS",
         "number": 130,
         "position": {
@@ -2217,7 +2087,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394698000,
         "name": "131_CALLE SANTA AMALIA  2",
         "number": 131,
         "position": {
@@ -2234,7 +2103,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394672000,
         "name": "132_C/ RUAYA",
         "number": 132,
         "position": {
@@ -2251,7 +2119,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394807000,
         "name": "133_C/ ALFAMBRA",
         "number": 133,
         "position": {
@@ -2268,7 +2135,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394851000,
         "name": "134_C/ MAXIMILIANO THOUS",
         "number": 134,
         "position": {
@@ -2285,7 +2151,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395218000,
         "name": "135_AVDA. CONSTITUCI\u00d3N",
         "number": 135,
         "position": {
@@ -2302,7 +2167,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394757000,
         "name": "136_CALLE_ECONOMISTA_GAY",
         "number": 136,
         "position": {
@@ -2319,7 +2183,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395213000,
         "name": "137_CALLE_ECONOMISTA_GAY",
         "number": 137,
         "position": {
@@ -2336,7 +2199,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395046000,
         "name": "138_SAN_PANCRACIO",
         "number": 138,
         "position": {
@@ -2353,7 +2215,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395005000,
         "name": "139_C/ REUS",
         "number": 139,
         "position": {
@@ -2370,7 +2231,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395051000,
         "name": "140_AVENIDA_CAMPANAR",
         "number": 140,
         "position": {
@@ -2387,7 +2247,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395135000,
         "name": "141_C/ GREGORIO GEA (PEATONAL)",
         "number": 141,
         "position": {
@@ -2404,7 +2263,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395103000,
         "name": "142_C/ GREGORIO GEA (PEATONAL)",
         "number": 142,
         "position": {
@@ -2421,7 +2279,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394663000,
         "name": "143_AVDA. MENENDEZ PIDAL",
         "number": 143,
         "position": {
@@ -2438,7 +2295,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394850000,
         "name": "144_CALLE_MARQUES_DE_SAN_JUAN",
         "number": 144,
         "position": {
@@ -2455,7 +2311,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394781000,
         "name": "145_PLAZA_BADAJOZ",
         "number": 145,
         "position": {
@@ -2472,7 +2327,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394896000,
         "name": "146_AVDA. CAMPANAR",
         "number": 146,
         "position": {
@@ -2489,7 +2343,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394755000,
         "name": "147_CALLE_PIE_DE_LA_CRUZ_CALLE_DE_LA_REJA",
         "number": 147,
         "position": {
@@ -2506,7 +2359,6 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395024000,
         "name": "148_X\u00c0TIVA_PLAZA_DE_TOROS",
         "number": 148,
         "position": {
@@ -2523,7 +2375,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395186000,
         "name": "149_AVDA. PERIS Y VALERO",
         "number": 149,
         "position": {
@@ -2540,7 +2391,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395031000,
         "name": "150_DR. MANUEL CANDELA",
         "number": 150,
         "position": {
@@ -2557,7 +2407,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395041000,
         "name": "151_JERONIMO MONSORIU",
         "number": 151,
         "position": {
@@ -2574,7 +2423,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395194000,
         "name": "152_C/ LITERATO AZOR\u00cdN",
         "number": 152,
         "position": {
@@ -2591,7 +2439,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394772000,
         "name": "153_C/ LLANO DE ZAIDA",
         "number": 153,
         "position": {
@@ -2608,7 +2455,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395131000,
         "name": "154_PESCADORES",
         "number": 154,
         "position": {
@@ -2625,7 +2471,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394672000,
         "name": "155_C/ SALAMANCA",
         "number": 155,
         "position": {
@@ -2642,7 +2487,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395165000,
         "name": "156_C/ CUBA",
         "number": 156,
         "position": {
@@ -2659,7 +2503,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395208000,
         "name": "157_AVENIDA_PEREZ_GALDOS",
         "number": 157,
         "position": {
@@ -2676,7 +2519,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394857000,
         "name": "158_DR.LLUNCH",
         "number": 158,
         "position": {
@@ -2693,7 +2535,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395006000,
         "name": "159_FRANCISCO CUBELLS",
         "number": 159,
         "position": {
@@ -2710,7 +2551,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394729000,
         "name": "160_JOSE MARIA DE HARO",
         "number": 160,
         "position": {
@@ -2727,7 +2567,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395075000,
         "name": "161_MEDITERRANEO",
         "number": 161,
         "position": {
@@ -2744,7 +2583,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394842000,
         "name": "162_PZA. ARMADA ESPA\u00d1OLA",
         "number": 162,
         "position": {
@@ -2761,7 +2599,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395160000,
         "name": "163_PASEO NEPTUNO",
         "number": 163,
         "position": {
@@ -2778,7 +2615,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395073000,
         "name": "164_PAVIA 1",
         "number": 164,
         "position": {
@@ -2795,7 +2631,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395098000,
         "name": "165_PAVIA 2",
         "number": 165,
         "position": {
@@ -2812,7 +2647,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395121000,
         "name": "166_PROGRESO",
         "number": 166,
         "position": {
@@ -2829,7 +2663,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395073000,
         "name": "167_PAVIA 3",
         "number": 167,
         "position": {
@@ -2846,7 +2679,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394880000,
         "name": "168_AVDA. MALVARROSA",
         "number": 168,
         "position": {
@@ -2863,7 +2695,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394738000,
         "name": "169_PAVIA 4",
         "number": 169,
         "position": {
@@ -2880,7 +2711,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394690000,
         "name": "170_PAVIA 5",
         "number": 170,
         "position": {
@@ -2897,7 +2727,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395086000,
         "name": "171_CALLE GRAN CANARIA",
         "number": 171,
         "position": {
@@ -2914,7 +2743,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395191000,
         "name": "172_AVENIDA_PIO_XII",
         "number": 172,
         "position": {
@@ -2931,7 +2759,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395202000,
         "name": "173_AVENIDA_PIO_XII_34",
         "number": 173,
         "position": {
@@ -2948,7 +2775,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395036000,
         "name": "174_CALLE_MONDUBER",
         "number": 174,
         "position": {
@@ -2965,7 +2791,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395023000,
         "name": "175_CALLE_JUAN_XXIII",
         "number": 175,
         "position": {
@@ -2982,7 +2807,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394730000,
         "name": "176_CAMINO_DE_MONCADA_52",
         "number": 176,
         "position": {
@@ -2999,7 +2823,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394679000,
         "name": "177_CALLE_ALCUDIA",
         "number": 177,
         "position": {
@@ -3016,7 +2839,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395183000,
         "name": "178_CALLE_REIG_GENOVES",
         "number": 178,
         "position": {
@@ -3033,7 +2855,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395197000,
         "name": "179_AVENIDA_DE_LA_PLATA_45",
         "number": 179,
         "position": {
@@ -3050,7 +2871,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395181000,
         "name": "180_AVENIDA_DOCTOR_WAKSMAN",
         "number": 180,
         "position": {
@@ -3067,7 +2887,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394957000,
         "name": "181_CALLE_DEL_SALINAR",
         "number": 181,
         "position": {
@@ -3084,7 +2903,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395179000,
         "name": "182_AVDA_AUSIAS_MARCH",
         "number": 182,
         "position": {
@@ -3101,7 +2919,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394836000,
         "name": "183 - AVDA AUSIAS MARCH",
         "number": 183,
         "position": {
@@ -3118,7 +2935,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395182000,
         "name": "184_CALLE_BOMBER_RAMON_DUART",
         "number": 184,
         "position": {
@@ -3135,7 +2951,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395090000,
         "name": "185_AVDA_AUSIAS_MARCH",
         "number": 185,
         "position": {
@@ -3152,7 +2967,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395161000,
         "name": "186_CALLE_INGENIERO_JOAQUIN_BENLLOCH",
         "number": 186,
         "position": {
@@ -3169,7 +2983,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394710000,
         "name": "187_AVDA_AUSIAS_MARCH",
         "number": 187,
         "position": {
@@ -3186,7 +2999,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394828000,
         "name": "188_HOSPITAL_NUEVA_FE",
         "number": 188,
         "position": {
@@ -3203,7 +3015,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394649000,
         "name": "189_HOSPITAL_NUEVA_FE",
         "number": 189,
         "position": {
@@ -3220,7 +3031,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394983000,
         "name": "190_CTRA_MALILLA",
         "number": 190,
         "position": {
@@ -3237,7 +3047,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394695000,
         "name": "191_CTRA_MALILLA",
         "number": 191,
         "position": {
@@ -3254,7 +3063,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394681000,
         "name": "192_CTRA_MALILLA",
         "number": 192,
         "position": {
@@ -3271,7 +3079,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394925000,
         "name": "193_CALLE_CARTEROS",
         "number": 193,
         "position": {
@@ -3288,7 +3095,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394991000,
         "name": "194_ESTACION_AVE_JOAQUIN_SOROLLA",
         "number": 194,
         "position": {
@@ -3305,7 +3111,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394865000,
         "name": "195_CALLE_GIORGETA",
         "number": 195,
         "position": {
@@ -3322,7 +3127,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394839000,
         "name": "196_AVDA_GASPAR_AGUILAR",
         "number": 196,
         "position": {
@@ -3339,7 +3143,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394898000,
         "name": "197_CALLE_FONTANARS_DELS_AFORINS",
         "number": 197,
         "position": {
@@ -3356,7 +3159,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394913000,
         "name": "198_CALLE_FONTANARS_DELS_AFORINS",
         "number": 198,
         "position": {
@@ -3373,7 +3175,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395008000,
         "name": "199_CALLE_BEATO_NICOLAS_FACTOR",
         "number": 199,
         "position": {
@@ -3390,7 +3191,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395152000,
         "name": "200_AVDA_DEL_CID",
         "number": 200,
         "position": {
@@ -3407,7 +3207,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394786000,
         "name": "201_AVDA_PEREZ_GALDOS",
         "number": 201,
         "position": {
@@ -3424,7 +3223,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395103000,
         "name": "202_PASEO_PECHINA",
         "number": 202,
         "position": {
@@ -3441,7 +3239,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395159000,
         "name": "203_CALLE_REINA_VIOLANTE",
         "number": 203,
         "position": {
@@ -3458,7 +3255,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395096000,
         "name": "204_AVDA_GENERAL_AVILES",
         "number": 204,
         "position": {
@@ -3475,7 +3271,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395141000,
         "name": "205_CALLE_NICASIO_BENLLOCH",
         "number": 205,
         "position": {
@@ -3492,7 +3287,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394764000,
         "name": "206_CALLE_PERIODISTA_GIL_SUMBIELA",
         "number": 206,
         "position": {
@@ -3509,7 +3303,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394833000,
         "name": "207_CALLE_MILLARES_ESQ_CALLE_FEDERICO_GARCA_LORCA",
         "number": 207,
         "position": {
@@ -3526,7 +3319,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395071000,
         "name": "208_CALLE_CARTEROS_ESQ_CALLE_MOSSEN_FEBRER",
         "number": 208,
         "position": {
@@ -3543,7 +3335,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395182000,
         "name": "209_AVDA_GASPAR_AGUILAR_ESQ_CALLE_MUSICO_PENELLA",
         "number": 209,
         "position": {
@@ -3560,7 +3351,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394666000,
         "name": "210_CALLE_CAMPOS_CRESPO_ESQ_CALLE_JUAN_DE_GARAY",
         "number": 210,
         "position": {
@@ -3577,7 +3367,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395133000,
         "name": "211_CALLE_FRAY_JUN\u00cdPERO_SERRA_ESQ_CALLE_VALL_D'UIX",
         "number": 211,
         "position": {
@@ -3594,7 +3383,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395205000,
         "name": "212_CALLE_FRAY_JUAN\u00cdPERO_SERRA_ESQ_CALLE_TORRENTE",
         "number": 212,
         "position": {
@@ -3611,7 +3399,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394779000,
         "name": "213_CALLE_ARCHIDUQUE_CARLOS_ESQ_CALLE_JOSE_MA_MOR",
         "number": 213,
         "position": {
@@ -3628,7 +3415,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395140000,
         "name": "214_CALLE_SANTA_CRUZ_DE_TENERIFE_ESQ_CALLE_LLOMBA",
         "number": 214,
         "position": {
@@ -3645,7 +3431,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394841000,
         "name": "215_CALLE_MUSICO_AYLLON_ESQ_CALLE_FRANCISCO_DOLZ",
         "number": 215,
         "position": {
@@ -3662,7 +3447,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394670000,
         "name": "216_AVDA_DEL_CID_ESQ_CALLE_BURGOS",
         "number": 216,
         "position": {
@@ -3679,7 +3463,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394912000,
         "name": "217_CALLE_9_DE_OCTUBRE_ESQ_CALLE_PINTOR_STOLZ",
         "number": 217,
         "position": {
@@ -3696,7 +3479,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395081000,
         "name": "218_CALLE_SALVADOR_FERRANDIS_LUNA_ESQ_CALLE_JUAN_B",
         "number": 218,
         "position": {
@@ -3713,7 +3495,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395165000,
         "name": "219_CALLE_CASTAN_TOBE\u00d1AS_ESQ_CALLE_VELAZQUEZ",
         "number": 219,
         "position": {
@@ -3730,7 +3511,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394825000,
         "name": "220_CALLE_CASTAN_TOBE\u00d1AS_ESQ_CALLE_DE_GOYA",
         "number": 220,
         "position": {
@@ -3747,7 +3527,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394768000,
         "name": "221_AVDA_MANUEL_DE_FALLA_ESQ_CALLE_HERNANDEZ_LAZAR",
         "number": 221,
         "position": {
@@ -3764,7 +3543,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394878000,
         "name": "222_AVDA_MAESTRO_RODRIGO_ESQ_AVDA_MANUEL_DE_FALLA",
         "number": 222,
         "position": {
@@ -3781,7 +3559,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395095000,
         "name": "223_CALLE_VALLE_BALLESTERA_ESQ_PLAZA_POLICIA_LOCAL",
         "number": 223,
         "position": {
@@ -3798,7 +3575,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395010000,
         "name": "224_PLAZA_JOSE_MONFORTE_TUDELA_ESQ_CALLE_HERNANDEZ",
         "number": 224,
         "position": {
@@ -3815,7 +3591,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394872000,
         "name": "225_CALLE_PADRE_BARRANCO_DESPUES_CALLE_BENIFAIRO",
         "number": 225,
         "position": {
@@ -3832,7 +3607,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395056000,
         "name": "226_CALLE_SAFOR_ESQ_AVDA_DE_LAS_CORTES_VALENCIANAS",
         "number": 226,
         "position": {
@@ -3849,7 +3623,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394786000,
         "name": "227_CALLE_SAN_CLEMENTE_ENTRA_HOSPITAL_ARNAU_VILANO",
         "number": 227,
         "position": {
@@ -3866,7 +3639,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394979000,
         "name": "228_AVDA_NICASIO_BENLLOCH_ESQ_CALLE_L'HORTA_SUD",
         "number": 228,
         "position": {
@@ -3883,7 +3655,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394844000,
         "name": "229_CALLE_AITANA_ESQ_AVDA_BURJASSOT",
         "number": 229,
         "position": {
@@ -3900,7 +3671,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395167000,
         "name": "230_CALLE_POETA_SERRANO_CLAVERO_EQ_GENERAL_LLORENS",
         "number": 230,
         "position": {
@@ -3917,7 +3687,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394624000,
         "name": "231_CALLE_DE_ALCA\u00d1IZ_ESQ_CALLE_CAMBRILS",
         "number": 231,
         "position": {
@@ -3934,7 +3703,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394786000,
         "name": "232_SAN_VICENTE_DE_PAUL_SANTIAGO_RUSI\u00d1OL",
         "number": 232,
         "position": {
@@ -3951,7 +3719,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394918000,
         "name": "233_SAN_JUAN_BOSCO_SANTIAGO_RUSI\u00d1OL",
         "number": 233,
         "position": {
@@ -3968,7 +3735,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394870000,
         "name": "234_PLAZA MUSICO_ESPI_JOSE_ESTEVE",
         "number": 234,
         "position": {
@@ -3985,7 +3751,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395209000,
         "name": "235_CONDE_DE_TORREFIEL_CECILIO_PLA",
         "number": 235,
         "position": {
@@ -4002,7 +3767,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394742000,
         "name": "236_RIO_SEGRE_RAFAEL_COMPANY",
         "number": 236,
         "position": {
@@ -4019,7 +3783,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395173000,
         "name": "237_LEVANTE_UD_AVDA_ECUADOR",
         "number": 237,
         "position": {
@@ -4036,7 +3799,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394885000,
         "name": "238_SAN_JOSE_ARTESANO_FRANCISCO_MOROTE_GREUS",
         "number": 238,
         "position": {
@@ -4053,7 +3815,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394922000,
         "name": "239_LA_FLORISTA_TRANVIA_PALACIO_CONGRESOS",
         "number": 239,
         "position": {
@@ -4070,7 +3831,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395054000,
         "name": "240_CAMP_DEL_TURIA_AVDA_CORTES_VALENCIANAS",
         "number": 240,
         "position": {
@@ -4087,7 +3847,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395194000,
         "name": "241_VALL_DE_ALBAIDA_PEATONAL",
         "number": 241,
         "position": {
@@ -4104,7 +3863,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394931000,
         "name": "242_LA_SAFOR_AVDA_MAESTRO_RODRIGO",
         "number": 242,
         "position": {
@@ -4121,7 +3879,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394996000,
         "name": "243_ALBACETE_ESQ_MALUQUER",
         "number": 243,
         "position": {
@@ -4138,7 +3895,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394733000,
         "name": "244_AVDA_PIO_BAROJA_VALLE_DE_LA_BALLESTERA",
         "number": 244,
         "position": {
@@ -4155,7 +3911,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394827000,
         "name": "245_9_DE_OCTUBRE_CIEZA",
         "number": 245,
         "position": {
@@ -4172,7 +3927,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394757000,
         "name": "246_AVDA_TRES_CRUCES_ENTRADA_HOSPITAL_GENERAL",
         "number": 246,
         "position": {
@@ -4189,7 +3943,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394911000,
         "name": "247_AVDA_TRES_CRUCES_MUSICO_AYLLON",
         "number": 247,
         "position": {
@@ -4206,7 +3959,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394854000,
         "name": "248_AVDA_TRES_CRUCES_JOSE_MARIA_MORTES_LERMA",
         "number": 248,
         "position": {
@@ -4223,7 +3975,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394880000,
         "name": "249_AVDA_TRES_CRUCES_SEGUNDA_REPUBLICA_ESPA\u00d1OLA",
         "number": 249,
         "position": {
@@ -4240,7 +3991,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394760000,
         "name": "250_AVDA_TRES_CRUCES_PIO_XI",
         "number": 250,
         "position": {
@@ -4257,7 +4007,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395170000,
         "name": "251_ARQUITECTO_SEGURA_LAGO_CAMINO_NUEVO_DE_PICA\u00d1A",
         "number": 251,
         "position": {
@@ -4274,7 +4023,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394921000,
         "name": "252_DE_LOS_GREMIOS_CAMPOS_CRESPO",
         "number": 252,
         "position": {
@@ -4291,7 +4039,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395126000,
         "name": "253_PLAZA_JOSE_MELIA_CASTELLO_CAMPOS_CRESPO",
         "number": 253,
         "position": {
@@ -4308,7 +4055,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394938000,
         "name": "254_AVDA_DR_TOMAS_SALA_CARTEROS",
         "number": 254,
         "position": {
@@ -4325,7 +4071,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394797000,
         "name": "255_SAN_VICENTE_MARTIR_TOMAS_DE_VILLAROYA",
         "number": 255,
         "position": {
@@ -4342,7 +4087,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394793000,
         "name": "256_AVDA_TRES_FORQUES_TURIS",
         "number": 256,
         "position": {
@@ -4359,7 +4103,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394782000,
         "name": "257_PLAZA_SALVADOR_SORIA_ESQ_PIO_X",
         "number": 257,
         "position": {
@@ -4376,7 +4119,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394839000,
         "name": "258_PINTOR_RAFAEL_SOLVES_ESQ_JOSE_SOTO_MICO",
         "number": 258,
         "position": {
@@ -4393,7 +4135,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394762000,
         "name": "259_CALLE_PIO_IX_POLIDEPORTIVO_RAMBLETA",
         "number": 259,
         "position": {
@@ -4410,7 +4151,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394995000,
         "name": "260_DELS_FERRERS_ESQ_TRAGINERS",
         "number": 260,
         "position": {
@@ -4427,7 +4167,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395079000,
         "name": "261_PZA_XUQUER_ESQ_VINALOPO",
         "number": 261,
         "position": {
@@ -4444,7 +4183,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394658000,
         "name": "262_AVDA_TRES_FORQUES_COLONIA_ESPANOLA_DE_MEXICO",
         "number": 262,
         "position": {
@@ -4461,7 +4199,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394737000,
         "name": "263_PADRE ESTEBAN_PERNET_ANTES_CASA_MISERICORDIA",
         "number": 263,
         "position": {
@@ -4478,7 +4215,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395130000,
         "name": "264_AVDA_CID_ANTES_MARCONI",
         "number": 264,
         "position": {
@@ -4495,7 +4231,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394752000,
         "name": "265_C_ALCASSER_POETA_ALBERTO_LISTA",
         "number": 265,
         "position": {
@@ -4512,7 +4247,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395219000,
         "name": "266_PLANA_ALTA_ESQ_AVDA_MAESTRO_RODRIGO",
         "number": 266,
         "position": {
@@ -4529,7 +4263,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394623000,
         "name": "267_C_BENIFERRI_VICENTE_TOMAS_MARTI",
         "number": 267,
         "position": {
@@ -4546,7 +4279,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394904000,
         "name": "268_PZA_LUIS_CANO_5",
         "number": 268,
         "position": {
@@ -4563,7 +4295,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395097000,
         "name": "269_CAMPAMENTO_81",
         "number": 269,
         "position": {
@@ -4580,7 +4311,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395166000,
         "name": "270_CALLE_NINOT_ESQ_PZA_REGINO_MAS",
         "number": 270,
         "position": {
@@ -4597,7 +4327,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394750000,
         "name": "271_CALLE_SALVADOR_CERVER\u00d3_CALLE_CARLOS_CORTINA",
         "number": 271,
         "position": {
@@ -4614,7 +4343,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395071000,
         "name": "272_VICENTE_LA_RODA_C_INGENIERO_FAUSTO_ELIO",
         "number": 272,
         "position": {
@@ -4631,7 +4359,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395126000,
         "name": "273_CALLE_MORAIRA_CALLE_DALT_DE_LA_MAR",
         "number": 273,
         "position": {
@@ -4648,7 +4375,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394639000,
         "name": "274_MANUEL_ANDRES_CASTELL_DE_POLOP",
         "number": 274,
         "position": {
@@ -4665,7 +4391,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678394754000,
         "name": "275_CAMINO_DE_LAS_MORERAS_ESQ_RONDA_DE_NAZARET",
         "number": 275,
         "position": {
@@ -4682,7 +4407,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "valence",
-        "last_update": 1678395058000,
         "name": "276_EDIFICIO_VELES_E_VENTS",
         "number": 276,
         "position": {

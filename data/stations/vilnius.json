@@ -7,7 +7,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1669623451000,
         "name": "1-ARKIKATEDRA",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1669623945000,
         "name": "2-BARBOROS RADVILAIT\u0116S",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1671781593000,
         "name": "3-K. SIRVYDO SKVERAS",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1672821931000,
         "name": "4-ROTU\u0160\u0116",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673251053000,
         "name": "5-FILHARMONIJA",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673269297000,
         "name": "6-HAL\u0116S TURGAVIET\u0116",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675076436000,
         "name": "7-STOTIS",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1672231601000,
         "name": "8-MAIRONIO",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673264193000,
         "name": "9-U\u017dUPIS",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675931718000,
         "name": "10-KALN\u0172 PARKAS",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673874577000,
         "name": "11-KARALIAUS MINDAUGO TILTAS",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1674549255000,
         "name": "12-V. KUDIRKOS AIK\u0160T\u0116",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675683880000,
         "name": "13-A. VIENUOLIO",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1676292761000,
         "name": "14-LUKI\u0160KI\u0172 AIK\u0160T\u0116",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673422171000,
         "name": "15-M. MA\u017dVYDO BIBLIOTEKA",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1671715194000,
         "name": "16-TAURO KALNAS",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1674474654000,
         "name": "17-JOGAILOS",
         "number": 17,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1676289048000,
         "name": "18-RADVIL\u0172 R\u016aMAI",
         "number": 18,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1674654033000,
         "name": "19-S. N\u0116RIES GIMNAZIJA",
         "number": 19,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1676272966000,
         "name": "21-VA\u0160INGTONO AIK\u0160T\u0116",
         "number": 21,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675254968000,
         "name": "22-VCUP",
         "number": 22,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1672216878000,
         "name": "23-EUROPOS AIK\u0160T\u0116",
         "number": 23,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675412638000,
         "name": "24-FORUM PALACE",
         "number": 24,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675079495000,
         "name": "25-PANORAMA",
         "number": 25,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1672403430000,
         "name": "26-EDUKOLOGIJOS UNIVERSITETAS",
         "number": 26,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1674479899000,
         "name": "27-\u017dALIASIS TILTAS",
         "number": 27,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675234714000,
         "name": "28-OPEROS IR BALETO TEATRAS",
         "number": 28,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673853305000,
         "name": "29-\u017dALGIRIO STADIONAS",
         "number": 29,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1674218915000,
         "name": "30- \u017dIRM\u016aN\u0172",
         "number": 30,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675252444000,
         "name": "31-OLAND\u0172 \u017dIEDAS",
         "number": 31,
         "position": {
@@ -517,7 +487,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673850421000,
         "name": "33-LIETUVOS VAIK\u0172 IR JAUNIMO CENTRAS",
         "number": 33,
         "position": {
@@ -534,7 +503,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1672903817000,
         "name": "35-VILNIAUS VARTAI",
         "number": 35,
         "position": {
@@ -551,7 +519,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1671021168000,
         "name": "36-AUTOBUS\u0172 STOTIS",
         "number": 36,
         "position": {
@@ -568,7 +535,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1676292764000,
         "name": "38-\u0160ILO TILTAS",
         "number": 38,
         "position": {
@@ -585,7 +551,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1673858790000,
         "name": "39-\u0160IAUR\u0116S MIESTELIS",
         "number": 39,
         "position": {
@@ -602,7 +567,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "vilnius",
-        "last_update": 1675754850000,
         "name": "40-OGMIOS MIESTAS",
         "number": 40,
         "position": {

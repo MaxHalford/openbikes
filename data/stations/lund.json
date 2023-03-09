@@ -7,7 +7,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395115000,
         "name": "LUNDS CENTRAL",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395170000,
         "name": "BANTORGET",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395164000,
         "name": "STADSPARKEN NORR",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395171000,
         "name": "STORTORGET",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395207000,
         "name": "M\u00c5RTENSTORGET",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394846000,
         "name": "GALTEN",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395021000,
         "name": "BOTANISKA TR\u00c4DG\u00c5RDEN",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394760000,
         "name": "UNIVERSITETSBIBLIOTEKET",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395155000,
         "name": "UNIVERSITETSSJUKHUSET",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394712000,
         "name": "RIDHUSET",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394680000,
         "name": "LTH",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394700000,
         "name": "ALLHELGONAKYRKAN",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394815000,
         "name": "IDEON NORR",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395139000,
         "name": "IDEON S\u00d6DER",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 39,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678394786000,
         "name": "SPARTA",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395155000,
         "name": "PROFESSORSGATAN",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lund",
-        "last_update": 1678395054000,
         "name": "FYSIOLOGEN",
         "number": 17,
         "position": {

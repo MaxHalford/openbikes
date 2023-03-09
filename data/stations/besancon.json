@@ -7,7 +7,6 @@
         "bike_stands": 30,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678394702000,
         "name": "01 - GARE VIOTTE (CB)",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394769000,
         "name": "02 - SQUARE BOUCHOT",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394732000,
         "name": "03 - MADELEINE (CB)",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395009000,
         "name": "04 - FLORE",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395154000,
         "name": "05 - ISEMBART",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395120000,
         "name": "06 - MICAUD (CB)",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394702000,
         "name": "07 - GARE MOUILLERE",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394761000,
         "name": "08 - MARULAZ",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394931000,
         "name": "09 - LA CITY (CB)",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394984000,
         "name": "10 - 8 SEPTEMBRE (CB)",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394856000,
         "name": "11 - JEAN CORNET",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395064000,
         "name": "12 - GRANVELLE (CB)",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395044000,
         "name": "13 - VICTOR HUGO",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394727000,
         "name": "14 - JACOBINS",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395069000,
         "name": "15 - TASSIGNY",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394697000,
         "name": "16 - BEAUREGARD",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394745000,
         "name": "17 - PREFECTURE",
         "number": 17,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394919000,
         "name": "18 - SAINT-JACQUES (CB)",
         "number": 18,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394612000,
         "name": "19 - BEAUX-ARTS",
         "number": 19,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394952000,
         "name": "20 - REVOLUTION",
         "number": 20,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394689000,
         "name": "21 - DEPORTES",
         "number": 21,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678394953000,
         "name": "22 - LIBERTE",
         "number": 22,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395028000,
         "name": "23 - RIVOTTE",
         "number": 23,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394839000,
         "name": "24 - MEDIATHEQUE",
         "number": 24,
         "position": {
@@ -409,13 +385,12 @@
     },
     {
         "address": "2 rue Morand",
-        "available_bike_stands": 7,
-        "available_bikes": 5,
+        "available_bike_stands": 8,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395190000,
         "name": "25 - MORAND",
         "number": 25,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678395096000,
         "name": "26 - BERSOT",
         "number": 26,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "besancon",
-        "last_update": 1678394912000,
         "name": "27 - MAIRIE",
         "number": 27,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678395159000,
         "name": "28 - LECLERC",
         "number": 28,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678394901000,
         "name": "29 - BELFORT",
         "number": 29,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "besancon",
-        "last_update": 1678394856000,
         "name": "30 - XAVIER MARMIER",
         "number": 30,
         "position": {

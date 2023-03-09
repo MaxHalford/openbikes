@@ -7,7 +7,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395011000,
         "name": "001 - OCTAVE HENRY",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394806000,
         "name": "002 - CROIX DE FEUX",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395194000,
         "name": "003 - GARE DU NORD",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678356563000,
         "name": "004 - GARE DE NAMUR",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394997000,
         "name": "006 - HOTEL DE VILLE",
         "number": 6,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394646000,
         "name": "007 - ANGE",
         "number": 7,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395073000,
         "name": "010 - ARTHUR MASSON",
         "number": 10,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394646000,
         "name": "011 - CITE ADMINISTRATIVE",
         "number": 11,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394922000,
         "name": "012 - PLACE SAINT-NICOLAS",
         "number": 12,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394890000,
         "name": "013 - PONT DES ARDENNES",
         "number": 13,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395047000,
         "name": "015 - PONT DE JAMBES",
         "number": 15,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394624000,
         "name": "016 - PLACE DE WALLONIE",
         "number": 16,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394770000,
         "name": "017 - GARE DE JAMBES",
         "number": 17,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394651000,
         "name": "018 - CPAS",
         "number": 18,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394973000,
         "name": "021 - CASINO",
         "number": 21,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394650000,
         "name": "022 - GROGNON",
         "number": 22,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394853000,
         "name": "023 - MAURICE SERVAIS",
         "number": 23,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394664000,
         "name": "024 - SAINT-AUBAIN",
         "number": 24,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395108000,
         "name": "025 - AUBERGE DE JEUNESSE",
         "number": 25,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678395109000,
         "name": "026 - ARSENAL",
         "number": 26,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394751000,
         "name": "027 - OMALIUS",
         "number": 27,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394826000,
         "name": "028 - EXPO",
         "number": 28,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394806000,
         "name": "029 - WIERTZ",
         "number": 29,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394748000,
         "name": "030 - PLACE LOUISE GODIN",
         "number": 30,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394876000,
         "name": "031 - PLACE DE BERCK-SUR-MER",
         "number": 31,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394973000,
         "name": "032- ECOLE DES CADETS",
         "number": 32,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394812000,
         "name": "033 - BOSQUETS",
         "number": 33,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394663000,
         "name": "034 - ROGIER",
         "number": 34,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "namur",
-        "last_update": 1678394758000,
         "name": "035 - REINE ASTRID",
         "number": 35,
         "position": {

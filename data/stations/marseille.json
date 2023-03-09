@@ -7,7 +7,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671455306000,
         "name": "1004-GENERAL DE GAULLE PARADIS",
         "number": 1004,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671456415000,
         "name": "1005-CENTRE BOURSE",
         "number": 1005,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671459765000,
         "name": "1213-GRIGNAN - MARCELLE PAUL",
         "number": 1213,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671438009000,
         "name": "1216-SAINTE - LULLI",
         "number": 1216,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671461656000,
         "name": "1230-ROOSEVELT - REFORMES",
         "number": 1230,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 7,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671523739000,
         "name": "1275- JULIEN - 3 MAGES",
         "number": 1275,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671521413000,
         "name": "1299- ST CHARLES VOLTAIRE LIBERT\u00c9",
         "number": 1299,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 19,
         "bonus": true,
         "contract_name": "marseille",
-        "last_update": 1671524493000,
         "name": "1301- ST CHARLES MARSEILLAISES",
         "number": 1301,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671521647000,
         "name": "1302-COLBERT -SAINTE BARBE",
         "number": 1302,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671463974000,
         "name": "1343 - FLAMMARION GROBET",
         "number": 1343,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 7,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671462742000,
         "name": "1344 - FLAMMARION NATIONAL",
         "number": 1344,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671523020000,
         "name": "1345 - SAINT CHARLES LECLERC ZATTARA",
         "number": 1345,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 8,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671391378000,
         "name": "1346- REPUBLIQUE COUTELLERIE",
         "number": 1346,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671460372000,
         "name": "2012-GRAND RUE",
         "number": 2012,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671444484000,
         "name": "2032- DAMES  SCHUMANN",
         "number": 2032,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671446653000,
         "name": "2184-REPUBLIQUE-CATHALA",
         "number": 2184,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "marseille",
-        "last_update": 1671458192000,
         "name": "2221-91 LIB\u00c9RATION",
         "number": 2221,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "marseille",
-        "last_update": 1671457139000,
         "name": "2222-151 LIBERATION",
         "number": 2222,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671202426000,
         "name": "02279 - DOCKS LES TERRASSES DU PORT",
         "number": 2279,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671447762000,
         "name": "2304 - R\u00c9PUBLIQUE MOISSON",
         "number": 2304,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671449082000,
         "name": "2327- R\u00c9PUBLIQUE PLUMIER",
         "number": 2327,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671450382000,
         "name": "2341- JOLIETTE FORBIN",
         "number": 2341,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671453681000,
         "name": "3228 -TOUR LA MARSEILLAISE",
         "number": 3228,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671464059000,
         "name": "4022-SAKAKINI FOCH",
         "number": 4022,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 7,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671444509000,
         "name": "5024-BAILLE PAURIOL",
         "number": 5024,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 15,
         "bonus": true,
         "contract_name": "marseille",
-        "last_update": 1671446057000,
         "name": "5103-RUE GEORGES",
         "number": 5103,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "marseille",
-        "last_update": 1671447694000,
         "name": "5104-CHAVE EUG\u00c8NE PIERRE",
         "number": 5104,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671443338000,
         "name": "5107-BAILLE CONCEPTION",
         "number": 5107,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671525519000,
         "name": "5280-CHAVE CAMAS",
         "number": 5280,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671439887000,
         "name": "6100-PAUL PEYTRAL",
         "number": 6100,
         "position": {
@@ -517,7 +487,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671521783000,
         "name": "6113-LODI VILLAGE",
         "number": 6113,
         "position": {
@@ -534,7 +503,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671449549000,
         "name": "6187-DELPUECH CORINTHE",
         "number": 6187,
         "position": {
@@ -551,7 +519,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671443050000,
         "name": "6217-ROSTAND - PREFECTURE",
         "number": 6217,
         "position": {
@@ -568,7 +535,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671458045000,
         "name": "6237-LIEUTAUD JULIEN",
         "number": 6237,
         "position": {
@@ -585,7 +551,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671459116000,
         "name": "6254-ROME - BERLIOZ - ITALIE",
         "number": 6254,
         "position": {
@@ -602,7 +567,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671444829000,
         "name": "7062-88 CORNICHE - KENNEDY",
         "number": 7062,
         "position": {
@@ -619,7 +583,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671458592000,
         "name": "7064-CORNICHE  LE PROPHETE",
         "number": 7064,
         "position": {
@@ -636,7 +599,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671457744000,
         "name": "7142-CORNICHE RAPATRIES",
         "number": 7142,
         "position": {
@@ -653,7 +615,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671521593000,
         "name": "7212-SAINTE - NOTRE DAME",
         "number": 7212,
         "position": {
@@ -670,7 +631,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671460900000,
         "name": "7349 - LA CRIEE",
         "number": 7349,
         "position": {
@@ -687,7 +647,6 @@
         "bike_stands": 9,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671453661000,
         "name": "8068-PRADO BORELY",
         "number": 8068,
         "position": {
@@ -704,7 +663,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671452356000,
         "name": "8132-PROMENADE POMPIDOU AMIRAL MUSELIER",
         "number": 8132,
         "position": {
@@ -721,7 +679,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671454662000,
         "name": "8144-ESCALE BORELY POINTE ROUGE",
         "number": 8144,
         "position": {
@@ -738,7 +695,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671449485000,
         "name": "8149-391 MICHELET",
         "number": 8149,
         "position": {
@@ -755,7 +711,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671447081000,
         "name": "8202-397 PRADO",
         "number": 8202,
         "position": {
@@ -772,7 +727,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671524813000,
         "name": "8246-PARADIS - LORD DUVEEN",
         "number": 8246,
         "position": {
@@ -789,7 +743,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671521184000,
         "name": "8257-RABATAU - TEISSEIRE",
         "number": 8257,
         "position": {
@@ -806,7 +759,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671451012000,
         "name": "8262-MAZARGUES-BARRAL",
         "number": 8262,
         "position": {
@@ -823,7 +775,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671459320000,
         "name": "8270 - RABATAU ST JOSEPH",
         "number": 8270,
         "position": {
@@ -840,7 +791,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671456267000,
         "name": "8308-PRADO LATIL",
         "number": 8308,
         "position": {
@@ -857,7 +807,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671526254000,
         "name": "8310- CANTINI REGE",
         "number": 8310,
         "position": {
@@ -874,7 +823,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671462282000,
         "name": "9085-SCHLOESING TEISSERE",
         "number": 9085,
         "position": {
@@ -891,7 +839,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "marseille",
-        "last_update": 1671448852000,
         "name": "9259-LANCIER-MARTHELINE",
         "number": 9259,
         "position": {

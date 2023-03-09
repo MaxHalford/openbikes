@@ -7,7 +7,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395032000,
         "name": "01 - LATTRE DE TASSIGNY",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395027000,
         "name": "02 - HOPITAL INTERCOMMUNAL (CHIC)",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678394702000,
         "name": "03 - RUE DU GENERAL LECLERC - CENTRE ANCIEN",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395183000,
         "name": "04 - UNIVERSITE - MAIL DES MECHES",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678245210000,
         "name": "06 - AVENUE DE LA BRECHE",
         "number": 6,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395100000,
         "name": "07- AVENUE DU DOCTEUR PAUL CASALIS",
         "number": 7,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395127000,
         "name": "08 - ROND POINT HOTEL DE VILLE",
         "number": 8,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678395021000,
         "name": "09 - EUROPARC",
         "number": 9,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "creteil",
-        "last_update": 1678394931000,
         "name": "10 - MAGELLAN",
         "number": 10,
         "position": {

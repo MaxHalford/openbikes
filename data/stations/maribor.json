@@ -7,7 +7,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678395124000,
         "name": "GOSPOSVETSKA C. - TURNERJEVA UL.",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394858000,
         "name": "GOSPOSVETSKA C. - VRBANSKA C.",
         "number": 2,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394759000,
         "name": "GOSPOSVETSKA C. - III. GIMNAZIJA",
         "number": 3,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394815000,
         "name": "STROSSMAYERJEVA UL. - TR\u017dNICA",
         "number": 4,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394637000,
         "name": "MLADINSKA UL. - TRUBARJEVA UL.",
         "number": 5,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394805000,
         "name": "PO\u0160TA - SLOM\u0160KOV TRG",
         "number": 6,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394799000,
         "name": "PARTIZANSKA C. - TIC",
         "number": 7,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394641000,
         "name": "RAZLAGOVA UL. - OB\u010cINA",
         "number": 8,
         "position": {
@@ -143,7 +135,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394826000,
         "name": "NKBM - TRG LEONA \u0160TUKLJA",
         "number": 9,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678395018000,
         "name": "TELEMACH - GLAVNI TRG - STARI PERON",
         "number": 10,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394694000,
         "name": "PARTIZANSKA C. - CANKARJEVA UL.",
         "number": 11,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394956000,
         "name": "MLINSKA UL . - AVTOBUSNA POSTAJA",
         "number": 12,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394862000,
         "name": "PARTIZANSKA C. - \u017dELEZNI\u0160KA POSTAJA",
         "number": 13,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394849000,
         "name": "ULICA MO\u0160E PIJADA - UKC",
         "number": 14,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678395217000,
         "name": "LJUBLJANSKA UL. - II. GIMNAZIJA",
         "number": 15,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394902000,
         "name": "KORO\u0160KA C. - KORO\u0160KI VETER",
         "number": 16,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394715000,
         "name": "NA POLJANAH - HEROJA \u0160ERCERJA",
         "number": 17,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394969000,
         "name": "LIDL - KORO\u0160KA C.",
         "number": 18,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678395036000,
         "name": "LIDL - TITOVA C.",
         "number": 19,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394763000,
         "name": "EUROPARK - POBRE\u0160KA C.",
         "number": 20,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394929000,
         "name": "GORKEGA UL. - O\u0160 FRANCETA PRE\u0160ERNA",
         "number": 21,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678395054000,
         "name": "DVORANA TABOR",
         "number": 22,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "maribor",
-        "last_update": 1678394820000,
         "name": "LJUBLJANSKA UL. - FOCHEVA",
         "number": 23,
         "position": {

@@ -7,7 +7,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678208692000,
         "name": "00001 - BORNE SOLAIRE",
         "number": 1,
         "position": {
@@ -24,7 +23,6 @@
         "bike_stands": 3,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394651000,
         "name": "BORNE DE TEST LYON (PLAISIR)",
         "number": 201,
         "position": {
@@ -41,7 +39,6 @@
         "bike_stands": 3,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394929000,
         "name": "0-555 - ATELIER V\u00c9LO'V",
         "number": 555,
         "position": {
@@ -58,7 +55,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394668000,
         "name": "1001 - TERREAUX / TERME",
         "number": 1001,
         "position": {
@@ -75,7 +71,6 @@
         "bike_stands": 41,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395159000,
         "name": "1002 - OP\u00c9RA",
         "number": 1002,
         "position": {
@@ -92,7 +87,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395172000,
         "name": "1003 - PLACE SATHONAY",
         "number": 1003,
         "position": {
@@ -109,7 +103,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394889000,
         "name": "1005 - MEISSONNIER",
         "number": 1005,
         "position": {
@@ -126,7 +119,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394608000,
         "name": "1006- SUBSISTANCES",
         "number": 1006,
         "position": {
@@ -137,13 +129,12 @@
     },
     {
         "address": "Rue de la Bourse - Long du Coll\u00e8ge-Lyc\u00e9e Amp\u00e8re",
-        "available_bike_stands": 1,
-        "available_bikes": 24,
+        "available_bike_stands": 0,
+        "available_bikes": 25,
         "banking": true,
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395098000,
         "name": "1012 - AMP\u00c8RE / BOURSE",
         "number": 1012,
         "position": {
@@ -160,7 +151,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394689000,
         "name": "1013 - MARTINI\u00c8RE",
         "number": 1013,
         "position": {
@@ -177,7 +167,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395174000,
         "name": "1016 - P\u00caCHERIE",
         "number": 1016,
         "position": {
@@ -194,7 +183,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394781000,
         "name": "1020 - TERREAUX / CHENAVARD",
         "number": 1020,
         "position": {
@@ -211,7 +199,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395185000,
         "name": "1021 - TERREAUX / BEAUX ARTS",
         "number": 1021,
         "position": {
@@ -228,7 +215,6 @@
         "bike_stands": 36,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394999000,
         "name": "1022 - PLACE TOLOZAN",
         "number": 1022,
         "position": {
@@ -245,7 +231,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394666000,
         "name": "1023 - CROIX ROUSSE / PERFETTI",
         "number": 1023,
         "position": {
@@ -262,7 +247,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394955000,
         "name": "1024 - ROUVILLE",
         "number": 1024,
         "position": {
@@ -279,7 +263,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395116000,
         "name": "1031 - PLACE DE LA PAIX",
         "number": 1031,
         "position": {
@@ -296,7 +279,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394736000,
         "name": "1032 - PIZAY",
         "number": 1032,
         "position": {
@@ -313,7 +295,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395037000,
         "name": "1034 - CARM\u00c9LITES",
         "number": 1034,
         "position": {
@@ -330,7 +311,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394830000,
         "name": "1035 - QUAI LASSAGNE",
         "number": 1035,
         "position": {
@@ -347,7 +327,6 @@
         "bike_stands": 17,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394643000,
         "name": "1036 - AVEYRON",
         "number": 1036,
         "position": {
@@ -364,7 +343,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395150000,
         "name": "1037 - CHAZETTE LASSAGNE",
         "number": 1037,
         "position": {
@@ -381,7 +359,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394779000,
         "name": "2001 - BELLECOUR / R\u00c9PUBLIQUE",
         "number": 2001,
         "position": {
@@ -398,7 +375,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394878000,
         "name": "2002 - BELLECOUR / ST EXUP\u00c9RY",
         "number": 2002,
         "position": {
@@ -415,7 +391,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394786000,
         "name": "2003 - PLACE AMP\u00c8RE",
         "number": 2003,
         "position": {
@@ -432,7 +407,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394786000,
         "name": "2004 - PERRACHE / CARNOT",
         "number": 2004,
         "position": {
@@ -449,7 +423,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395125000,
         "name": "2005 - CONFLUENCE H\u00d4TEL DE R\u00c9GION",
         "number": 2005,
         "position": {
@@ -466,7 +439,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394906000,
         "name": "2006 - PLACE DE L'HIPPODROME",
         "number": 2006,
         "position": {
@@ -483,7 +455,6 @@
         "bike_stands": 37,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394764000,
         "name": "2007 - PATINOIRE CHARLEMAGNE",
         "number": 2007,
         "position": {
@@ -500,7 +471,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395146000,
         "name": "2008 - PLACE ANTONIN PONCET",
         "number": 2008,
         "position": {
@@ -517,7 +487,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395055000,
         "name": "2009 - CONFLUENCE / DOCKS",
         "number": 2009,
         "position": {
@@ -534,7 +503,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395079000,
         "name": "2010 - CONFLUENCE / DARSE",
         "number": 2010,
         "position": {
@@ -551,7 +519,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394833000,
         "name": "2011 - SALA / RUE DU PLAT",
         "number": 2011,
         "position": {
@@ -568,7 +535,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395104000,
         "name": "2012 - GAILLETON",
         "number": 2012,
         "position": {
@@ -585,7 +551,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395013000,
         "name": "2013 - C\u00c9LESTINS",
         "number": 2013,
         "position": {
@@ -602,7 +567,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395025000,
         "name": "2014 - JACOBINS",
         "number": 2014,
         "position": {
@@ -619,7 +583,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394882000,
         "name": "2015 - R\u00c9PUBLIQUE / STELLA",
         "number": 2015,
         "position": {
@@ -636,7 +599,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395149000,
         "name": "2016 - PLACE REGAUD",
         "number": 2016,
         "position": {
@@ -653,7 +615,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394795000,
         "name": "2017 - R\u00c9PUBLIQUE / FERRANDI\u00c8RE",
         "number": 2017,
         "position": {
@@ -670,7 +631,6 @@
         "bike_stands": 50,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394867000,
         "name": "2018 - HOTEL DIEU / PONT DE LA GUILLOTIERE",
         "number": 2018,
         "position": {
@@ -687,7 +647,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394991000,
         "name": "2019 - SUCRIERE",
         "number": 2019,
         "position": {
@@ -704,7 +663,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395066000,
         "name": "2020 - MUS\u00c9E DES CONFLUENCES",
         "number": 2020,
         "position": {
@@ -721,7 +679,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394871000,
         "name": "2021 - RAMBAUD / ECOLE DU CIN\u00c9MA",
         "number": 2021,
         "position": {
@@ -738,7 +695,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394943000,
         "name": "2022 - PLACE CARNOT",
         "number": 2022,
         "position": {
@@ -755,7 +711,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394758000,
         "name": "2023 -  PERRACHE / PETIT",
         "number": 2023,
         "position": {
@@ -772,7 +727,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395054000,
         "name": "2024 - R\u00c9PUBLIQUE / MAUPIN",
         "number": 2024,
         "position": {
@@ -789,7 +743,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395152000,
         "name": "2025 - MERCI\u00c8RE / FERRANDI\u00c8RE",
         "number": 2025,
         "position": {
@@ -806,7 +759,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394647000,
         "name": "2026 - R\u00c9PUBLIQUE / PAUFIQUE",
         "number": 2026,
         "position": {
@@ -823,7 +775,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394678000,
         "name": "2027 - PERRACHE EST",
         "number": 2027,
         "position": {
@@ -840,7 +791,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395185000,
         "name": "2028 - SAINTE-BLANDINE",
         "number": 2028,
         "position": {
@@ -851,13 +801,12 @@
     },
     {
         "address": "Angle Poulaillerie / R\u00e9publique",
-        "available_bike_stands": 1,
-        "available_bikes": 31,
+        "available_bike_stands": 2,
+        "available_bikes": 30,
         "banking": true,
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395033000,
         "name": "2030 - R\u00c9PUBLIQUE / POULAILLERIE",
         "number": 2030,
         "position": {
@@ -874,7 +823,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394949000,
         "name": "2035 - CHILDEBERT / RIVI\u00c8RE",
         "number": 2035,
         "position": {
@@ -891,7 +839,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394977000,
         "name": "2036 - PLACE ANTONIN GOURJU",
         "number": 2036,
         "position": {
@@ -908,7 +855,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394847000,
         "name": "2037 - PLACE DES ARCHIVES",
         "number": 2037,
         "position": {
@@ -925,7 +871,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395074000,
         "name": "2038 - REMPARTS D'AINAY",
         "number": 2038,
         "position": {
@@ -942,7 +887,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395001000,
         "name": "2039 - CHARIT\u00c9 / R\u00c9CAMIER",
         "number": 2039,
         "position": {
@@ -959,7 +903,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395034000,
         "name": "2040 - ST ANTOINE / GRENETTE",
         "number": 2040,
         "position": {
@@ -976,7 +919,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395099000,
         "name": "2041 - SALA / CHARIT\u00c9",
         "number": 2041,
         "position": {
@@ -993,7 +935,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394837000,
         "name": "2042 - JOFFRE / VAUBECOUR",
         "number": 2042,
         "position": {
@@ -1010,7 +951,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395111000,
         "name": "3003 - PART-DIEU / DERUELLE",
         "number": 3003,
         "position": {
@@ -1027,7 +967,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395028000,
         "name": "3004 - BOURSE DU TRAVAIL",
         "number": 3004,
         "position": {
@@ -1044,7 +983,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394952000,
         "name": "3005 - SAXE / GAMBETTA",
         "number": 3005,
         "position": {
@@ -1061,7 +999,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395043000,
         "name": "3006 - VILLETTE / SAINT-ANTOINE",
         "number": 3006,
         "position": {
@@ -1078,7 +1015,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394825000,
         "name": "3007 - PLACE D'ARSONVAL",
         "number": 3007,
         "position": {
@@ -1095,7 +1031,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395183000,
         "name": "3008 - INSTITUT LUMIERE",
         "number": 3008,
         "position": {
@@ -1112,7 +1047,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394839000,
         "name": "3009 - MUSEE AFRICAIN",
         "number": 3009,
         "position": {
@@ -1129,7 +1063,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395124000,
         "name": "3010 - PART-DIEU / CUIRASSIERS (FAR)",
         "number": 3010,
         "position": {
@@ -1146,7 +1079,6 @@
         "bike_stands": 59,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394783000,
         "name": "3011 - PART-DIEU / CUIRASSIERS",
         "number": 3011,
         "position": {
@@ -1163,7 +1095,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394613000,
         "name": "3012 - PLACE DU CH\u00c2TEAU",
         "number": 3012,
         "position": {
@@ -1180,7 +1111,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394776000,
         "name": "3013 - PLACE ANTOINETTE",
         "number": 3013,
         "position": {
@@ -1197,7 +1127,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394691000,
         "name": "3015 - SERVIENT / GARIBALDI",
         "number": 3015,
         "position": {
@@ -1214,7 +1143,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394846000,
         "name": "3016 - LIBERT\u00c9 / PART-DIEU",
         "number": 3016,
         "position": {
@@ -1231,7 +1159,6 @@
         "bike_stands": 37,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394952000,
         "name": "3017 - SAXE / DUNOIR",
         "number": 3017,
         "position": {
@@ -1248,7 +1175,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395177000,
         "name": "3018 - CR\u00c9QUI / VOLTAIRE",
         "number": 3018,
         "position": {
@@ -1265,7 +1191,6 @@
         "bike_stands": 39,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395106000,
         "name": "3019 - PART-DIEU / DERUELLE",
         "number": 3019,
         "position": {
@@ -1282,7 +1207,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394816000,
         "name": "3021 - PLACE DE LA FERRANDI\u00c8RE",
         "number": 3021,
         "position": {
@@ -1299,7 +1223,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394882000,
         "name": "3024 - ROCKEFELLER / ESQUIROL",
         "number": 3024,
         "position": {
@@ -1316,7 +1239,6 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394869000,
         "name": "3029 - PLACE ARISTIDE BRIAND",
         "number": 3029,
         "position": {
@@ -1333,7 +1255,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395134000,
         "name": "3031 - CORNEILLE / SERVIENT",
         "number": 3031,
         "position": {
@@ -1350,7 +1271,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394880000,
         "name": "3034 - GARIBALDI / PENSIONNAT",
         "number": 3034,
         "position": {
@@ -1367,7 +1287,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394810000,
         "name": "3035 - PHILOMENE MAGNIN",
         "number": 3035,
         "position": {
@@ -1384,7 +1303,6 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395048000,
         "name": "3036 - FELIX FAURE / VIVIER MERLE",
         "number": 3036,
         "position": {
@@ -1401,7 +1319,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395097000,
         "name": "3037 - PAUL BERT / GARIBALDI",
         "number": 3037,
         "position": {
@@ -1418,7 +1335,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395183000,
         "name": "3038 - VIVIER MERLE / PAUL BERT EST",
         "number": 3038,
         "position": {
@@ -1435,7 +1351,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395005000,
         "name": "3039 - PLACE BIR-HAKEIM",
         "number": 3039,
         "position": {
@@ -1452,7 +1367,6 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395167000,
         "name": "3040 - FAURE / DANTON",
         "number": 3040,
         "position": {
@@ -1469,7 +1383,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394952000,
         "name": "3043 - PLACE ROUGET DE L'ISLE",
         "number": 3043,
         "position": {
@@ -1486,7 +1399,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395167000,
         "name": "3044 - QUAI AUGAGNEUR",
         "number": 3044,
         "position": {
@@ -1503,7 +1415,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395014000,
         "name": "3050 - FRICHE RVI",
         "number": 3050,
         "position": {
@@ -1520,7 +1431,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395114000,
         "name": "3051 - PLACE HENRI",
         "number": 3051,
         "position": {
@@ -1537,7 +1447,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395054000,
         "name": "3053 - GAMBETTA / JUSSERAND",
         "number": 3053,
         "position": {
@@ -1554,7 +1463,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394752000,
         "name": "3058 - PLACE DU LAC",
         "number": 3058,
         "position": {
@@ -1571,7 +1479,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395094000,
         "name": "3066 - KIMMERLING / FAURE",
         "number": 3066,
         "position": {
@@ -1588,7 +1495,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394898000,
         "name": "3067 - HACHETTE",
         "number": 3067,
         "position": {
@@ -1605,7 +1511,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394984000,
         "name": "3068 - FAURE / MEYNIS",
         "number": 3068,
         "position": {
@@ -1622,7 +1527,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394969000,
         "name": "3069 - DAUPHIN\u00c9 / SAINT-MAXIMIN",
         "number": 3069,
         "position": {
@@ -1639,7 +1543,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394983000,
         "name": "3070 - REBATEL / SAINT-MAXIMIN",
         "number": 3070,
         "position": {
@@ -1656,7 +1559,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394941000,
         "name": "3071 - BIOPARC",
         "number": 3071,
         "position": {
@@ -1673,7 +1575,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394591000,
         "name": "3079 - PLACE LOUISE",
         "number": 3079,
         "position": {
@@ -1690,7 +1591,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395168000,
         "name": "3080 - PART-DIEU / VILLETTE",
         "number": 3080,
         "position": {
@@ -1707,7 +1607,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394599000,
         "name": "3081 - PART-DIEU / FRANCFORT",
         "number": 3081,
         "position": {
@@ -1718,13 +1617,12 @@
     },
     {
         "address": "33 RUE MONCEY",
-        "available_bike_stands": 26,
-        "available_bikes": 1,
+        "available_bike_stands": 27,
+        "available_bikes": 0,
         "banking": false,
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394640000,
         "name": "3082 - SAXE / MONCEY",
         "number": 3082,
         "position": {
@@ -1741,7 +1639,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395149000,
         "name": "3083 - LES HALLES",
         "number": 3083,
         "position": {
@@ -1758,7 +1655,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394981000,
         "name": "3084 - DESAIX",
         "number": 3084,
         "position": {
@@ -1775,7 +1671,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395185000,
         "name": "3085 - SACRE COEUR",
         "number": 3085,
         "position": {
@@ -1786,13 +1681,12 @@
     },
     {
         "address": "76 AV. LACASSAGNE",
-        "available_bike_stands": 5,
-        "available_bikes": 11,
+        "available_bike_stands": 4,
+        "available_bikes": 12,
         "banking": true,
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395118000,
         "name": "3086 - FEUILLAT / LACASSAGNE",
         "number": 3086,
         "position": {
@@ -1809,7 +1703,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395005000,
         "name": "3087 - PART-DIEU / GARIBALDI",
         "number": 3087,
         "position": {
@@ -1826,7 +1719,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394948000,
         "name": "3088 - PLACE GUICHARD",
         "number": 3088,
         "position": {
@@ -1843,7 +1735,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394985000,
         "name": "3089 - TRARIEUX / LACASSAGNE",
         "number": 3089,
         "position": {
@@ -1860,7 +1751,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394920000,
         "name": "3090 - VINATIER",
         "number": 3090,
         "position": {
@@ -1877,7 +1767,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395037000,
         "name": "3091 - HOPITAL NEUROLOGIQUE",
         "number": 3091,
         "position": {
@@ -1894,7 +1783,6 @@
         "bike_stands": 38,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394734000,
         "name": "3094 - VILLETTE",
         "number": 3094,
         "position": {
@@ -1911,7 +1799,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395129000,
         "name": "3097 - AUGAGNEUR / FOSSE AUX OURS",
         "number": 3097,
         "position": {
@@ -1928,7 +1815,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395110000,
         "name": "3099 - PLACE SAINTE ANNE",
         "number": 3099,
         "position": {
@@ -1945,7 +1831,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395037000,
         "name": "3100 - SISLEY / DAUPHINE",
         "number": 3100,
         "position": {
@@ -1962,7 +1847,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395127000,
         "name": "3101 - PATINOIRE BARABAN",
         "number": 3101,
         "position": {
@@ -1979,7 +1863,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394901000,
         "name": "3102 - DOCTEUR LONG / CAILLE",
         "number": 3102,
         "position": {
@@ -1996,7 +1879,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394721000,
         "name": "3103 - PLACE DANTON",
         "number": 3103,
         "position": {
@@ -2013,7 +1895,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394983000,
         "name": "3138 - VIVIER MERLE / PAUL BERT OUEST",
         "number": 3138,
         "position": {
@@ -2030,7 +1911,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395132000,
         "name": "4001 - CONSERVATOIRE BIS",
         "number": 4001,
         "position": {
@@ -2047,7 +1927,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394638000,
         "name": "4002 - MAIRIE DU 4E",
         "number": 4002,
         "position": {
@@ -2064,7 +1943,6 @@
         "bike_stands": 17,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394821000,
         "name": "4003 - PLACE COMMANDANT  ARNAUD",
         "number": 4003,
         "position": {
@@ -2081,7 +1959,6 @@
         "bike_stands": 22,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395104000,
         "name": "4004 - H\u00c9NON",
         "number": 4004,
         "position": {
@@ -2098,7 +1975,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395125000,
         "name": "4005 - PLACE BERTONE",
         "number": 4005,
         "position": {
@@ -2115,7 +1991,6 @@
         "bike_stands": 23,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395092000,
         "name": "4006 - PHILIPPE DE LASSALLE",
         "number": 4006,
         "position": {
@@ -2132,7 +2007,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394875000,
         "name": "4007 - PLACE FLAMMARION",
         "number": 4007,
         "position": {
@@ -2149,7 +2023,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394765000,
         "name": "4008 - CLOS SAVARON",
         "number": 4008,
         "position": {
@@ -2166,7 +2039,6 @@
         "bike_stands": 14,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394970000,
         "name": "4009 - JACQUARD / DENFERT-ROCHEREAU",
         "number": 4009,
         "position": {
@@ -2183,7 +2055,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395032000,
         "name": "4011 - PLACE JOANN\u00c8S AMBRE",
         "number": 4011,
         "position": {
@@ -2200,7 +2071,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395024000,
         "name": "4012 - PLACE ADRIEN GODIEN",
         "number": 4012,
         "position": {
@@ -2217,7 +2087,6 @@
         "bike_stands": 13,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395093000,
         "name": "4014 - PHILIPPE DE LASSALLE / PILLEMENT",
         "number": 4014,
         "position": {
@@ -2234,7 +2103,6 @@
         "bike_stands": 17,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394798000,
         "name": "4017 - PLACE DES TAPIS",
         "number": 4017,
         "position": {
@@ -2251,7 +2119,6 @@
         "bike_stands": 10,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394767000,
         "name": "4021 - TABAREAU",
         "number": 4021,
         "position": {
@@ -2268,7 +2135,6 @@
         "bike_stands": 21,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395016000,
         "name": "4022 - PLACE DE LA CROIX-ROUSSE",
         "number": 4022,
         "position": {
@@ -2285,7 +2151,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395130000,
         "name": "4023 - PONT MASARYK",
         "number": 4023,
         "position": {
@@ -2302,7 +2167,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395125000,
         "name": "4024 - LYON METROPOLE",
         "number": 4024,
         "position": {
@@ -2319,7 +2183,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395011000,
         "name": "4025 - CHAZI\u00c8RE",
         "number": 4025,
         "position": {
@@ -2336,7 +2199,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395093000,
         "name": "4026 - BIRMINGHAM",
         "number": 4026,
         "position": {
@@ -2353,7 +2215,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394671000,
         "name": "4041 - BOUSSANGES / AUSTERLITZ",
         "number": 4041,
         "position": {
@@ -2370,7 +2231,6 @@
         "bike_stands": 16,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395129000,
         "name": "4042 - GREGORY COUPET",
         "number": 4042,
         "position": {
@@ -2387,7 +2247,6 @@
         "bike_stands": 23,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395012000,
         "name": "5001 - PLACE VARILLON (FUNICULAIRE ST JUST)",
         "number": 5001,
         "position": {
@@ -2404,7 +2263,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394815000,
         "name": "5002 - PLACE DES COMPAGNONS DE LA CHANSON",
         "number": 5002,
         "position": {
@@ -2421,7 +2279,6 @@
         "bike_stands": 39,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394878000,
         "name": "5004 - SAINT-JEAN",
         "number": 5004,
         "position": {
@@ -2438,7 +2295,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395027000,
         "name": "5005 - SAINT-PAUL",
         "number": 5005,
         "position": {
@@ -2455,7 +2311,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394846000,
         "name": "5006 - QUAI ROMAIN ROLLAND",
         "number": 5006,
         "position": {
@@ -2472,7 +2327,6 @@
         "bike_stands": 16,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395069000,
         "name": "5007 - PLACE DE TRION",
         "number": 5007,
         "position": {
@@ -2489,7 +2343,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394645000,
         "name": "5008 - SAINTE-IR\u00c9N\u00c9E",
         "number": 5008,
         "position": {
@@ -2506,7 +2359,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394910000,
         "name": "5009 - PLACE ENNEMOND FOUSSERET",
         "number": 5009,
         "position": {
@@ -2523,7 +2375,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395033000,
         "name": "5015 - FULCHIRON",
         "number": 5015,
         "position": {
@@ -2540,7 +2391,6 @@
         "bike_stands": 13,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395071000,
         "name": "5016 - POINT DU JOUR / GRANGES",
         "number": 5016,
         "position": {
@@ -2557,7 +2407,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394712000,
         "name": "5026 - RUE DE LA BALEINE",
         "number": 5026,
         "position": {
@@ -2568,13 +2417,12 @@
     },
     {
         "address": "Prox. Quai Pierre Scize",
-        "available_bike_stands": 1,
-        "available_bikes": 18,
+        "available_bike_stands": 0,
+        "available_bikes": 19,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395101000,
         "name": "5029 - PLACE GERSON",
         "number": 5029,
         "position": {
@@ -2591,7 +2439,6 @@
         "bike_stands": 32,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394991000,
         "name": "5030 - CHARCOT / R\u00c9SIDENCE UNIVERSITAIRE",
         "number": 5030,
         "position": {
@@ -2608,7 +2455,6 @@
         "bike_stands": 20,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394955000,
         "name": "5031- M\u00c9NIVAL / JOLIOT CURIE",
         "number": 5031,
         "position": {
@@ -2625,7 +2471,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395010000,
         "name": "5032 - M\u00c9NIVAL / EISENHOWER",
         "number": 5032,
         "position": {
@@ -2642,7 +2487,6 @@
         "bike_stands": 15,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394751000,
         "name": "5036 - LA SALETTE",
         "number": 5036,
         "position": {
@@ -2659,7 +2503,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394933000,
         "name": "5040 - PLACE CR\u00c9PU",
         "number": 5040,
         "position": {
@@ -2676,7 +2519,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394612000,
         "name": "5041 - L'HOMME DE LA ROCHE",
         "number": 5041,
         "position": {
@@ -2693,7 +2535,6 @@
         "bike_stands": 15,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394978000,
         "name": "5044 - CHAMPVERT",
         "number": 5044,
         "position": {
@@ -2710,7 +2551,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394597000,
         "name": "5045 - VALDO / RIVET",
         "number": 5045,
         "position": {
@@ -2727,7 +2567,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395122000,
         "name": "5047 - ALB\u00c9RIC PONT",
         "number": 5047,
         "position": {
@@ -2744,7 +2583,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394589000,
         "name": "5050 - THEATRE ROMAIN",
         "number": 5050,
         "position": {
@@ -2761,7 +2599,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394740000,
         "name": "5053 - SAINT-JUST",
         "number": 5053,
         "position": {
@@ -2778,7 +2615,6 @@
         "bike_stands": 18,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394852000,
         "name": "5054 - CHAMPVERT",
         "number": 5054,
         "position": {
@@ -2795,7 +2631,6 @@
         "bike_stands": 22,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394620000,
         "name": "5055 - BUYER / APOLLINAIRE",
         "number": 5055,
         "position": {
@@ -2812,7 +2647,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394648000,
         "name": "6001 - GARE DES BROTTEAUX",
         "number": 6001,
         "position": {
@@ -2823,13 +2657,12 @@
     },
     {
         "address": "Le long des grilles, c\u00f4t\u00e9 ouest de la porte",
-        "available_bike_stands": 34,
-        "available_bikes": 6,
+        "available_bike_stands": 33,
+        "available_bikes": 7,
         "banking": true,
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394712000,
         "name": "6002 - PORTE DES ENFANTS DU RH\u00d4NE",
         "number": 6002,
         "position": {
@@ -2846,7 +2679,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395178000,
         "name": "6003 - AVENUE VERGUIN",
         "number": 6003,
         "position": {
@@ -2863,7 +2695,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394894000,
         "name": "6004 - FOCH",
         "number": 6004,
         "position": {
@@ -2880,7 +2711,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394975000,
         "name": "6005 - PLACE EDGAR QUINET",
         "number": 6005,
         "position": {
@@ -2897,7 +2727,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394795000,
         "name": "6006 - BOULEVARD DES BELGES",
         "number": 6006,
         "position": {
@@ -2914,7 +2743,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394860000,
         "name": "6007 - MASS\u00c9NA",
         "number": 6007,
         "position": {
@@ -2931,7 +2759,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394955000,
         "name": "6008 - PLACE JULES FERRY",
         "number": 6008,
         "position": {
@@ -2948,7 +2775,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394892000,
         "name": "6011- MAIRIE DU 6E",
         "number": 6011,
         "position": {
@@ -2965,7 +2791,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394937000,
         "name": "6012 - PLACE PUVIS DE CHAVANNES",
         "number": 6012,
         "position": {
@@ -2982,7 +2807,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394809000,
         "name": "6016 - VIABERT / THIERS",
         "number": 6016,
         "position": {
@@ -2999,7 +2823,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394706000,
         "name": "6017 - LAFAYETTE / INKERMANN",
         "number": 6017,
         "position": {
@@ -3016,7 +2839,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394766000,
         "name": "6020 - MUS\u00c9E GUIMET",
         "number": 6020,
         "position": {
@@ -3033,7 +2855,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394702000,
         "name": "6021 - GARIBALDI",
         "number": 6021,
         "position": {
@@ -3050,7 +2871,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394834000,
         "name": "6022 - PLACE MAR\u00c9CHAL LYAUTEY",
         "number": 6022,
         "position": {
@@ -3067,7 +2887,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395124000,
         "name": "6023 - QUAI SARRAIL",
         "number": 6023,
         "position": {
@@ -3084,7 +2903,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394910000,
         "name": "6024 - TRONCHET / ANATOLE FRANCE",
         "number": 6024,
         "position": {
@@ -3101,7 +2919,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395169000,
         "name": "6025 - PLACE D'HELV\u00c9TIE",
         "number": 6025,
         "position": {
@@ -3118,7 +2935,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395088000,
         "name": "6028 - R\u00c9CAMIER / T\u00caTE D'OR",
         "number": 6028,
         "position": {
@@ -3135,7 +2951,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395182000,
         "name": "6031 - LAFAYETTE / CORNEILLE",
         "number": 6031,
         "position": {
@@ -3152,7 +2967,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394644000,
         "name": "6032 - PR\u00c9FECTURE / SARRAIL",
         "number": 6032,
         "position": {
@@ -3163,13 +2977,12 @@
     },
     {
         "address": "153 RUE CREQUI",
-        "available_bike_stands": 13,
-        "available_bikes": 1,
+        "available_bike_stands": 14,
+        "available_bikes": 0,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395006000,
         "name": "6033 - CR\u00c9QUI / LAFAYETTE",
         "number": 6033,
         "position": {
@@ -3186,7 +2999,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394637000,
         "name": "6035 - CIT\u00c9 INTERNATIONALE",
         "number": 6035,
         "position": {
@@ -3203,7 +3015,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395138000,
         "name": "6036 - MUS\u00c9E D'ART CONTEMPORAIN",
         "number": 6036,
         "position": {
@@ -3220,7 +3031,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394964000,
         "name": "6037 - CIT\u00c9 INTERNATIONALE / INTERPOL",
         "number": 6037,
         "position": {
@@ -3231,13 +3041,12 @@
     },
     {
         "address": "",
-        "available_bike_stands": 5,
-        "available_bikes": 15,
+        "available_bike_stands": 4,
+        "available_bikes": 16,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395060000,
         "name": "6039 - GARIBALDI / BUGEAUD",
         "number": 6039,
         "position": {
@@ -3254,7 +3063,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394940000,
         "name": "6040 - LES HALLES",
         "number": 6040,
         "position": {
@@ -3271,7 +3079,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394701000,
         "name": "6041 - CIT\u00c9 INTERNATIONALE / T\u00caTE D'OR NORD",
         "number": 6041,
         "position": {
@@ -3288,7 +3095,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394934000,
         "name": "6042 - CIT\u00c9 INTERNATIONALE / R\u00c9SIDENCE H\u00d4TELI\u00c8RE",
         "number": 6042,
         "position": {
@@ -3305,7 +3111,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395099000,
         "name": "6043 - CIT\u00c9 INTERNATIONALE / CIN\u00c9MA",
         "number": 6043,
         "position": {
@@ -3322,7 +3127,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395106000,
         "name": "6044 - CHARMETTES / BELLECOMBE",
         "number": 6044,
         "position": {
@@ -3339,7 +3143,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395050000,
         "name": "6045 - BROTTEAUX / VAUBAN",
         "number": 6045,
         "position": {
@@ -3356,7 +3159,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395116000,
         "name": "7001 - PLACE GABRIEL P\u00c9RI",
         "number": 7001,
         "position": {
@@ -3373,7 +3175,6 @@
         "bike_stands": 39,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394974000,
         "name": "7002 - UNIVERSIT\u00c9S LYON III / LYON II",
         "number": 7002,
         "position": {
@@ -3390,7 +3191,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395184000,
         "name": "7003 - GAMBETTA / GARIBALDI",
         "number": 7003,
         "position": {
@@ -3407,7 +3207,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394994000,
         "name": "7004 - MAIRIE DU 7E",
         "number": 7004,
         "position": {
@@ -3424,7 +3223,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395114000,
         "name": "7005 - DEBOURG",
         "number": 7005,
         "position": {
@@ -3441,7 +3239,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394752000,
         "name": "7006 - GERLAND",
         "number": 7006,
         "position": {
@@ -3458,7 +3255,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394614000,
         "name": "7007 - FARGE / AYASSE",
         "number": 7007,
         "position": {
@@ -3475,7 +3271,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395190000,
         "name": "7008 - JEAN JAUR\u00c8S / GUILLOTI\u00c8RE",
         "number": 7008,
         "position": {
@@ -3492,7 +3287,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394845000,
         "name": "7009 - JEAN JAUR\u00c8S",
         "number": 7009,
         "position": {
@@ -3509,7 +3303,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395019000,
         "name": "7010 - CENTRE BERTHELOT",
         "number": 7010,
         "position": {
@@ -3526,7 +3319,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395020000,
         "name": "7011 - BERTHELOT / GARIBALDI",
         "number": 7011,
         "position": {
@@ -3543,7 +3335,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394889000,
         "name": "7012 - MERIEUX / PAVILLONS",
         "number": 7012,
         "position": {
@@ -3560,7 +3351,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394815000,
         "name": "7013 - HALLE TONY GARNIER",
         "number": 7013,
         "position": {
@@ -3577,7 +3367,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394657000,
         "name": "7014 - MARSEILLE / F\u00c9LISSENT",
         "number": 7014,
         "position": {
@@ -3594,7 +3383,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394669000,
         "name": "7015 - TECHSUD",
         "number": 7015,
         "position": {
@@ -3611,7 +3399,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394841000,
         "name": "7016 - PLACE SAINT LOUIS",
         "number": 7016,
         "position": {
@@ -3628,7 +3415,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394998000,
         "name": "7017 - BEAUVOIR / MAROT",
         "number": 7017,
         "position": {
@@ -3645,7 +3431,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394785000,
         "name": "7018 - LYCEE LOUISE LABE",
         "number": 7018,
         "position": {
@@ -3662,7 +3447,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394735000,
         "name": "7019 - CROIX BARRET / BOURDEIX",
         "number": 7019,
         "position": {
@@ -3679,7 +3463,6 @@
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394995000,
         "name": "7020 - PARC DE GERLAND",
         "number": 7020,
         "position": {
@@ -3696,7 +3479,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394978000,
         "name": "7021 - CHALLEMEL LACOUR / GERLAND",
         "number": 7021,
         "position": {
@@ -3713,7 +3495,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395059000,
         "name": "7022 - JAUR\u00c8S / LAGRANGE",
         "number": 7022,
         "position": {
@@ -3730,7 +3511,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394947000,
         "name": "7023 - BERTHELOT / ROUTE DE VIENNE",
         "number": 7023,
         "position": {
@@ -3747,7 +3527,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395178000,
         "name": "7024 - BANCEL / CHEVREUL",
         "number": 7024,
         "position": {
@@ -3764,7 +3543,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395071000,
         "name": "7025 - LACOUR / ARTILLERIE",
         "number": 7025,
         "position": {
@@ -3781,7 +3559,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394970000,
         "name": "7026 - BALDASSINI / GERLAND",
         "number": 7026,
         "position": {
@@ -3798,7 +3575,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395086000,
         "name": "7030 - QUARTIER GENERAL FRERE",
         "number": 7030,
         "position": {
@@ -3815,7 +3591,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395125000,
         "name": "7031 - JAUR\u00c8S / GERLAND",
         "number": 7031,
         "position": {
@@ -3832,7 +3607,6 @@
         "bike_stands": 33,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394724000,
         "name": "7033 - SAINT-LUC / SAINT-JOSEPH",
         "number": 7033,
         "position": {
@@ -3849,7 +3623,6 @@
         "bike_stands": 31,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394947000,
         "name": "7034 - PISCINE DU RH\u00d4NE",
         "number": 7034,
         "position": {
@@ -3866,7 +3639,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394888000,
         "name": "7035 - MARSEILLE / UNIVERSIT\u00c9",
         "number": 7035,
         "position": {
@@ -3883,7 +3655,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394896000,
         "name": "7036 - GRYPHE / MONTESQUIEU",
         "number": 7036,
         "position": {
@@ -3900,7 +3671,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394617000,
         "name": "7038 - PLACE STALINGRAD",
         "number": 7038,
         "position": {
@@ -3917,7 +3687,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395139000,
         "name": "7039 - GUILLOTI\u00c8RE / MADELEINE",
         "number": 7039,
         "position": {
@@ -3934,7 +3703,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395052000,
         "name": "7041 - DOMER / CHEVREUL",
         "number": 7041,
         "position": {
@@ -3951,7 +3719,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394896000,
         "name": "7045 - PARC DES BERGES",
         "number": 7045,
         "position": {
@@ -3962,13 +3729,12 @@
     },
     {
         "address": "Angle rue de St Cloud",
-        "available_bike_stands": 21,
-        "available_bikes": 7,
+        "available_bike_stands": 19,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395175000,
         "name": "7046 - PLACE DE L'ECOLE",
         "number": 7046,
         "position": {
@@ -3985,7 +3751,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394891000,
         "name": "7049 - CIT\u00c9 SCOLAIRE INTERNATIONALE",
         "number": 7049,
         "position": {
@@ -3996,13 +3761,12 @@
     },
     {
         "address": "",
-        "available_bike_stands": 22,
-        "available_bikes": 8,
+        "available_bike_stands": 23,
+        "available_bikes": 7,
         "banking": false,
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394937000,
         "name": "7051 - GUILLOTIERE / NICOLA\u00cf",
         "number": 7051,
         "position": {
@@ -4019,7 +3783,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394638000,
         "name": "7052 - PARC BLANDAN",
         "number": 7052,
         "position": {
@@ -4036,7 +3799,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394730000,
         "name": "7053 - JAUR\u00c8S / THIBAUDI\u00c8RE",
         "number": 7053,
         "position": {
@@ -4053,7 +3815,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395158000,
         "name": "7055 - SERVANT / JABOULAY",
         "number": 7055,
         "position": {
@@ -4070,7 +3831,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395129000,
         "name": "7056 - PLACE RASPAIL",
         "number": 7056,
         "position": {
@@ -4087,7 +3847,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394718000,
         "name": "7057 - JAURES / BOLLIER",
         "number": 7057,
         "position": {
@@ -4098,13 +3857,12 @@
     },
     {
         "address": "64 AV. JEAN JAURES",
-        "available_bike_stands": 1,
-        "available_bikes": 18,
+        "available_bike_stands": 0,
+        "available_bikes": 19,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395174000,
         "name": "7061 - JAURES / UNIVERSITE",
         "number": 7061,
         "position": {
@@ -4121,7 +3879,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395189000,
         "name": "7062 - GARIBALDI / DOMER",
         "number": 7062,
         "position": {
@@ -4138,7 +3895,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395156000,
         "name": "7064 - CROUS",
         "number": 7064,
         "position": {
@@ -4155,7 +3911,6 @@
         "bike_stands": 36,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394607000,
         "name": "8001 - UNIVERSIT\u00c9 LYON III",
         "number": 8001,
         "position": {
@@ -4172,7 +3927,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395044000,
         "name": "8002- PLACE AMBROISE COURTOIS",
         "number": 8002,
         "position": {
@@ -4189,7 +3943,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395006000,
         "name": "8003 - CLAUDE BERNARD LYON I",
         "number": 8003,
         "position": {
@@ -4206,7 +3959,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395188000,
         "name": "8004 - MAIRIE DU 8E",
         "number": 8004,
         "position": {
@@ -4223,7 +3975,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395140000,
         "name": "8006 - PLACE DU 8 MAI 1945",
         "number": 8006,
         "position": {
@@ -4240,7 +3991,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394854000,
         "name": "8007 - FR\u00c8RES LUMI\u00c8RE",
         "number": 8007,
         "position": {
@@ -4257,7 +4007,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395012000,
         "name": "8008 - BEAUVISAGE / PRESSENS\u00c9",
         "number": 8008,
         "position": {
@@ -4274,7 +4023,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395148000,
         "name": "8009 - JEAN XXIII / MERMOZ",
         "number": 8009,
         "position": {
@@ -4291,7 +4039,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394856000,
         "name": "8010 - PLACE MEND\u00c8S FRANCE",
         "number": 8010,
         "position": {
@@ -4308,7 +4055,6 @@
         "bike_stands": 14,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395138000,
         "name": "8011 - PLACE LEBRET",
         "number": 8011,
         "position": {
@@ -4325,7 +4071,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394627000,
         "name": "8015 - JEAN XXIII",
         "number": 8015,
         "position": {
@@ -4342,7 +4087,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394979000,
         "name": "8020 - MOULIN A VENT",
         "number": 8020,
         "position": {
@@ -4359,7 +4103,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394676000,
         "name": "8021 - PAUL SANTY",
         "number": 8021,
         "position": {
@@ -4376,7 +4119,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395001000,
         "name": "8023 - MERMOZ / PINEL",
         "number": 8023,
         "position": {
@@ -4393,7 +4135,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394905000,
         "name": "8024 - MERMOZ / MICHELET",
         "number": 8024,
         "position": {
@@ -4410,7 +4151,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394806000,
         "name": "8025 - DUMONT / JOUVET",
         "number": 8025,
         "position": {
@@ -4427,7 +4167,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394815000,
         "name": "8029 - ETATS-UNIS / L\u00c9VIGNE",
         "number": 8029,
         "position": {
@@ -4444,7 +4183,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394896000,
         "name": "8030 - LA\u00cbNNEC",
         "number": 8030,
         "position": {
@@ -4461,7 +4199,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394952000,
         "name": "8033 - BERTHELOT / CAZENEUVE",
         "number": 8033,
         "position": {
@@ -4478,7 +4215,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395052000,
         "name": "8034 - BERTHELOT / VILLON",
         "number": 8034,
         "position": {
@@ -4489,13 +4225,12 @@
     },
     {
         "address": "54 COURS ALBERT THOMAS",
-        "available_bike_stands": 6,
-        "available_bikes": 14,
+        "available_bike_stands": 7,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394861000,
         "name": "8035 - SANS SOUCI",
         "number": 8035,
         "position": {
@@ -4512,7 +4247,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395111000,
         "name": "8037 - CAZENEUVE",
         "number": 8037,
         "position": {
@@ -4529,7 +4263,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394868000,
         "name": "8038 - ALBERT THOMAS / VILLON",
         "number": 8038,
         "position": {
@@ -4546,7 +4279,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394925000,
         "name": "8039 - PIERRE DELORE",
         "number": 8039,
         "position": {
@@ -4563,7 +4295,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395051000,
         "name": "8040 - AMBROISE PAR\u00c9",
         "number": 8040,
         "position": {
@@ -4580,7 +4311,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395069000,
         "name": "8041 - ETATS-UNIS / VIVIANI",
         "number": 8041,
         "position": {
@@ -4597,7 +4327,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395106000,
         "name": "8042 - FRANCIS DE PRESSENS\u00c9",
         "number": 8042,
         "position": {
@@ -4608,13 +4337,12 @@
     },
     {
         "address": "",
-        "available_bike_stands": 10,
-        "available_bikes": 8,
+        "available_bike_stands": 9,
+        "available_bikes": 9,
         "banking": false,
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394969000,
         "name": "8050 - BATAILLE / KR\u00dcGER",
         "number": 8050,
         "position": {
@@ -4631,7 +4359,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394838000,
         "name": "8051 - H\u00d4PITAL SAINT-JEAN DE DIEU",
         "number": 8051,
         "position": {
@@ -4648,7 +4375,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394972000,
         "name": "8052 - CLINIQUE MONPLAISIR",
         "number": 8052,
         "position": {
@@ -4665,7 +4391,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394854000,
         "name": "8053 - LUMIERE / TROUILHET",
         "number": 8053,
         "position": {
@@ -4682,7 +4407,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394724000,
         "name": "8054 - MARTINI\u00c8RE / MONPLAISIR",
         "number": 8054,
         "position": {
@@ -4699,7 +4423,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395186000,
         "name": "8055 - SAINT-ROMAIN / BERLIET",
         "number": 8055,
         "position": {
@@ -4716,7 +4439,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395182000,
         "name": "8056 - DELORE / AUDIBERT ET LAVIROTTE",
         "number": 8056,
         "position": {
@@ -4733,7 +4455,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395080000,
         "name": "8057 - VIENNE / MONTAGNY",
         "number": 8057,
         "position": {
@@ -4750,7 +4471,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395123000,
         "name": "8058 - LONGEFER / KRUGER",
         "number": 8058,
         "position": {
@@ -4767,7 +4487,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394632000,
         "name": "8059 - LAENNEC / PINEL",
         "number": 8059,
         "position": {
@@ -4784,7 +4503,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395128000,
         "name": "8060 - SANTY / BEAUVISAGE",
         "number": 8060,
         "position": {
@@ -4801,7 +4519,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394589000,
         "name": "8061 - STADE VUILLERMET",
         "number": 8061,
         "position": {
@@ -4818,7 +4535,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394910000,
         "name": "9002 - MAIRIE DU 9E",
         "number": 9002,
         "position": {
@@ -4835,7 +4551,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394729000,
         "name": "9003 - PLACE VALMY",
         "number": 9003,
         "position": {
@@ -4852,7 +4567,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394947000,
         "name": "9004 - GARE DE VAISE",
         "number": 9004,
         "position": {
@@ -4869,7 +4583,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395156000,
         "name": "9006 - TH\u00c9\u00c2TRE NOUVELLE G\u00c9N\u00c9RATION",
         "number": 9006,
         "position": {
@@ -4886,7 +4599,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394777000,
         "name": "9008 - L'ILE BARBE",
         "number": 9008,
         "position": {
@@ -4903,7 +4615,6 @@
         "bike_stands": 15,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394947000,
         "name": "9009 - BERLIOZ / CHALINEL",
         "number": 9009,
         "position": {
@@ -4920,7 +4631,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394867000,
         "name": "9010 - PISCINE DE VAISE",
         "number": 9010,
         "position": {
@@ -4937,7 +4647,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394953000,
         "name": "9011 - CONSERVATOIRE",
         "number": 9011,
         "position": {
@@ -4954,7 +4663,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394632000,
         "name": "9013 - QUAI PAUL S\u00c9DALLIAN",
         "number": 9013,
         "position": {
@@ -4971,7 +4679,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394595000,
         "name": "9014 - QUAI DU COMMERCE",
         "number": 9014,
         "position": {
@@ -4988,7 +4695,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394743000,
         "name": "9015 - SAINT-CYR",
         "number": 9015,
         "position": {
@@ -5005,7 +4711,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395072000,
         "name": "9020 - BOURBONNAIS",
         "number": 9020,
         "position": {
@@ -5022,7 +4727,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394827000,
         "name": "9022 - MASARYK / SAINT-CYR",
         "number": 9022,
         "position": {
@@ -5039,7 +4743,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395177000,
         "name": "9029 - SAINT PIERRE DE VAISE",
         "number": 9029,
         "position": {
@@ -5056,7 +4759,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395002000,
         "name": "9032 - PLACE DU PORT MOUTON",
         "number": 9032,
         "position": {
@@ -5073,7 +4775,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395070000,
         "name": "9033 - GORGE DE LOUP",
         "number": 9033,
         "position": {
@@ -5090,7 +4791,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394661000,
         "name": "9040 - PLACE RHODIACETA",
         "number": 9040,
         "position": {
@@ -5107,7 +4807,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394846000,
         "name": "9041 - CARRET / S\u00c9DALLIAN",
         "number": 9041,
         "position": {
@@ -5124,7 +4823,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395151000,
         "name": "9042 - VAISE DOCKS",
         "number": 9042,
         "position": {
@@ -5141,7 +4839,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394741000,
         "name": "9043 - MARIETTON OUEST",
         "number": 9043,
         "position": {
@@ -5158,7 +4855,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394593000,
         "name": "9044 - MASSET / SAINT-PIERRE DE VAISE",
         "number": 9044,
         "position": {
@@ -5175,7 +4871,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395089000,
         "name": "9046 - MANGINI",
         "number": 9046,
         "position": {
@@ -5192,7 +4887,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395180000,
         "name": "9049 - SERGENT BERTHET / GORGE DE LOUP",
         "number": 9049,
         "position": {
@@ -5209,7 +4903,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678395014000,
         "name": "9050 - ALLEE DE L'EUROPE",
         "number": 9050,
         "position": {
@@ -5226,7 +4919,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394782000,
         "name": "9051 - ANDREI SAKHAROV",
         "number": 9051,
         "position": {
@@ -5243,7 +4935,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395150000,
         "name": "9052 - BALMONT",
         "number": 9052,
         "position": {
@@ -5260,7 +4951,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395171000,
         "name": "10001 - IUT / FEYSSINE",
         "number": 10001,
         "position": {
@@ -5271,13 +4961,12 @@
     },
     {
         "address": "Avenue Albert Einstein au niveau du virage",
-        "available_bike_stands": 52,
-        "available_bikes": 2,
+        "available_bike_stands": 53,
+        "available_bikes": 1,
         "banking": true,
         "bike_stands": 55,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394789000,
         "name": "10002 - INSA",
         "number": 10002,
         "position": {
@@ -5294,7 +4983,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395005000,
         "name": "10004 - TONKIN",
         "number": 10004,
         "position": {
@@ -5311,7 +4999,6 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395084000,
         "name": "10005 - 11 NOVEMBRE",
         "number": 10005,
         "position": {
@@ -5328,7 +5015,6 @@
         "bike_stands": 46,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394981000,
         "name": "10006 - CHARPENNES",
         "number": 10006,
         "position": {
@@ -5345,7 +5031,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394596000,
         "name": "10007 - PIATON / CONDORCET",
         "number": 10007,
         "position": {
@@ -5362,7 +5047,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395000000,
         "name": "10008 - SALENGRO / VAILLANT",
         "number": 10008,
         "position": {
@@ -5379,7 +5063,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395190000,
         "name": "10011 - GRATTE-CIEL",
         "number": 10011,
         "position": {
@@ -5396,7 +5079,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394821000,
         "name": "10012 - ZOLA / FRANCE",
         "number": 10012,
         "position": {
@@ -5413,7 +5095,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395160000,
         "name": "10013 - CUSSET",
         "number": 10013,
         "position": {
@@ -5430,7 +5111,6 @@
         "bike_stands": 28,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394879000,
         "name": "10014 - LAURENT BONNEVAY / ASTROBALLE",
         "number": 10014,
         "position": {
@@ -5447,7 +5127,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394930000,
         "name": "10015 - POUDRETTE / MUSSET",
         "number": 10015,
         "position": {
@@ -5464,7 +5143,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394739000,
         "name": "10016 - PLACE DE LA PAIX",
         "number": 10016,
         "position": {
@@ -5481,7 +5159,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394615000,
         "name": "10018 - TOLSTO\u00cf / FLORIAN",
         "number": 10018,
         "position": {
@@ -5498,7 +5175,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395121000,
         "name": "10019 - 4 AOUT / RACINE",
         "number": 10019,
         "position": {
@@ -5515,7 +5191,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395116000,
         "name": "10021 - GRANDCL\u00c9MENT",
         "number": 10021,
         "position": {
@@ -5532,7 +5207,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394816000,
         "name": "10023 - JAURES SAINT EXUPERY",
         "number": 10023,
         "position": {
@@ -5549,7 +5223,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395154000,
         "name": "10024 - MAISONS NEUVES",
         "number": 10024,
         "position": {
@@ -5566,7 +5239,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395034000,
         "name": "10025 - TOTEM",
         "number": 10025,
         "position": {
@@ -5577,13 +5249,12 @@
     },
     {
         "address": "Avenue Aristide Briand, en face de la mairie",
-        "available_bike_stands": 12,
-        "available_bikes": 14,
+        "available_bike_stands": 13,
+        "available_bikes": 13,
         "banking": true,
         "bike_stands": 26,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395156000,
         "name": "10027 - MAIRIE DE VILLEURBANNE",
         "number": 10027,
         "position": {
@@ -5600,7 +5271,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395042000,
         "name": "10028 - ECOLE DE MUSIQUE",
         "number": 10028,
         "position": {
@@ -5617,7 +5287,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395054000,
         "name": "10030 - GREUZE",
         "number": 10030,
         "position": {
@@ -5634,7 +5303,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394996000,
         "name": "10031 - CROIX LUIZET",
         "number": 10031,
         "position": {
@@ -5651,7 +5319,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394873000,
         "name": "10032 - PRIMAT / DECORPS",
         "number": 10032,
         "position": {
@@ -5668,7 +5335,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395088000,
         "name": "10034 - DOCTEUR DAMIDOT",
         "number": 10034,
         "position": {
@@ -5685,7 +5351,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395046000,
         "name": "10035 - BOIRON GRANGER",
         "number": 10035,
         "position": {
@@ -5702,7 +5367,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395141000,
         "name": "10036 - STALINGRAD",
         "number": 10036,
         "position": {
@@ -5719,7 +5383,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395012000,
         "name": "10038 - CONDORCET",
         "number": 10038,
         "position": {
@@ -5736,7 +5399,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395031000,
         "name": "10039 - BOUVIER",
         "number": 10039,
         "position": {
@@ -5753,7 +5415,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394636000,
         "name": "10041 - KIMMERLING",
         "number": 10041,
         "position": {
@@ -5764,13 +5425,12 @@
     },
     {
         "address": "RUE DE LA FEYSSINE (VILLEURBANNE)",
-        "available_bike_stands": 13,
-        "available_bikes": 7,
+        "available_bike_stands": 14,
+        "available_bikes": 6,
         "banking": true,
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395051000,
         "name": "10043 - SALENGRO / FEYSSINE",
         "number": 10043,
         "position": {
@@ -5787,7 +5447,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395187000,
         "name": "10044 - ROCARD OCTAVIE",
         "number": 10044,
         "position": {
@@ -5804,7 +5463,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395005000,
         "name": "10045 - ALSACE ANATOLE FRANCE",
         "number": 10045,
         "position": {
@@ -5821,7 +5479,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394886000,
         "name": "10046 - CHARMETTES/ZOLA",
         "number": 10046,
         "position": {
@@ -5838,7 +5495,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394755000,
         "name": "10047 - LHERMINIER / PRESSENS\u00c9",
         "number": 10047,
         "position": {
@@ -5855,7 +5511,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395008000,
         "name": "10048 - PLACE MARENGO",
         "number": 10048,
         "position": {
@@ -5872,7 +5527,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394787000,
         "name": "10053 - ROSSELINI / 11 NOVEMBRE",
         "number": 10053,
         "position": {
@@ -5889,7 +5543,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395042000,
         "name": "10054 - STALINGRAD / MELI\u00c8S",
         "number": 10054,
         "position": {
@@ -5906,7 +5559,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395102000,
         "name": "10055 - CONDORCET / GALLINE",
         "number": 10055,
         "position": {
@@ -5923,7 +5575,6 @@
         "bike_stands": 35,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395186000,
         "name": "10056 - 11 NOVEMBRE / GASTON BERGER",
         "number": 10056,
         "position": {
@@ -5940,7 +5591,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394684000,
         "name": "10058 - M\u00c9TRO FLACHET",
         "number": 10058,
         "position": {
@@ -5957,7 +5607,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394927000,
         "name": "10059 - ANATOLE FRANCE / ZOLA",
         "number": 10059,
         "position": {
@@ -5974,7 +5623,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395054000,
         "name": "10060 - SAINT EXUP\u00c9RY",
         "number": 10060,
         "position": {
@@ -5991,7 +5639,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394961000,
         "name": "10061 - R\u00c9PUBLIQUE",
         "number": 10061,
         "position": {
@@ -6008,7 +5655,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395191000,
         "name": "10063 - PERRIN / JEAN JAUR\u00c8S",
         "number": 10063,
         "position": {
@@ -6019,13 +5665,12 @@
     },
     {
         "address": "Angle Rue Rollet/Blanqui",
-        "available_bike_stands": 2,
-        "available_bikes": 13,
+        "available_bike_stands": 3,
+        "available_bikes": 12,
         "banking": false,
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394866000,
         "name": "10064 - 4 AO\u00dbT 1789",
         "number": 10064,
         "position": {
@@ -6042,7 +5687,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394930000,
         "name": "10071 - LYC\u00c9E MARIE CURIE",
         "number": 10071,
         "position": {
@@ -6059,7 +5703,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394793000,
         "name": "10072 - JACQUES BREL",
         "number": 10072,
         "position": {
@@ -6076,7 +5719,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394700000,
         "name": "10073 - INSTITUT D'ART CONTEMPORAIN",
         "number": 10073,
         "position": {
@@ -6093,7 +5735,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395165000,
         "name": "10074 - ZOLA / PASSAGE REY",
         "number": 10074,
         "position": {
@@ -6104,13 +5745,12 @@
     },
     {
         "address": "Angle cours Andr\u00e9 Philip",
-        "available_bike_stands": 10,
-        "available_bikes": 2,
+        "available_bike_stands": 9,
+        "available_bikes": 3,
         "banking": false,
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395178000,
         "name": "10075 - GABRIEL P\u00c9RI",
         "number": 10075,
         "position": {
@@ -6127,7 +5767,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395134000,
         "name": "10079 - ANATOLE FRANCE / BARBUSSE",
         "number": 10079,
         "position": {
@@ -6144,7 +5783,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394985000,
         "name": "10080 - VAILLANT / PERRONCEL",
         "number": 10080,
         "position": {
@@ -6161,7 +5799,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395089000,
         "name": "10083 - CHATEAU GAILLARD / BIENVENUS",
         "number": 10083,
         "position": {
@@ -6178,7 +5815,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394641000,
         "name": "10084 - DOUA / AVENUE DES ARTS",
         "number": 10084,
         "position": {
@@ -6195,7 +5831,6 @@
         "bike_stands": 10,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394982000,
         "name": "10086 - ANATOLE FRANCE",
         "number": 10086,
         "position": {
@@ -6212,7 +5847,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394754000,
         "name": "10087 - BARATIN",
         "number": 10087,
         "position": {
@@ -6229,7 +5863,6 @@
         "bike_stands": 19,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395051000,
         "name": "10088 - 4 AO\u00dbT 1789 / PRESSENS\u00c9",
         "number": 10088,
         "position": {
@@ -6246,7 +5879,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394899000,
         "name": "10089 - COLIN / PERRONCEL",
         "number": 10089,
         "position": {
@@ -6263,7 +5895,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394751000,
         "name": "10091 - CH\u00c2TEAU GAILLARD / FORT",
         "number": 10091,
         "position": {
@@ -6280,7 +5911,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394935000,
         "name": "10092 - MONTGOLFIER / CHATEAU GAILLARD",
         "number": 10092,
         "position": {
@@ -6297,7 +5927,6 @@
         "bike_stands": 34,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395148000,
         "name": "10101 - EINSTEIN / 11 NOVEMBRE 1918",
         "number": 10101,
         "position": {
@@ -6314,7 +5943,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394608000,
         "name": "10102 - DOUA / GASTON BERGER",
         "number": 10102,
         "position": {
@@ -6331,7 +5959,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394821000,
         "name": "10103 - DOUA / RUE DES SPORTS",
         "number": 10103,
         "position": {
@@ -6348,7 +5975,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394994000,
         "name": "10110 - M\u00c9MOIRE ET SOCI\u00c9T\u00c9",
         "number": 10110,
         "position": {
@@ -6365,7 +5991,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394932000,
         "name": "10111 - CHARLES HERNU",
         "number": 10111,
         "position": {
@@ -6382,7 +6007,6 @@
         "bike_stands": 32,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394747000,
         "name": "10112 - PLACE DE LA RECONNAISSANCE",
         "number": 10112,
         "position": {
@@ -6399,7 +6023,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395030000,
         "name": "10113 - GARE DE VILLEURBANNE",
         "number": 10113,
         "position": {
@@ -6416,7 +6039,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394750000,
         "name": "10114 - BEL AIR / LES BROSSES",
         "number": 10114,
         "position": {
@@ -6433,7 +6055,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395018000,
         "name": "10115 - PLACE D'ESPAGNE / STADE KRUGER",
         "number": 10115,
         "position": {
@@ -6450,7 +6071,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394828000,
         "name": "10116 - BLUM / FAYS",
         "number": 10116,
         "position": {
@@ -6467,7 +6087,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394689000,
         "name": "10117 - LA PERRALI\u00c8RE",
         "number": 10117,
         "position": {
@@ -6484,7 +6103,6 @@
         "bike_stands": 22,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395163000,
         "name": "10118 - VOYANT / CHAMBFORT",
         "number": 10118,
         "position": {
@@ -6501,7 +6119,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394901000,
         "name": "10119 - VILLEURBANNE SAINT-JEAN",
         "number": 10119,
         "position": {
@@ -6518,7 +6135,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395157000,
         "name": "10120 - SALENGRO / DESCARTES",
         "number": 10120,
         "position": {
@@ -6535,7 +6151,6 @@
         "bike_stands": 16,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394871000,
         "name": "10121 - PARC DU CENTRE",
         "number": 10121,
         "position": {
@@ -6552,7 +6167,6 @@
         "bike_stands": 21,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394712000,
         "name": "10122 - VERDUN / DESGRAND",
         "number": 10122,
         "position": {
@@ -6569,7 +6183,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394982000,
         "name": "10123 - SAINT JEAN CANAL",
         "number": 10123,
         "position": {
@@ -6586,7 +6199,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394929000,
         "name": "10124 - SALENGRO / YVONNE",
         "number": 10124,
         "position": {
@@ -6603,7 +6215,6 @@
         "bike_stands": 16,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394883000,
         "name": "11001 - CALUIRE - GARE DE CUIRE",
         "number": 11001,
         "position": {
@@ -6620,7 +6231,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395174000,
         "name": "11002 - CALUIRE - SAINT-CLAIR",
         "number": 11002,
         "position": {
@@ -6637,7 +6247,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394784000,
         "name": "11003 - CALUIRE - LA ROCHETTE",
         "number": 11003,
         "position": {
@@ -6654,7 +6263,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395187000,
         "name": "11004 - CALUIRE - BRANLY / PASTEUR",
         "number": 11004,
         "position": {
@@ -6671,7 +6279,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394991000,
         "name": "11005 - CALUIRE - PASSERELLE DE LA PAIX",
         "number": 11005,
         "position": {
@@ -6688,7 +6295,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395051000,
         "name": "12001 - VAULX - LA SOIE",
         "number": 12001,
         "position": {
@@ -6705,7 +6311,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394920000,
         "name": "12002 - VAULX - POUDRETTE / LA SOIE",
         "number": 12002,
         "position": {
@@ -6722,7 +6327,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394999000,
         "name": "12003 - VAULX - BIBLIOTHEQUE",
         "number": 12003,
         "position": {
@@ -6739,7 +6343,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395011000,
         "name": "12004 - VAULX - H\u00d4TEL DE VILLE",
         "number": 12004,
         "position": {
@@ -6756,7 +6359,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394698000,
         "name": "12005 - VAULX - VILLAGE",
         "number": 12005,
         "position": {
@@ -6773,7 +6375,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395131000,
         "name": "13001 - DECINES - CENTRE",
         "number": 13001,
         "position": {
@@ -6790,7 +6391,6 @@
         "bike_stands": 13,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395039000,
         "name": "14001 - BRON - CENTRE NAUTIQUE",
         "number": 14001,
         "position": {
@@ -6807,7 +6407,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394734000,
         "name": "14003 - BRON - PLACE CURIAL",
         "number": 14003,
         "position": {
@@ -6824,7 +6423,6 @@
         "bike_stands": 23,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394762000,
         "name": "14004 - BRON - MAIRIE",
         "number": 14004,
         "position": {
@@ -6841,7 +6439,6 @@
         "bike_stands": 30,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394609000,
         "name": "14005 - BRON - UNIVERSITE",
         "number": 14005,
         "position": {
@@ -6858,7 +6455,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394984000,
         "name": "15001 - ST PRIEST - PARC TECHNOLOGIQUE",
         "number": 15001,
         "position": {
@@ -6875,7 +6471,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395097000,
         "name": "15002 - ST PRIEST - CITE BERLIET",
         "number": 15002,
         "position": {
@@ -6892,7 +6487,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395092000,
         "name": "16001 - VENISSIEUX - PLACE ROMAND",
         "number": 16001,
         "position": {
@@ -6909,7 +6503,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394944000,
         "name": "16002 - V\u00c9NISSIEUX - L\u00c9VY / VIENNE",
         "number": 16002,
         "position": {
@@ -6926,7 +6519,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394932000,
         "name": "16003 - V\u00c9NISSIEUX - JOLIOT CURIE / SEMBAT",
         "number": 16003,
         "position": {
@@ -6943,7 +6535,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394604000,
         "name": "16004 - VENISSIEUX PARILLY",
         "number": 16004,
         "position": {
@@ -6960,7 +6551,6 @@
         "bike_stands": 25,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394689000,
         "name": "16005 - VENISSIEUX - GARE",
         "number": 16005,
         "position": {
@@ -6977,7 +6567,6 @@
         "bike_stands": 27,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395092000,
         "name": "17001 - ST FONS - ARSENAL",
         "number": 17001,
         "position": {
@@ -6994,7 +6583,6 @@
         "bike_stands": 11,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394912000,
         "name": "17002 - ST FONS - 4 CHEMINS",
         "number": 17002,
         "position": {
@@ -7011,7 +6599,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395041000,
         "name": "17003 - ST FONS - THEATRE",
         "number": 17003,
         "position": {
@@ -7028,7 +6615,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394748000,
         "name": "18001 - PIERRE B\u00c9NITE - EUROPE",
         "number": 18001,
         "position": {
@@ -7045,7 +6631,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395065000,
         "name": "19001 - ST GENIS L. - M\u00c9DIATH\u00c8QUE",
         "number": 19001,
         "position": {
@@ -7062,7 +6647,6 @@
         "bike_stands": 40,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394916000,
         "name": "20001 - OULLINS - GARE",
         "number": 20001,
         "position": {
@@ -7079,7 +6663,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394709000,
         "name": "20002 - OULLINS - MAIRIE",
         "number": 20002,
         "position": {
@@ -7096,7 +6679,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394883000,
         "name": "20003 - OULLINS - PONT BLANC",
         "number": 20003,
         "position": {
@@ -7113,7 +6695,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394701000,
         "name": "21001 - LA MULATIERE - AQUARIUM",
         "number": 21001,
         "position": {
@@ -7130,7 +6711,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394853000,
         "name": "22001 - STE FOY - PLACE ST LUC",
         "number": 22001,
         "position": {
@@ -7147,7 +6727,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395044000,
         "name": "23001 - TASSIN - TUILERIES",
         "number": 23001,
         "position": {
@@ -7164,7 +6743,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394878000,
         "name": "24001 - ECULLY - MAIRIE",
         "number": 24001,
         "position": {
@@ -7181,7 +6759,6 @@
         "bike_stands": 12,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394896000,
         "name": "25001 - ST CYR",
         "number": 25001,
         "position": {
@@ -7198,7 +6775,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395100000,
         "name": "26001 - ST DIDIER",
         "number": 26001,
         "position": {
@@ -7215,7 +6791,6 @@
         "bike_stands": 24,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395116000,
         "name": "27001 - COLLONGES - GARE",
         "number": 27001,
         "position": {
@@ -7232,7 +6807,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394708000,
         "name": "28001 - FONTAINES S/S - QUAI SIMON",
         "number": 28001,
         "position": {
@@ -7249,7 +6823,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394909000,
         "name": "28002 - FONTAINES S/S - GAMBETTA",
         "number": 28002,
         "position": {
@@ -7266,7 +6839,6 @@
         "bike_stands": 12,
         "bonus": true,
         "contract_name": "lyon",
-        "last_update": 1678394650000,
         "name": "30001 - RILLIEUX - CANELLAS",
         "number": 30001,
         "position": {
@@ -7283,7 +6855,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394880000,
         "name": "30002 - RILLIEUX - LOUP PENDU",
         "number": 30002,
         "position": {
@@ -7300,7 +6871,6 @@
         "bike_stands": 17,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394747000,
         "name": "32001 - COUZON - CENTRE",
         "number": 32001,
         "position": {
@@ -7317,7 +6887,6 @@
         "bike_stands": 18,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678395073000,
         "name": "33001 - ALBIGNY - GARE",
         "number": 33001,
         "position": {
@@ -7334,7 +6903,6 @@
         "bike_stands": 20,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394925000,
         "name": "34001 - NEUVILLE - QUAI PASTEUR",
         "number": 34001,
         "position": {
@@ -7351,7 +6919,6 @@
         "bike_stands": 15,
         "bonus": false,
         "contract_name": "lyon",
-        "last_update": 1678394857000,
         "name": "34002 - NEUVILLE - STADE",
         "number": 34002,
         "position": {
