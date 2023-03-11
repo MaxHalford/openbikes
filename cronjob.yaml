@@ -1,3 +1,12 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  creationTimestamp: null
+  name: env-vars
+data:
+  github_token: ${GITHUB_TOKEN}
+  jcdecaux_api_key: ${JCDECAUX_API_KEY}
+---
 apiVersion: batch/v1
 kind: CronJob
 metadata:
@@ -14,11 +23,28 @@ spec:
           restartPolicy: OnFailure
           containers:
             - name: stations
-              image: ghcr.io/MaxHalford/openbikes:latest
+              image: ghcr.io/maxhalford/openbikes:latest
               imagePullPolicy: Always
               command:
                 - python
-                - /bin/fetch_stations.py --commit --push
+                - /code/fetch_stations.py
+                - --commit
+                - --push
+              resources:
+                limits:
+                  cpu: 100m
+                  memory: 50Mi
+              env:
+                - name: GITHUB_TOKEN
+                  valueFrom:
+                    secretKeyRef:
+                      name: env-vars
+                      key: github_token
+                - name: JCDECAUX_API_KEY
+                  valueFrom:
+                    secretKeyRef:
+                      name: env-vars
+                      key: jcdecaux_api_key
 ---
 apiVersion: batch/v1
 kind: CronJob
@@ -36,8 +62,20 @@ spec:
           restartPolicy: OnFailure
           containers:
             - name: weather
-              image: ghcr.io/MaxHalford/openbikes:latest
+              image: ghcr.io/maxhalford/openbikes:latest
               imagePullPolicy: Always
               command:
                 - python
-                - /bin/fetch_weather.py --commit --push
+                - /code/fetch_weather.py
+                - --commit
+                - --push
+              resources:
+                limits:
+                  cpu: 100m
+                  memory: 50Mi
+              env:
+                - name: GITHUB_TOKEN
+                  valueFrom:
+                    secretKeyRef:
+                      name: env-vars
+                      key: github_token

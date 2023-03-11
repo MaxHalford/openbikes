@@ -58,6 +58,15 @@ def main():
     here = pathlib.Path(__file__).parent
     cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
 
+    # Pull the latest changes from the remote
+    data_dir = here / "openbikes-data.git"
+    if not data_dir.exists():
+        pygit2.clone_repository(
+            "https://github.com/MaxHalford/openbikes-data", data_dir
+        )
+    repo = pygit2.Repository(data_dir)
+    repo.remotes["origin"].fetch()
+
     with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
         future_to_city = {
             executor.submit(

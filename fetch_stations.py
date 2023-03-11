@@ -62,12 +62,21 @@ def main():
     here = pathlib.Path(__file__).parent
     cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
 
+    # Pull the latest changes from the remote
+    data_dir = here / "openbikes-data.git"
+    if not data_dir.exists():
+        pygit2.clone_repository(
+            "https://github.com/MaxHalford/openbikes-data", data_dir
+        )
+    repo = pygit2.Repository(data_dir)
+    repo.remotes["origin"].fetch()
+
     with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
         future_to_city = {
             executor.submit(
                 tools.call_and_save,
                 func=city_funcs[city],
-                filename=here / "openbikes-data.git" / "stations" / f"{city}.json",
+                filename=data_dir / "stations" / f"{city}.json",
             ): city
             for city in cities
         }
@@ -81,7 +90,6 @@ def main():
             logging.exception(f"❌ {city}: {exc}")
 
     if args.commit:
-        repo = pygit2.Repository(here / "openbikes-data.git")
         index = repo.index
         for city in cities:
             index.add(f"stations/{city}.json")
