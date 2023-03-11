@@ -1,3 +1,4 @@
+import argparse
 import concurrent.futures
 import datetime as dt
 import pathlib
@@ -5,7 +6,7 @@ import functools
 import requests
 import tools
 import logging
-from git import Repo
+import pygit2
 
 locations = {
     "brisbane": (27.4698, 153.0251),
@@ -47,6 +48,13 @@ def fetch_weather(lat, lon):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--commit", default=False, action=argparse.BooleanOptionalAction
+    )
+    parser.add_argument("--push", default=False, action=argparse.BooleanOptionalAction)
+    args = parser.parse_args()
+
     here = pathlib.Path(__file__).parent
     cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
 
@@ -55,7 +63,7 @@ def main():
             executor.submit(
                 tools.call_and_save,
                 func=functools.partial(fetch_weather, *locations[city]),
-                filename=here / "data" / "weather" / f"{city}.json",
+                filename=here / "openbikes-data.git" / "weather" / f"{city}.json",
             ): city
             for city in cities
         }
@@ -68,11 +76,23 @@ def main():
         except Exception as exc:
             logging.exception(f"❌ {city}: {exc}")
 
-    repo = Repo(here)
-    repo.git.add(here / "data" / "weather")
-    repo.index.commit(
-        f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
-    )
+    if args.commit:
+        repo = pygit2.Repository(here / "openbikes-data.git")
+        index = repo.index
+        for city in cities:
+            index.add(f"weather/{city}.json")
+        index.write()
+        ref = repo.head.name
+        author = pygit2.Signature("foch47[bot]", "foch47[bot]@users.noreply.github.com")
+        committer = pygit2.Signature(
+            "foch47[bot]", "foch47[bot]@users.noreply.github.com"
+        )
+        message = f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
+        tree = index.write_tree()
+        parents = [repo.head.target]
+        repo.create_commit(ref, author, committer, message, tree, parents)
+        if args.push:
+            tools.push_to_origin(repo)
 
 
 if __name__ == "__main__":

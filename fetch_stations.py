@@ -67,7 +67,7 @@ def main():
             executor.submit(
                 tools.call_and_save,
                 func=city_funcs[city],
-                filename=here / "data" / "stations" / f"{city}.json",
+                filename=here / "openbikes-data.git" / "stations" / f"{city}.json",
             ): city
             for city in cities
         }
@@ -81,21 +81,22 @@ def main():
             logging.exception(f"❌ {city}: {exc}")
 
     if args.commit:
-        repo = pygit2.Repository(here)
+        repo = pygit2.Repository(here / "openbikes-data.git")
         index = repo.index
         for city in cities:
-            index.add((here / "data" / "stations" / f"{city}.json").relative_to(here))
+            index.add(f"stations/{city}.json")
         index.write()
-        ref = "HEAD"
-        author = pygit2.Signature("foch47", "foch47@authors.tld")
-        committer = pygit2.Signature("foch47", "foch47@committers.tld")
+        ref = repo.head.name
+        author = pygit2.Signature("foch47[bot]", "foch47[bot]@users.noreply.github.com")
+        committer = pygit2.Signature(
+            "foch47[bot]", "foch47[bot]@users.noreply.github.com"
+        )
         message = f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
         tree = index.write_tree()
-        parents = []
+        parents = [repo.head.target]
         repo.create_commit(ref, author, committer, message, tree, parents)
         if args.push:
-            origin = repo.remote(name="origin")
-            origin.push()
+            tools.push_to_origin(repo)
 
 
 if __name__ == "__main__":

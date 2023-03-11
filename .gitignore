@@ -2,3 +2,4 @@
 .venv
 /*.ipynb
 *.pyc
+*openbikes-data.git

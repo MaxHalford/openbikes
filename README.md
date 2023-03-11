@@ -14,6 +14,10 @@ pip install -r requirements.txt
 ```
 
 ```sh
+JCDECAUX_API_KEY=
+```
+
+```sh
 docker build . -t openbikes && docker run openbikes
 ```
 

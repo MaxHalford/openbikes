@@ -13,6 +13,6 @@ async def root():
 @app.get("/stations/{city}")
 async def get_stations(city):
     adapter = adapters.city_adapters[city]
-    with open(f"data/stations/{city}.json") as f:
+    with open(f"openbikes-data.git/stations/{city}.json") as f:
         raw = json.load(f)
     return [adapter(r).to_dict() for r in raw]
