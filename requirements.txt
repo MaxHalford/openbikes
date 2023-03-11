@@ -1,5 +1,5 @@
 fastapi
-gitpython
+pygit2
 python-dotenv
 requests
 uvicorn

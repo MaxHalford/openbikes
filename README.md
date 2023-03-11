@@ -13,6 +13,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+```sh
+docker build . -t openbikes && docker run openbikes
+```
+
 ### Running the API locally
 
 ```sh

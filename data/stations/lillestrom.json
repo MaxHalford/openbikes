@@ -49,7 +49,7 @@
     },
     {
         "address": "Br\u00f8tergata/Riksvei 120,Lillestr\u00f8m",
-        "available_bike_stands": 16,
+        "available_bike_stands": 17,
         "available_bikes": 0,
         "banking": true,
         "bike_stands": 20,
@@ -65,7 +65,7 @@
     },
     {
         "address": "C.J Hansensvei 3B,2007 Kjeller",
-        "available_bike_stands": 11,
+        "available_bike_stands": 12,
         "available_bikes": 0,
         "banking": true,
         "bike_stands": 20,

@@ -5,9 +5,9 @@ import logging
 import pathlib
 import functools
 import requests
-from git import Repo
 import os
 import tools
+import pygit2
 
 
 def jcdecaux(city):
@@ -53,8 +53,10 @@ city_funcs = {
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--commit', default=False, action=argparse.BooleanOptionalAction)
-    parser.add_argument('--push', default=False, action=argparse.BooleanOptionalAction)
+    parser.add_argument(
+        "--commit", default=False, action=argparse.BooleanOptionalAction
+    )
+    parser.add_argument("--push", default=False, action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
 
     here = pathlib.Path(__file__).parent
@@ -79,13 +81,20 @@ def main():
             logging.exception(f"❌ {city}: {exc}")
 
     if args.commit:
-        repo = Repo(here)
-        repo.git.add(here / "data" / "stations")
-        repo.index.commit(
-            f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
-        )
+        repo = pygit2.Repository(here)
+        index = repo.index
+        for city in cities:
+            index.add((here / "data" / "stations" / f"{city}.json").relative_to(here))
+        index.write()
+        ref = "HEAD"
+        author = pygit2.Signature("foch47", "foch47@authors.tld")
+        committer = pygit2.Signature("foch47", "foch47@committers.tld")
+        message = f"{pathlib.Path(__file__).name} — {dt.datetime.now().isoformat()}"
+        tree = index.write_tree()
+        parents = []
+        repo.create_commit(ref, author, committer, message, tree, parents)
         if args.push:
-            origin = repo.remote(name='origin')
+            origin = repo.remote(name="origin")
             origin.push()
 
 
