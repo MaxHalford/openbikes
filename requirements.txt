@@ -1,4 +1,5 @@
 fastapi
+jinja2
 pygit2
 python-dotenv
 requests

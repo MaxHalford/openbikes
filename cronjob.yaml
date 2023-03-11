@@ -15,6 +15,7 @@ metadata:
 spec:
   schedule: "*/5 * * * *" # Every 5 minutes
   startingDeadlineSeconds: 300 # 5 minutes
+  concurrencyPolicy: Replace
   jobTemplate:
     spec:
       template:
@@ -33,7 +34,7 @@ spec:
               resources:
                 limits:
                   cpu: 100m
-                  memory: 50Mi
+                  memory: 200Mi
               env:
                 - name: GITHUB_TOKEN
                   valueFrom:
@@ -54,6 +55,7 @@ metadata:
 spec:
   schedule: "0 * * * *" # Every 5 minutes
   startingDeadlineSeconds: 1800 # 30 minutes
+  concurrencyPolicy: Replace
   jobTemplate:
     spec:
       template:
@@ -72,7 +74,7 @@ spec:
               resources:
                 limits:
                   cpu: 100m
-                  memory: 50Mi
+                  memory: 200Mi
               env:
                 - name: GITHUB_TOKEN
                   valueFrom:

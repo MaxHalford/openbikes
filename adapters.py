@@ -1,26 +1,29 @@
 import dataclasses
 
+
 @dataclasses.dataclass
 class Station:
     name: str
     bikes_available: int
     docks_available: int
-    latitute: float
+    latitude: float
     longitude: float
     is_working: bool
 
     def to_dict(self):
         return dataclasses.asdict(self)
 
+
 def jcdecaux(raw):
     return Station(
         name=raw["name"],
         bikes_available=raw["available_bikes"],
         docks_available=raw["available_bike_stands"],
-        latitute=raw["position"]["lat"],
+        latitude=raw["position"]["lat"],
         longitude=raw["position"]["lng"],
         is_working=raw["status"] == "OPEN",
     )
+
 
 city_adapters = {
     "brisbane": jcdecaux,

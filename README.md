@@ -29,7 +29,7 @@ docker build . -t openbikes && docker run --env-file .env openbikes python /code
 ### Running the API locally
 
 ```sh
-uvicorn api:app --reload
+uvicorn app:app --reload
 ```
 
 ## Process for adding a city
@@ -38,6 +38,7 @@ uvicorn api:app --reload
 2. Add to `fetch_stations.py`
 3. Add to `fetch_weather.py`
 4. Add to `adapters.py`
+5. Add to `app.py`
 
 ## Deployment
 
