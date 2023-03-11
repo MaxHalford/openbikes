@@ -33,8 +33,8 @@
     },
     {
         "address": "Rue de la Madeleine- Face \u00e0 la rue de l'Ecole",
-        "available_bike_stands": 13,
-        "available_bikes": 2,
+        "available_bike_stands": 12,
+        "available_bikes": 3,
         "banking": true,
         "bike_stands": 15,
         "bonus": false,
@@ -145,8 +145,8 @@
     },
     {
         "address": "Place du 8 Septembre",
-        "available_bike_stands": 0,
-        "available_bikes": 15,
+        "available_bike_stands": 1,
+        "available_bikes": 14,
         "banking": true,
         "bike_stands": 15,
         "bonus": false,
@@ -321,8 +321,8 @@
     },
     {
         "address": "Avenue Fontaine Argent angle Bld Diderot",
-        "available_bike_stands": 8,
-        "available_bikes": 3,
+        "available_bike_stands": 7,
+        "available_bikes": 4,
         "banking": true,
         "bike_stands": 12,
         "bonus": false,
