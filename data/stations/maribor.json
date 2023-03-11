@@ -65,8 +65,8 @@
     },
     {
         "address": "Mladinska ulica 15",
-        "available_bike_stands": 13,
-        "available_bikes": 3,
+        "available_bike_stands": 15,
+        "available_bikes": 1,
         "banking": false,
         "bike_stands": 16,
         "bonus": false,
@@ -81,8 +81,8 @@
     },
     {
         "address": "Slom\u0161kov trg 10",
-        "available_bike_stands": 17,
-        "available_bikes": 3,
+        "available_bike_stands": 16,
+        "available_bikes": 4,
         "banking": false,
         "bike_stands": 20,
         "bonus": false,
@@ -305,8 +305,8 @@
     },
     {
         "address": "Pobre\u0161ka cesta 18",
-        "available_bike_stands": 0,
-        "available_bikes": 21,
+        "available_bike_stands": 2,
+        "available_bikes": 19,
         "banking": false,
         "bike_stands": 21,
         "bonus": false,
