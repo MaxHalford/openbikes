@@ -1,4 +1,5 @@
 import argparse
+import json
 import concurrent.futures
 import datetime as dt
 import pathlib
@@ -85,13 +86,17 @@ def main():
             for city in cities
         }
 
+    n_success = 0
+    n_exceptions = 0
     for future in concurrent.futures.as_completed(future_to_city):
         city = future_to_city[future]
         try:
             future.result()
+            n_success += 1
         except Exception as exc:
             logging.exception(f"{city}: {exc}")
-        logging.info(f"{n_success} fetched, {n_exceptions} exceptions")
+            n_exceptions += 1
+    logging.info(f"{n_success} fetched, {n_exceptions} exceptions")
 
     if args.commit:
         repo = pygit2.Repository(here / "openbikes-data.git")
