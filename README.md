@@ -24,6 +24,7 @@ JCDECAUX_API_KEY=
 
 ```sh
 docker build . -t openbikes && docker run --env-file .env openbikes python /code/fetch_stations.py
+docker build . -t openbikes && docker run --env-file .env openbikes python /code/fetch_weather.py
 ```
 
 ### Running the API locally

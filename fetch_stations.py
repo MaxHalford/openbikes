@@ -13,7 +13,7 @@ import pygit2
 def jcdecaux(city):
     api_key = os.environ["JCDECAUX_API_KEY"]
     url = f"https://api.jcdecaux.com/vls/v1/stations?contract={city}&apiKey={api_key}"
-    r = requests.get(url)
+    r = requests.get(url, timeout=10)
     r.raise_for_status()
     stations = r.json()
     for station in stations:
@@ -41,6 +41,12 @@ def gbfs(info_url, status_url):
 
 
 city_funcs = {
+    **{
+        city["city"]: functools.partial(
+            gbfs, city["information_url"], city["status_url"]
+        )
+        for city in tools.gbfs_apis
+    },
     "brisbane": functools.partial(jcdecaux, "brisbane"),
     "bruxelles": functools.partial(jcdecaux, "bruxelles"),
     "namur": functools.partial(jcdecaux, "namur"),

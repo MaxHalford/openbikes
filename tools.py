@@ -34,4 +34,5 @@ def list_cities():
     cities = set(
         (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
     )
+    cities |= {gbfs_api["city"] for gbfs_api in gbfs_apis[:50]}
     return cities

@@ -12,6 +12,7 @@ with open("gbfs_apis.json") as f:
     gbfs_apis = json.load(f)
 
 locations = {
+    **{city["city"]: (city["latitude"], city["longitude"]) for city in tools.gbfs_apis},
     "brisbane": (27.4698, 153.0251),
     "bruxelles": (50.8467, 4.3525),
     "namur": (50.4667, 4.8667),
@@ -47,7 +48,7 @@ locations = {
 
 def fetch_weather(lat, lon):
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&hourly=temperature_2m,rain,windspeed_10m&forecast_days=1"
-    r = requests.get(url)
+    r = requests.get(url, timeout=10)
     r.raise_for_status()
     weather = r.json()
     del weather["generationtime_ms"]

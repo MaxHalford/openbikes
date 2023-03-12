@@ -14,6 +14,7 @@ templates = Jinja2Templates(directory="templates")
 
 
 city_countries = {
+    **{city["city"]: city["country"] for city in tools.gbfs_apis},
     "brisbane": "au",
     "bruxelles": "be",
     "namur": "be",

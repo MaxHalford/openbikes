@@ -49,6 +49,7 @@ def gbfs(raw):
 
 
 city_adapters = {
+    **{city["city"]: gbfs for city in tools.gbfs_apis},
     "brisbane": jcdecaux,
     "bruxelles": jcdecaux,
     "namur": jcdecaux,
