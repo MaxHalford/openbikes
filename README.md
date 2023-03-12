@@ -16,8 +16,9 @@ pip install -r requirements.txt
 Create an `.env` file:
 
 ```sh
-GITHUB_TOKEN=
-JCDECAUX_API_KEY=
+GITHUB_TOKEN=<required>
+JCDECAUX_API_KEY=<required>
+DATA_DIR=<optional>
 ```
 
 ### Test the Docker image locally

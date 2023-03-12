@@ -66,3 +66,15 @@ def list_cities():
     cities |= {gbfs_api["city"] for gbfs_api in gbfs_apis[:100]}
     cities |= {"vancouver", "chattanooga", "dubai", "rio-de-janeiro"}
     return cities
+
+
+def dir_size(directory):
+    return sum(f.stat().st_size for f in directory.glob("**/*") if f.is_file())
+
+
+def sizeof_fmt(num, suffix="B"):
+    for unit in ["", "Ki", "Mi", "Gi", "Ti", "Pi", "Ei", "Zi"]:
+        if abs(num) < 1024.0:
+            return f"{num:3.1f}{unit}{suffix}"
+        num /= 1024.0
+    return f"{num:.1f}Yi{suffix}"

@@ -8,9 +8,8 @@ import requests
 import tools
 import logging
 import pygit2
-
-with open("gbfs_apis.json") as f:
-    gbfs_apis = json.load(f)
+import time
+import os
 
 locations = {
     **{city["city"]: (city["latitude"], city["longitude"]) for city in tools.gbfs_apis},
@@ -68,20 +67,23 @@ def main():
     cities = tools.list_cities()
 
     # Pull the latest changes from the remote
-    data_dir = here / "openbikes-data.git"
+    tic = time.time()
+    data_dir = here / os.environ["DATA_DIR"] / "openbikes-data"
     if not data_dir.exists():
         pygit2.clone_repository(
             "https://github.com/MaxHalford/openbikes-data", data_dir
         )
     repo = pygit2.Repository(data_dir)
     repo.remotes["origin"].fetch()
+    logging.info(f"Cloned and fetched in {time.time() - tic:.0f}s")
+    logging.info(f"Current size is {tools.sizeof_fmt(tools.dir_size(data_dir))}")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future_to_city = {
             executor.submit(
                 tools.call_and_save,
                 func=functools.partial(fetch_weather, *locations[city]),
-                filename=here / "openbikes-data.git" / "weather" / f"{city}.json",
+                filename=here / os.environ["DATA_DIR"] / "weather" / f"{city}.json",
             ): city
             for city in cities
         }
@@ -99,7 +101,7 @@ def main():
     logging.info(f"{n_success} fetched, {n_exceptions} exceptions")
 
     if args.commit:
-        repo = pygit2.Repository(here / "openbikes-data.git")
+        repo = pygit2.Repository(here / os.environ["DATA_DIR"])
         index = repo.index
         for city in cities:
             index.add(f"weather/{city}.json")

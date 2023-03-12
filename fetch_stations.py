@@ -8,6 +8,7 @@ import requests
 import os
 import tools
 import pygit2
+import time
 
 
 def jcdecaux(city):
@@ -85,13 +86,16 @@ def main():
     cities = tools.list_cities()
 
     # Pull the latest changes from the remote
-    data_dir = here / "openbikes-data.git"
+    tic = time.time()
+    data_dir = here / os.environ["DATA_DIR"] / "openbikes-data"
     if not data_dir.exists():
         pygit2.clone_repository(
             "https://github.com/MaxHalford/openbikes-data", data_dir
         )
     repo = pygit2.Repository(data_dir)
     repo.remotes["origin"].fetch()
+    logging.info(f"Cloned and fetched in {time.time() - tic:.0f}s")
+    logging.info(f"Current size is {tools.sizeof_fmt(tools.dir_size(data_dir))}")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future_to_city = {
