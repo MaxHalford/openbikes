@@ -15,17 +15,6 @@ class Station:
         return dataclasses.asdict(self)
 
 
-def brisbane(raw):
-    return Station(
-        name=raw["name"],
-        bikes_available=raw["num_bikes_available"],
-        docks_available=raw["num_docks_available"],
-        latitude=raw["lat"],
-        longitude=raw["lon"],
-        is_working=raw["is_installed"] == 1 and raw["is_renting"] == 1,
-    )
-
-
 def jcdecaux(raw):
     return Station(
         name=raw["name"],
