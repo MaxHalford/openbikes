@@ -1,4 +1,5 @@
 import dataclasses
+import tools
 
 
 @dataclasses.dataclass
@@ -14,6 +15,17 @@ class Station:
         return dataclasses.asdict(self)
 
 
+def brisbane(raw):
+    return Station(
+        name=raw["name"],
+        bikes_available=raw["num_bikes_available"],
+        docks_available=raw["num_docks_available"],
+        latitude=raw["lat"],
+        longitude=raw["lon"],
+        is_working=raw["is_installed"] == 1 and raw["is_renting"] == 1,
+    )
+
+
 def jcdecaux(raw):
     return Station(
         name=raw["name"],
@@ -22,6 +34,17 @@ def jcdecaux(raw):
         latitude=raw["position"]["lat"],
         longitude=raw["position"]["lng"],
         is_working=raw["status"] == "OPEN",
+    )
+
+
+def gbfs(raw):
+    return Station(
+        name=raw["information"]["name"],
+        bikes_available=raw["status"]["num_bikes_available"],
+        docks_available=raw["status"]["num_docks_available"],
+        latitude=raw["information"]["lat"],
+        longitude=raw["information"]["lon"],
+        is_working=bool(raw["information"]["is_renting"]),
     )
 
 
@@ -52,4 +75,8 @@ city_adapters = {
     "lund": jcdecaux,
     "stockholm": jcdecaux,
     "ljubljana": jcdecaux,
+    "chattanooga": gbfs,
+    "dubai": gbfs,
+    "vancouver": gbfs,
+    "rio-de-janeiro": gbfs,
 }

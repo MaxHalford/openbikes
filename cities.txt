@@ -24,3 +24,7 @@ valence
 lund
 stockholm
 ljubljana
+vancouver
+chattanooga
+dubai
+rio-de-janeiro

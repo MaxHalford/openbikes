@@ -21,6 +21,25 @@ def jcdecaux(city):
     return sorted(stations, key=lambda x: x["number"])
 
 
+def gbfs(info_url, status_url):
+    r = requests.get(info_url)
+    r.raise_for_status()
+    information = {s["station_id"]: s for s in r.json()["data"]["stations"]}
+    r = requests.get(status_url)
+    r.raise_for_status()
+    statuses = {s["station_id"]: s for s in r.json()["data"]["stations"]}
+    stations = [
+        {
+            "information": information[station_id],
+            "status": statuses[station_id],
+        }
+        for station_id in information
+    ]
+    for station in stations:
+        del station["status"]["last_reported"]
+    return stations
+
+
 city_funcs = {
     "brisbane": functools.partial(jcdecaux, "brisbane"),
     "bruxelles": functools.partial(jcdecaux, "bruxelles"),
@@ -48,6 +67,26 @@ city_funcs = {
     "lund": functools.partial(jcdecaux, "lund"),
     "stockholm": functools.partial(jcdecaux, "stockholm"),
     "ljubljana": functools.partial(jcdecaux, "ljubljana"),
+    "chattanooga": functools.partial(
+        gbfs,
+        "https://chattanooga.publicbikesystem.net/customer/gbfs/v2/en/station_information.json",
+        "https://chattanooga.publicbikesystem.net/customer/gbfs/v2/en/station_status.json",
+    ),
+    "dubai": functools.partial(
+        gbfs,
+        "https://dubai.publicbikesystem.net/customer/gbfs/v2/en/station_information.json",
+        "https://dubai.publicbikesystem.net/customer/gbfs/v2/en/station_status.json",
+    ),
+    "vancouver": functools.partial(
+        gbfs,
+        "https://gbfs.hopr.city/api/gbfs/13/station_information",
+        "https://gbfs.hopr.city/api/gbfs/13/station_status",
+    ),
+    "rio-de-janeiro": functools.partial(
+        gbfs,
+        "https://riodejaneiro-br.publicbikesystem.net/customer/gbfs/v2/en/station_information",
+        "https://riodejaneiro-br.publicbikesystem.net/customer/gbfs/v2/en/station_status",
+    ),
 }
 
 
@@ -60,7 +99,7 @@ def main():
     args = parser.parse_args()
 
     here = pathlib.Path(__file__).parent
-    cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
+    cities = tools.list_cities()
 
     # Pull the latest changes from the remote
     data_dir = here / "openbikes-data.git"
@@ -71,7 +110,7 @@ def main():
     repo = pygit2.Repository(data_dir)
     repo.remotes["origin"].fetch()
 
-    with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future_to_city = {
             executor.submit(
                 tools.call_and_save,
@@ -81,13 +120,17 @@ def main():
             for city in cities
         }
 
+    n_success = 0
+    n_exceptions = 0
     for future in concurrent.futures.as_completed(future_to_city):
         city = future_to_city[future]
         try:
             future.result()
-            logging.info(f"✅ {city}")
+            n_success += 1
         except Exception as exc:
-            logging.exception(f"❌ {city}: {exc}")
+            logging.exception(f"{city}: {exc}")
+            n_exceptions += 1
+    logging.info(f"{n_success} fetched, {n_exceptions} exceptions")
 
     if args.commit:
         index = repo.index

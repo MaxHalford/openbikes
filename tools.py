@@ -1,4 +1,5 @@
 import json
+import pathlib
 import logging
 import os
 import dotenv
@@ -22,3 +23,15 @@ def push_to_origin(repo):
     remote.credentials = credentials
     callbacks = pygit2.RemoteCallbacks(credentials=credentials)
     remote.push(["refs/heads/master"], callbacks=callbacks)
+
+
+here = pathlib.Path(__file__).parent
+with open(here / "gbfs_apis.json") as f:
+    gbfs_apis = json.load(f)
+
+
+def list_cities():
+    cities = set(
+        (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
+    )
+    return cities

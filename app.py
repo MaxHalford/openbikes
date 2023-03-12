@@ -1,3 +1,4 @@
+import flag
 import json
 import pathlib
 import statistics
@@ -5,52 +6,44 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 import adapters
+import tools
+import pycountry
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
 
 city_countries = {
-    "brisbane": "australia",
-    "bruxelles": "belgium",
-    "namur": "belgium",
-    "santander": "spain",
-    "amiens": "france",
-    "cergy-pontoise": "france",
-    "creteil": "france",
-    "lyon": "france",
-    "marseille": "france",
-    "mulhouse": "france",
-    "nancy": "france",
-    "nantes": "france",
-    "rouen": "france",
-    "toulouse": "france",
-    "dublin": "ireland",
-    "toyama": "japan",
-    "vilnius": "lithuania",
-    "luxembourg": "luxembourg",
-    "lillestrom": "norway",
-    "besancon": "france",
-    "maribor": "slovenia",
-    "seville": "spain",
-    "valence": "spain",
-    "lund": "sweden",
-    "stockholm": "sweden",
-    "ljubljana": "slovenia",
-}
-
-country_flags = {
-    "australia": "🇦🇺",
-    "belgium": "🇧🇪",
-    "spain": "🇪🇸",
-    "france": "🇫🇷",
-    "ireland": "🇮🇪",
-    "japan": "🇯🇵",
-    "lithuania": "🇱🇹",
-    "luxembourg": "🇱🇺",
-    "norway": "🇳🇴",
-    "slovenia": "🇸🇮",
-    "sweden": "🇸🇪",
+    "brisbane": "au",
+    "bruxelles": "be",
+    "namur": "be",
+    "santander": "es",
+    "amiens": "fr",
+    "cergy-pontoise": "fr",
+    "creteil": "fr",
+    "lyon": "fr",
+    "marseille": "fr",
+    "mulhouse": "fr",
+    "nancy": "fr",
+    "nantes": "fr",
+    "rouen": "fr",
+    "toulouse": "fr",
+    "dublin": "ie",
+    "toyama": "jp",
+    "vilnius": "lt",
+    "luxembourg": "lu",
+    "lillestrom": "no",
+    "besancon": "fr",
+    "maribor": "si",
+    "seville": "es",
+    "valence": "es",
+    "lund": "se",
+    "stockholm": "se",
+    "ljubljana": "si",
+    "chattanooga": "us",
+    "dubai": "ae",
+    "vancouver": "ca",
+    "rio-de-janeiro": "br",
 }
 
 
@@ -59,23 +52,24 @@ async def root(request: Request):
     cities = [
         {
             "slug": city,
-            "city": city.title(),
-            "country": city_countries[city].title(),
-            "flag": country_flags[city_countries[city]],
+            "city": {"rio-de-janeiro": "Rio de Janeiro"}.get(city, city.title()),
+            "country": pycountry.countries.lookup(city_countries[city].upper()).name,
+            "flag": flag.flag(city_countries[city]),
         }
-        for city in (pathlib.Path(__file__).parent / "cities.txt")
-        .read_text()
-        .splitlines()
+        for city in tools.list_cities()
     ]
+    print(len(tools.gbfs_apis))
     cities = sorted(cities, key=lambda c: (c["country"], c["city"]))
+    for i, city in enumerate(cities, start=1):
+        city["number"] = str(i).zfill(3)
     return templates.TemplateResponse(
         "index.html",
         {"request": request, "cities": cities},
     )
 
 
-@app.get("/live/{city}")
-async def live(city):
+@app.get("/latest/{city}")
+async def latest(city):
     adapter = adapters.city_adapters[city]
     with open(f"openbikes-data.git/stations/{city}.json") as f:
         raw = json.load(f)

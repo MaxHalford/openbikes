@@ -1,6 +1,10 @@
+emoji-country-flag
 fastapi
 jinja2
+pycountry
 pygit2
 python-dotenv
+python-slugify
 requests
+tqdm
 uvicorn

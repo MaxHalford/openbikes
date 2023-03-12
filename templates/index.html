@@ -5,16 +5,16 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500&display=swap" rel="stylesheet">
-
 </head>
 <body>
 <h1>OpenBikes 🚲</h1>
 <table>
 {% for city in cities %}
 <tr>
+    <td style="padding-right: 24px;">{{ city['number'] }}</td>
     <td style="padding-right: 24px;">{{ city['flag'] }} {{ city['country'] }}</td>
     <td style="padding-right: 24px;">{{ city['city'] }}</td>
-    <td>(<a href="{{ url_for('live', city=city['slug']) }}">live</a>)</td>
+    <td><a href="{{ url_for('latest', city=city['slug']) }}">Latest</a></td>
 </tr>
 {% endfor %}
 </table>
@@ -22,7 +22,7 @@
 </html>
 
 <style>
-    body {
-        font-family: 'Golos Text', sans-serif;
-    }
+body {
+    font-family: 'Golos Text', sans-serif;
+}
 </style>

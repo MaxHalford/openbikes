@@ -32,13 +32,19 @@ docker build . -t openbikes && docker run --env-file .env openbikes python /code
 uvicorn app:app --reload
 ```
 
-## Process for adding a city
+## Adding more cities
 
-1. Add to `cities.txt`
-2. Add to `fetch_stations.py`
-3. Add to `fetch_weather.py`
-4. Add to `adapters.py`
-5. Add to `app.py`
+### Refreshing GBFS APIs
+
+More and more APIs support the (wonderful) [GBFS](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy-in-europe/) [standard](https://gbfs.mobilitydata.org/). Running the `discover_gbfs_apis.py` script will refresh that list.
+
+### Manually adding a city
+
+1. Edit `cities.txt`
+2. Edit `fetch_stations.py`
+3. Edit `fetch_weather.py`
+4. Edit `adapters.py`
+5. Edit `app.py`
 
 ## Deployment
 

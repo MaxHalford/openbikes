@@ -8,6 +8,9 @@ import tools
 import logging
 import pygit2
 
+with open("gbfs_apis.json") as f:
+    gbfs_apis = json.load(f)
+
 locations = {
     "brisbane": (27.4698, 153.0251),
     "bruxelles": (50.8467, 4.3525),
@@ -35,6 +38,10 @@ locations = {
     "lund": (55.7031, 13.1937),
     "stockholm": (59.3293, 18.0686),
     "ljubljana": (46.0514, 14.5050),
+    "chattanooga": (35.0456, -85.3097),
+    "dubai": (25.2048, 55.2708),
+    "vancouver": (49.2827, -123.1207),
+    "rio-de-janeiro": (-22.9068, -43.1729),
 }
 
 
@@ -56,7 +63,7 @@ def main():
     args = parser.parse_args()
 
     here = pathlib.Path(__file__).parent
-    cities = (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
+    cities = tools.list_cities()
 
     # Pull the latest changes from the remote
     data_dir = here / "openbikes-data.git"
@@ -67,7 +74,7 @@ def main():
     repo = pygit2.Repository(data_dir)
     repo.remotes["origin"].fetch()
 
-    with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         future_to_city = {
             executor.submit(
                 tools.call_and_save,
@@ -81,9 +88,9 @@ def main():
         city = future_to_city[future]
         try:
             future.result()
-            logging.info(f"✅ {city}")
         except Exception as exc:
-            logging.exception(f"❌ {city}: {exc}")
+            logging.exception(f"{city}: {exc}")
+        logging.info(f"{n_success} fetched, {n_exceptions} exceptions")
 
     if args.commit:
         repo = pygit2.Repository(here / "openbikes-data.git")
