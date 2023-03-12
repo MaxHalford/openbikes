@@ -59,7 +59,6 @@ async def root(request: Request):
         }
         for city in tools.list_cities()
     ]
-    print(len(tools.gbfs_apis))
     cities = sorted(cities, key=lambda c: (c["country"], c["city"]))
     for i, city in enumerate(cities, start=1):
         city["number"] = str(i).zfill(3)

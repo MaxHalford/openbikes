@@ -30,9 +30,39 @@ with open(here / "gbfs_apis.json") as f:
     gbfs_apis = json.load(f)
 
 
+def list_jcdecaux_cities():
+    return {
+        "brisbane",
+        "bruxelles",
+        "namur",
+        "santander",
+        "amiens",
+        "cergy-pontoise",
+        "creteil",
+        "lyon",
+        "marseille",
+        "mulhouse",
+        "nancy",
+        "nantes",
+        "rouen",
+        "toulouse",
+        "dublin",
+        "toyama",
+        "vilnius",
+        "luxembourg",
+        "lillestrom",
+        "besancon",
+        "maribor",
+        "seville",
+        "valence",
+        "lund",
+        "stockholm",
+        "ljubljana",
+    }
+
+
 def list_cities():
-    cities = set(
-        (pathlib.Path(__file__).parent / "cities.txt").read_text().splitlines()
-    )
+    cities = list_jcdecaux_cities()
     cities |= {gbfs_api["city"] for gbfs_api in gbfs_apis[:100]}
+    cities |= {"vancouver", "chattanooga", "dubai", "rio-de-janeiro"}
     return cities

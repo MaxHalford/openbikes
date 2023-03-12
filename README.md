@@ -41,7 +41,7 @@ More and more APIs support the (wonderful) [GBFS](https://mobilitydata.org/gbfs-
 
 ### Manually adding a city
 
-1. Edit `cities.txt`
+1. Edit `list_cities` in `tools.py`
 2. Edit `fetch_stations.py`
 3. Edit `fetch_weather.py`
 4. Edit `adapters.py`
